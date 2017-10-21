@@ -7,15 +7,15 @@
       "REST Web Services"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Яков Файн",
+          "creator": "РЇРєРѕРІ Р¤Р°Р№РЅ",
           "title": "EJB",
-          "section": "Обратите вниммание на видео Введние в JPA(Начало с 46:30)",
+          "section": "РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјРјР°РЅРёРµ РЅР° РІРёРґРµРѕ Р’РІРµРґРЅРёРµ РІ JPA(РќР°С‡Р°Р»Рѕ СЃ 46:30)",
           "url": "https://www.youtube.com/watch?v=e3L-43nxAtM"
         },
         {
-          "creator": "Ткач Юрий",
+          "creator": "РўРєР°С‡ Р®СЂРёР№",
           "title": "JPA",
           "url": "https://www.youtube.com/watch?v=r8SlsJjmm8o",
           "isAdvised": true
@@ -27,22 +27,22 @@
           "isAdvised": true
         },
         {
-          "creator": "Технопарк Mail.ru Group",
-          "title": "Инструменты, Servlet API",
+          "creator": "РўРµС…РЅРѕРїР°СЂРє Mail.ru Group",
+          "title": "РРЅСЃС‚СЂСѓРјРµРЅС‚С‹, Servlet API",
           "url": "https://www.youtube.com/watch?v=suq_phQsOck",
           "isAdvised": true
         },
         {
           "creator": "Telusko Learnings",
           "title": "Servlets API",
-          "sections": "Весь плейлист",
+          "sections": "Р’РµСЃСЊ РїР»РµР№Р»РёСЃС‚",
           "url": "https://www.youtube.com/watch?v=7TOmdDJc14s&list=PLsyeobzWxl7oGCz4k9VyxhfmQpSU1dV9b",
           "isEnglish": true
         },
         {
           "creator": "Java Brains",
           "title": "REST Web Services",
-          "sections": "Весь плейлист",
+          "sections": "Р’РµСЃСЊ РїР»РµР№Р»РёСЃС‚",
           "url": "https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn",
           "isAdvised": true,
           "isEnglish": true
@@ -55,7 +55,7 @@
           "isEnglish": true
         }
       ],
-      "Документация": [
+      "Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ": [
         {
           "creator": "Oracle America, Inc.",
           "title": "The Java EE 6 Tutorial",
@@ -67,58 +67,58 @@
         {
           "creator": "Oracle America, Inc.",
           "title": "Java EE Specification",
-          "sections": "EE.5.5 Enterprise JavaBeans™ (EJB) References",
+          "sections": "EE.5.5 Enterprise JavaBeansв„ў (EJB) References",
           "url": "https://jcp.org/aboutJava/communityprocess/final/jsr366/index.html",
           "isAdvanced": true,
           "isEnglish": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Дебу Панда и другие",
-          "title": "EJB 3 в действии",
+          "creator": "Р”РµР±Сѓ РџР°РЅРґР° Рё РґСЂСѓРіРёРµ",
+          "title": "EJB 3 РІ РґРµР№СЃС‚РІРёРё",
           "url": "https://www.ozon.ru/context/detail/id/29899778/",
           "isNotFree": true,
           "isAdvised": true
         },
         {
-          "creator": "Арун Гупта",
-          "title": "Изучаем Java EE 7",
-          "sections": "Глава 4, 8",
+          "creator": "РђСЂСѓРЅ Р“СѓРїС‚Р°",
+          "title": "РР·СѓС‡Р°РµРј Java EE 7",
+          "sections": "Р“Р»Р°РІР° 4, 8",
           "url": "http://www.ozon.ru/context/detail/id/27933274/",
           "isNotFree": true
         },
         {
-          "creator": "Энтони Гонсалвес",
-          "title": "Java EE 7. Основы",
-          "sections": "Глава 4. Java Persistence API",
+          "creator": "Р­РЅС‚РѕРЅРё Р“РѕРЅСЃР°Р»РІРµСЃ",
+          "title": "Java EE 7. РћСЃРЅРѕРІС‹",
+          "sections": "Р“Р»Р°РІР° 4. Java Persistence API",
           "url": "http://www.ozon.ru/context/detail/id/27663406/",
           "isNotFree": true,
           "isAdvised": true
         },
         {
-          "creator": "Дэвид Хеффельфингер",
-          "title": "Java EE 6 и сервер приложений GlassFish 3",
-          "sections": "Глава 2. Разработка и развертывание сервлета",
+          "creator": "Р”СЌРІРёРґ РҐРµС„С„РµР»СЊС„РёРЅРіРµСЂ",
+          "title": "Java EE 6 Рё СЃРµСЂРІРµСЂ РїСЂРёР»РѕР¶РµРЅРёР№ GlassFish 3",
+          "sections": "Р“Р»Р°РІР° 2. Р Р°Р·СЂР°Р±РѕС‚РєР° Рё СЂР°Р·РІРµСЂС‚С‹РІР°РЅРёРµ СЃРµСЂРІР»РµС‚Р°",
           "url": "http://www.ozon.ru/context/detail/id/20041033/",
           "isNotFree": true
         },
         {
-          "creator": "Брайн Бэшам, Кэти Сиерра, Берт Бейтс",
+          "creator": "Р‘СЂР°Р№РЅ Р‘СЌС€Р°Рј, РљСЌС‚Рё РЎРёРµСЂСЂР°, Р‘РµСЂС‚ Р‘РµР№С‚СЃ",
           "title": "Head First Servlets and JSP",
           "url": "https://www.ozon.ru/context/detail/id/4006546/",
           "isNotFree": true,
           "isEnglish": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Java-online",
           "title": "EJB",
           "url": "http://java-online.ru/ejb.xhtml"
         },
         {
-          "creator": "ИНТУИТ",
+          "creator": "РРќРўРЈРРў",
           "title": "EJB",
           "url": "http://www.intuit.ru/studies/courses/633/489/lecture/24847"
         },
@@ -146,7 +146,7 @@
           "url": "http://www.technerium.ru/stati/izuchaem-jsp-i-servlets-chast-2-osnovy-servletov"
         },
         {
-          "creator": "Алекс Родригес, инженер-программист, IBM",
+          "creator": "РђР»РµРєСЃ Р РѕРґСЂРёРіРµСЃ, РёРЅР¶РµРЅРµСЂ-РїСЂРѕРіСЂР°РјРјРёСЃС‚, IBM",
           "title": "REST Web Services",
           "url": "https://www.ibm.com/developerworks/ru/library/ws-restfu/",
           "isAdvised": true
