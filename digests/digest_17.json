@@ -1,115 +1,115 @@
 {
     "topics": [
       "git",
-      "установка",
-      "состояние",
-      "коммит",
-      "индексация",
-      "история"
+      "СѓСЃС‚Р°РЅРѕРІРєР°",
+      "СЃРѕСЃС‚РѕСЏРЅРёРµ",
+      "РєРѕРјРјРёС‚",
+      "РёРЅРґРµРєСЃР°С†РёСЏ",
+      "РёСЃС‚РѕСЂРёСЏ"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
           "creator": "Devcolibri",
-          "sections": "с 0 по 8 урок",
-          "title": "Все необходимые темы",
+          "sections": "СЃ 0 РїРѕ 8 СѓСЂРѕРє",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR",
           "isAdvised": true
         },
         {
           "creator": "Loftblog",
-          "title": "Все необходимые темы, github",
-          "sections": "с 1 по 3 урок",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹, github",
+          "sections": "СЃ 1 РїРѕ 3 СѓСЂРѕРє",
           "url": "https://www.youtube.com/watch?v=PEKN8NtBDQ0"
         },
         {
-          "creator": "Гоша Дударь",
-          "title": "Все необходимые темы, github",
+          "creator": "Р“РѕС€Р° Р”СѓРґР°СЂСЊ",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹, github",
           "url": "https://www.youtube.com/watch?v=JfpCicDUMKc"
         },
         {
           "creator": "Web Developer Blog",
-          "title": "Git vs Github: разница",
+          "title": "Git vs Github: СЂР°Р·РЅРёС†Р°",
           "url": "https://www.youtube.com/watch?v=U82dUchVroc"
         },
         {
-          "creator": "Дмитрий Афанасьев",
-          "title": "Все необходимые темы, github",
-          "sections": "с 1 по 7 урок",
+          "creator": "Р”РјРёС‚СЂРёР№ РђС„Р°РЅР°СЃСЊРµРІ",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹, github",
+          "sections": "СЃ 1 РїРѕ 7 СѓСЂРѕРє",
           "url": "https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g"
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Бен Линн",
-          "title": "Магия Git",
-          "sections": "с 1 по 3 раздел",
+          "creator": "Р‘РµРЅ Р›РёРЅРЅ",
+          "title": "РњР°РіРёСЏ Git",
+          "sections": "СЃ 1 РїРѕ 3 СЂР°Р·РґРµР»",
           "url": "https://web.archive.org/web/20141226210730/https://dl.dropboxusercontent.com/u/281916/delete/book.pdf"
         },
         {
-          "creator": "Скотт Шакон",
+          "creator": "РЎРєРѕС‚С‚ РЁР°РєРѕРЅ",
           "title": "Pro Git",
-          "sections": "раздел 1 по 2",
+          "sections": "СЂР°Р·РґРµР» 1 РїРѕ 2",
           "url": "https://cloud.github.com/downloads/GArik/progit/progit.ru.pdf"
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Devcolibri",
-          "title": "Введение",
+          "title": "Р’РІРµРґРµРЅРёРµ",
           "url": "http://devcolibri.com/1353"
         },
         {
           "creator": "Git-scm",
-          "title": "Все необходимые темы",
-          "sections": "раздел 1 по 2",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЂР°Р·РґРµР» 1 РїРѕ 2",
           "url": "https://git-scm.com/book/ru/v2"
         },
         {
           "creator": "Stanford.edu",
-          "title": "Все необходимые темы",
-          "sections": "с 1 по 3 раздел",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЃ 1 РїРѕ 3 СЂР°Р·РґРµР»",
           "url": "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html"
         },
         {
           "creator": "GitHowTo",
-          "title": "Все необходимые темы",
-          "sections": "с 1 по 23 урок",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЃ 1 РїРѕ 23 СѓСЂРѕРє",
           "url": "https://githowto.com/ru",
           "isAdvised": true
         },
         {
           "creator": "Git Tutorial",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://git-scm.com/docs/gittutorial",
           "isEnglish": true
         }
       ],
-      "Полезные ссылки": [
+      "РџРѕР»РµР·РЅС‹Рµ СЃСЃС‹Р»РєРё": [
         {
           "creator": "Git wiki",
-          "title": "Официальная энциклопедия по Git",
+          "title": "РћС„РёС†РёР°Р»СЊРЅР°СЏ СЌРЅС†РёРєР»РѕРїРµРґРёСЏ РїРѕ Git",
           "url": "https://git.wiki.kernel.org/index.php/Main_Page"
         },
         {
           "creator": "Atlassian",
-          "title": "Изучение git с bitbucket",
+          "title": "РР·СѓС‡РµРЅРёРµ git СЃ bitbucket",
           "url": "https://www.atlassian.com/git",
           "isEnglish": true
         }
       ],
-      "Интерактивные сервисы": [
+      "РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Рµ СЃРµСЂРІРёСЃС‹": [
         {
           "creator": "Try Git",
-          "title": "Все необходимые темы",
-          "sections": "с 1 по 17 урок",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЃ 1 РїРѕ 17 СѓСЂРѕРє",
           "url": "https://try.github.io/levels/1/challenges/1",
           "isEnglish": true,
           "isAdvised": true
         },
         {
           "creator": "Onlywei",
-          "title": "Визуализация основных операций",
+          "title": "Р’РёР·СѓР°Р»РёР·Р°С†РёСЏ РѕСЃРЅРѕРІРЅС‹С… РѕРїРµСЂР°С†РёР№",
           "url": "https://onlywei.github.io/explain-git-with-d3/",
           "isEnglish": true
         }
