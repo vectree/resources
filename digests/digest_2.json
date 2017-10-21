@@ -1,147 +1,147 @@
 {
     "topics": [
-      "обработка исключений",
-      "ООП",
+      "РѕР±СЂР°Р±РѕС‚РєР° РёСЃРєР»СЋС‡РµРЅРёР№",
+      "РћРћРџ",
       "Enum",
-      "строки",
-      "ввод-вывод"
+      "СЃС‚СЂРѕРєРё",
+      "РІРІРѕРґ-РІС‹РІРѕРґ"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Сергей Немчинский",
-          "sections": "лекции с 3 по 4",
-          "title": "ООП, JVM, уровни доступа",
+          "creator": "РЎРµСЂРіРµР№ РќРµРјС‡РёРЅСЃРєРёР№",
+          "sections": "Р»РµРєС†РёРё СЃ 3 РїРѕ 4",
+          "title": "РћРћРџ, JVM, СѓСЂРѕРІРЅРё РґРѕСЃС‚СѓРїР°",
           "url": "https://www.youtube.com/watch?v=9GdtWiovvIQ&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=1"
         },
         {
-          "creator": "Юрий Ткач",
-          "sections": "лекции с 3 по 9",
-          "title": "ООП, Enum, String, исключения",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
+          "sections": "Р»РµРєС†РёРё СЃ 3 РїРѕ 9",
+          "title": "РћРћРџ, Enum, String, РёСЃРєР»СЋС‡РµРЅРёСЏ",
           "url": "https://www.youtube.com/watch?v=lGQxeGiqmKU&list=SPB0276A0A62BDEF06&index=3"
         },
         {
-          "creator": "Алексей Владыкин",
-          "title": "ООП, исключения, ввод-вывод",
-          "sections": "лекции с 4 по 6",
+          "creator": "РђР»РµРєСЃРµР№ Р’Р»Р°РґС‹РєРёРЅ",
+          "title": "РћРћРџ, РёСЃРєР»СЋС‡РµРЅРёСЏ, РІРІРѕРґ-РІС‹РІРѕРґ",
+          "sections": "Р»РµРєС†РёРё СЃ 4 РїРѕ 6",
           "url": "https://www.youtube.com/watch?v=3sUS02uoKkk",
           "isAdvanced": true
         },
         {
-          "creator": "Георгий Корнеев",
-          "sections": "лекции с 2 по 6",
-          "title": "ООП, исключения, ввод-вывод",
+          "creator": "Р“РµРѕСЂРіРёР№ РљРѕСЂРЅРµРµРІ",
+          "sections": "Р»РµРєС†РёРё СЃ 2 РїРѕ 6",
+          "title": "РћРћРџ, РёСЃРєР»СЋС‡РµРЅРёСЏ, РІРІРѕРґ-РІС‹РІРѕРґ",
           "url": "https://www.youtube.com/watch?v=1XDaOCVM-Q4",
           "isAdvanced": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Герберт Шилдт",
-          "title": "Java 8. Руководство для начинающих",
-          "sections": "с 6 по 15 главу",
+          "creator": "Р“РµСЂР±РµСЂС‚ РЁРёР»РґС‚",
+          "title": "Java 8. Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…",
+          "sections": "СЃ 6 РїРѕ 15 РіР»Р°РІСѓ",
           "url": "https://www.ozon.ru/context/detail/id/31249554/",
           "isNotFree": true
         },
         {
-          "creator": "Кей Хорстманн",
-          "title": "Java. Библиотека профессионала",
+          "creator": "РљРµР№ РҐРѕСЂСЃС‚РјР°РЅРЅ",
+          "title": "Java. Р‘РёР±Р»РёРѕС‚РµРєР° РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»Р°",
           "url": "https://www.ozon.ru/context/detail/id/25151213/",
           "isNotFree": true
         },
         {
-          "creator": "Кэти Сиерра, Берт Бейтс",
-          "title": "Head First: Изучаем Java",
+          "creator": "РљСЌС‚Рё РЎРёРµСЂСЂР°, Р‘РµСЂС‚ Р‘РµР№С‚СЃ",
+          "title": "Head First: РР·СѓС‡Р°РµРј Java",
           "url": "https://www.ozon.ru/context/detail/id/7821666/",
           "isNotFree": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "SpecZone",
-          "title": "Классы и объекты",
+          "title": "РљР»Р°СЃСЃС‹ Рё РѕР±СЉРµРєС‚С‹",
           "url": "http://spec-zone.ru/RU/Java/Tutorials/java/javaOO/index.html"
         },
         {
           "creator": "SpecZone",
-          "title": "Интерфейсы и Наследование",
+          "title": "РРЅС‚РµСЂС„РµР№СЃС‹ Рё РќР°СЃР»РµРґРѕРІР°РЅРёРµ",
           "url": "http://spec-zone.ru/RU/Java/Tutorials/java/IandI/index.html"
         },
         {
-          "creator": "Александр Климов",
-          "title": "Java. Экспресс-курс",
+          "creator": "РђР»РµРєСЃР°РЅРґСЂ РљР»РёРјРѕРІ",
+          "title": "Java. Р­РєСЃРїСЂРµСЃСЃ-РєСѓСЂСЃ",
           "url": "http://developer.alexanderklimov.ru/android/java/java.php"
         },
         {
           "creator": "Kostin",
-          "title": "Программирование на Java",
-          "sections": "с 9 по 14 урок",
+          "title": "РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ РЅР° Java",
+          "sections": "СЃ 9 РїРѕ 14 СѓСЂРѕРє",
           "url": "http://kostin.ws/java/"
         },
         {
           "creator": "Habrahabr",
-          "title": "Обработка строк в Java",
+          "title": "РћР±СЂР°Р±РѕС‚РєР° СЃС‚СЂРѕРє РІ Java",
           "url": "https://habrahabr.ru/post/260767/"
         }
       ],
-      "Задачники": [
+      "Р—Р°РґР°С‡РЅРёРєРё": [
         {
           "creator": "CodeWars",
-          "title": "Строки, ООП",
+          "title": "РЎС‚СЂРѕРєРё, РћРћРџ",
           "url": "https://www.codewars.com/kata/search/java?q=&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&tags=Fundamentals%2CNumbers%2CArrays%2CArithmetic%2CLoops%2CIntegers%2CConditional+Statements&beta=false",
           "isEnglish": true
         },
         {
           "creator": "Codingame",
-          "title": "Строки, ООП",
+          "title": "РЎС‚СЂРѕРєРё, РћРћРџ",
           "url": "https://www.codingame.com/training/easy",
           "isEnglish": true
         },
         {
           "creator": "Codefights",
-          "title": "Строки",
+          "title": "РЎС‚СЂРѕРєРё",
           "url": "https://codefights.com/interview-practice/topics/strings",
           "isEnglish": true
         }
       ],
-      "Интерактивные сервисы": [
+      "РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Рµ СЃРµСЂРІРёСЃС‹": [
         {
           "creator": "Codecademy",
-          "title": "ООП, исключения, строки",
-          "sections": "3 раздел",
+          "title": "РћРћРџ, РёСЃРєР»СЋС‡РµРЅРёСЏ, СЃС‚СЂРѕРєРё",
+          "sections": "3 СЂР°Р·РґРµР»",
           "url": "https://www.codecademy.com/learn/learn-java",
           "isEnglish": true
         },
         {
           "creator": "JavaRush",
-          "sections": "Раздел: Java Core и Java Syntax",
-          "title": "ООП, исключения, ввод-вывод, строки",
+          "sections": "Р Р°Р·РґРµР»: Java Core Рё Java Syntax",
+          "title": "РћРћРџ, РёСЃРєР»СЋС‡РµРЅРёСЏ, РІРІРѕРґ-РІС‹РІРѕРґ, СЃС‚СЂРѕРєРё",
           "url": "https://javarush.ru/quests/",
           "isNotFree": true
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Hexlet",
-          "title": "Исключения, ООП, строки",
+          "title": "РСЃРєР»СЋС‡РµРЅРёСЏ, РћРћРџ, СЃС‚СЂРѕРєРё",
           "url": "http://java.hexlet.io/",
           "isNotFree": true
         },
         {
           "creator": "Stepik",
-          "title": "ООП, исключения, ввод-вывод",
-          "sections": "с 3 по 5 раздел",
+          "title": "РћРћРџ, РёСЃРєР»СЋС‡РµРЅРёСЏ, РІРІРѕРґ-РІС‹РІРѕРґ",
+          "sections": "СЃ 3 РїРѕ 5 СЂР°Р·РґРµР»",
           "url": "https://stepik.org/course/187"
         },
         {
           "creator": "Udacity",
-          "title": "ООП",
+          "title": "РћРћРџ",
           "url": "https://www.udacity.com/course/Object-Oriented-Programming-in-Java",
           "isEnglish": true
         },
         {
           "creator": "edX",
-          "title": "ООП",
+          "title": "РћРћРџ",
           "isEnglish": true,
           "url": "https://www.edx.org/course/object-oriented-programming-java-microsoft-dev277x-0"
         }
