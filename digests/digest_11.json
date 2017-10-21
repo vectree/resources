@@ -1,56 +1,56 @@
 {
     "topics": [
       "Maven",
-      "генерация проекта",
-      "сборка проекта"
+      "РіРµРЅРµСЂР°С†РёСЏ РїСЂРѕРµРєС‚Р°",
+      "СЃР±РѕСЂРєР° РїСЂРѕРµРєС‚Р°"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Юрий Ткач",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
           "title": "Maven",
           "url": "https://www.youtube.com/watch?v=ouUuT2uEuiU",
-          "section": "Maven c 39 минуты",
+          "section": "Maven c 39 РјРёРЅСѓС‚С‹",
           "isAdvised": true
         },
         {
-          "creator": "Сергей Немчинский",
+          "creator": "РЎРµСЂРіРµР№ РќРµРјС‡РёРЅСЃРєРёР№",
           "title": "Maven",
           "url": "https://www.youtube.com/watch?v=IAbZVA4tK6M",
           "isAdvised": true
         },
         {
           "creator": "LessonFirst",
-          "title": "Java maven: Введение, урок 1",
-          "section": "Обязателен к просмотру урок 2",
+          "title": "Java maven: Р’РІРµРґРµРЅРёРµ, СѓСЂРѕРє 1",
+          "section": "РћР±СЏР·Р°С‚РµР»РµРЅ Рє РїСЂРѕСЃРјРѕС‚СЂСѓ СѓСЂРѕРє 2",
           "url": "https://www.youtube.com/watch?v=xpP43y__8uU"
         },
         {
-          "creator": "Иван Головач",
+          "creator": "РРІР°РЅ Р“РѕР»РѕРІР°С‡",
           "title": "Maven",
-          "section": "Курс разбит на несколько частей",
+          "section": "РљСѓСЂСЃ СЂР°Р·Р±РёС‚ РЅР° РЅРµСЃРєРѕР»СЊРєРѕ С‡Р°СЃС‚РµР№",
           "url": "https://www.youtube.com/watch?v=QLtk1jD6V4Y&list=PLoij6udfBnchZ36TWDdiQsPArx-ON-1GM"
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Apache Maven",
-          "title": "Что такое Maven?",
+          "title": "Р§С‚Рѕ С‚Р°РєРѕРµ Maven?",
           "url": "http://www.apache-maven.ru/"
         },
         {
           "creator": "Habrahabr",
-          "title": "Apache Maven — основы",
+          "title": "Apache Maven вЂ” РѕСЃРЅРѕРІС‹",
           "url": "https://habrahabr.ru/post/77382/"
         },
         {
           "creator": "Proselyte",
-          "title": "Руководство по Maven",
+          "title": "Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РїРѕ Maven",
           "url": "http://proselyte.net/tutorials/maven/"
         },
         {
           "creator": "DevColibri",
-          "title": "Maven генерация проекта",
+          "title": "Maven РіРµРЅРµСЂР°С†РёСЏ РїСЂРѕРµРєС‚Р°",
           "url": "http://devcolibri.com/1419"
         },
         {
@@ -66,10 +66,10 @@
           "isEnglish": true
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Hexlet",
-          "title": "Обучающий курс по Maven",
+          "title": "РћР±СѓС‡Р°СЋС‰РёР№ РєСѓСЂСЃ РїРѕ Maven",
           "url": "https://ru.hexlet.io/courses/maven"
         }
       ]
