@@ -1,0 +1,106 @@
+{
+    "topics": [
+      "ветвление",
+      "merge",
+      "rebase",
+      "squash",
+      "cherry-pick"
+    ],
+    "resources": {
+      "Видео": [
+        {
+          "creator": "Devcolibri",
+          "sections": "с 9 по 15 урок",
+          "title": "Все необходимые темы",
+          "url": "https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR",
+          "isAdvised": true
+        },
+        {
+          "creator": "Гоша Дударь",
+          "title": "Все необходимые темы, github",
+          "url": "https://www.youtube.com/watch?v=JfpCicDUMKc"
+        },
+        {
+          "creator": "Дмитрий Афанасьев",
+          "title": "Все необходимые темы, github",
+          "sections": "с 8 по 12.5 урок",
+          "url": "https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g"
+        },
+        {
+          "creator": "Tados IT",
+          "title": "Все необходимые темы, github",
+          "url": "https://www.youtube.com/watch?v=KCp_mQQ9tw8",
+          "isAdvanced": true
+        }
+      ],
+      "Книги": [
+        {
+          "creator": "Бен Линн",
+          "title": "Магия Git",
+          "sections": "с 4 по 5 раздел",
+          "url": "https://web.archive.org/web/20141226210730/https://dl.dropboxusercontent.com/u/281916/delete/book.pdf"
+        },
+        {
+          "creator": "Скотт Шакон",
+          "title": "Pro Git",
+          "sections": "3 раздел",
+          "url": "https://cloud.github.com/downloads/GArik/progit/progit.ru.pdf"
+        }
+      ],
+      "Статьи": [
+        {
+          "creator": "Git-scm",
+          "title": "Все необходимые темы",
+          "sections": "3 раздел",
+          "url": "https://git-scm.com/book/ru/v2"
+        },
+        {
+          "creator": "Stanford.edu",
+          "title": "Все необходимые темы",
+          "sections": "с 4 по 5 раздел",
+          "url": "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html"
+        },
+        {
+          "creator": "GitHowTo",
+          "title": "Все необходимые темы",
+          "sections": "с 24 по 51 урок",
+          "url": "https://githowto.com/ru",
+          "isAdvised": true
+        }
+      ],
+      "Полезные ссылки": [
+        {
+          "creator": "Git wiki",
+          "title": "Официальная энциклопедия по Git",
+          "url": "https://git.wiki.kernel.org/index.php/Main_Page"
+        },
+        {
+          "creator": "Atlassian",
+          "title": "Изучение git с bitbucket",
+          "url": "https://www.atlassian.com/git",
+          "isEnglish": true
+        }
+      ],
+      "Интерактивные сервисы": [
+        {
+          "creator": "Learngitbranching",
+          "title": "Все необходимые темы",
+          "url": "https://learngitbranching.js.org/"
+        },
+        {
+          "creator": "Try Git",
+          "title": "Ветвление, merge",
+          "sections": "с 18 по 25 урок",
+          "url": "https://try.github.io/levels/1/challenges/1",
+          "isEnglish": true,
+          "isAdvised": true
+        },
+        {
+          "creator": "Onlywei",
+          "title": "Визуализация основных операций",
+          "url": "https://onlywei.github.io/explain-git-with-d3/",
+          "isEnglish": true
+        }
+      ]
+    }
+  }

@@ -1,0 +1,24 @@
+[
+    {
+      "content": {
+        "digestId": "11",
+        "label": "JUnit",
+        "title": "Узнаем JUnit",
+        "text": "Данный курс прольет свет на вопрос тестирования проекта и написания юнит-тестов."
+      },
+      "img": {
+        "src": "/img/junit5-icon.png"
+      }
+    },
+    {
+      "content": {
+        "digestId": "12",
+        "label": "Mockito",
+        "title": "JUnit + Mockito",
+        "text": "Курс рассматривает вопрос тестирования более углубленно. Протестируем сложные объекты и классы."
+      },
+      "img": {
+        "src": "/img/junit5-icon.png"
+      }
+    }
+  ]

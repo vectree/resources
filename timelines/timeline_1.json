@@ -1,0 +1,79 @@
+[
+    {
+      "content": {
+        "timelineId": "1",
+        "label": "Java",
+        "title": "Язык программирования Java",
+        "text": "В данном дереве вы изучите язык программирования Java и примените, полученные знания на практике."
+      },
+      "img": {
+        "src": "/img/java-icon.png"
+      }
+    },
+    {
+      "content": {
+        "timelineId": "5",
+        "label": "JUnit",
+        "title": "Тестируем проекты",
+        "text": "Данное дерево прольёт свет на понятие тестирования, а также на то как простестировать свой проект."
+      },
+      "img": {
+        "src": "/img/junit5-icon.png"
+      }
+    },
+    {
+      "content": {
+        "timelineId": "7",
+        "label": "Git",
+        "title": "Система версионного контроля",
+        "text": "В данном дереве вы разберетесь в инструменте, позволяющем работать в команде."
+      },
+      "img": {
+        "src": "/img/git-icon.png"
+      }
+    },
+    {
+      "content": {
+        "timelineId": "2",
+        "label": "Java EE",
+        "title": "Java 2 Enterprise Edition",
+        "text": "Освоение разработки и запуска портируемых, надежных, масштабируемых и безопасных серверных приложений."
+      },
+      "img": {
+        "src": "/img/j2ee-icon.svg"
+      }
+    },
+    {
+      "content": {
+        "timelineId": "4",
+        "label": "Maven",
+        "title": "Инструмент для сборки Java проекта",
+        "text": "С помощью этого дерева Вы получите знания по постороению и сборки Maven проектов."
+      },
+      "img": {
+        "src": "/img/maven-icon.png"
+      }
+    },
+    {
+      "content": {
+        "timelineId": "6",
+        "label": "SQL Postgres",
+        "title": "Язык запросов SQL - Postgres",
+        "text": "В данном дереве вы изучите понятие базы данных и язык запросов SQL на примере Postgres"
+      },
+      "img": {
+        "src": "/img/postgresql-icon.svg"
+      }
+    },
+    {
+      "content": {
+        "timelineId": "3",
+        "label": "Spring",
+        "title": "Введение в фреймворк Spring",
+        "text": "В данном дереве вы изучите основы фреймворка Spring."
+      },
+      "img": {
+        "src": "/img/spring-icon.svg"
+      }
+    }
+  ]

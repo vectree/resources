@@ -1,0 +1,156 @@
+{
+    "topics": [
+      "JPA",
+      "Servlet API",
+      "JAX-RS",
+      "EJB",
+      "REST Web Services"
+    ],
+    "resources": {
+      "Видео": [
+        {
+          "creator": "Яков Файн",
+          "title": "EJB",
+          "section": "Обратите вниммание на видео Введние в JPA(Начало с 46:30)",
+          "url": "https://www.youtube.com/watch?v=e3L-43nxAtM"
+        },
+        {
+          "creator": "Ткач Юрий",
+          "title": "JPA",
+          "url": "https://www.youtube.com/watch?v=r8SlsJjmm8o",
+          "isAdvised": true
+        },
+        {
+          "creator": "Golovach Courses",
+          "title": "Servlet API, JSP",
+          "url": "https://www.youtube.com/watch?v=nX-TNn9tKsQ",
+          "isAdvised": true
+        },
+        {
+          "creator": "Технопарк Mail.ru Group",
+          "title": "Инструменты, Servlet API",
+          "url": "https://www.youtube.com/watch?v=suq_phQsOck",
+          "isAdvised": true
+        },
+        {
+          "creator": "Telusko Learnings",
+          "title": "Servlets API",
+          "sections": "Весь плейлист",
+          "url": "https://www.youtube.com/watch?v=7TOmdDJc14s&list=PLsyeobzWxl7oGCz4k9VyxhfmQpSU1dV9b",
+          "isEnglish": true
+        },
+        {
+          "creator": "Java Brains",
+          "title": "REST Web Services",
+          "sections": "Весь плейлист",
+          "url": "https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn",
+          "isAdvised": true,
+          "isEnglish": true
+        },
+        {
+          "creator": "Oracle Developers",
+          "title": "JAX-RS",
+          "url": "https://www.youtube.com/watch?v=Xra9JHZIL5Q",
+          "isAdvised": true,
+          "isEnglish": true
+        }
+      ],
+      "Документация": [
+        {
+          "creator": "Oracle America, Inc.",
+          "title": "The Java EE 6 Tutorial",
+          "sections": "JPA, REST, Servlet-API, JAX-RS",
+          "url": "https://docs.oracle.com/javaee/6/tutorial/doc/bnbpz.html",
+          "isEnglish": true,
+          "isAdvised": true
+        },
+        {
+          "creator": "Oracle America, Inc.",
+          "title": "Java EE Specification",
+          "sections": "EE.5.5 Enterprise JavaBeans™ (EJB) References",
+          "url": "https://jcp.org/aboutJava/communityprocess/final/jsr366/index.html",
+          "isAdvanced": true,
+          "isEnglish": true
+        }
+      ],
+      "Книги": [
+        {
+          "creator": "Дебу Панда и другие",
+          "title": "EJB 3 в действии",
+          "url": "https://www.ozon.ru/context/detail/id/29899778/",
+          "isNotFree": true,
+          "isAdvised": true
+        },
+        {
+          "creator": "Арун Гупта",
+          "title": "Изучаем Java EE 7",
+          "sections": "Глава 4, 8",
+          "url": "http://www.ozon.ru/context/detail/id/27933274/",
+          "isNotFree": true
+        },
+        {
+          "creator": "Энтони Гонсалвес",
+          "title": "Java EE 7. Основы",
+          "sections": "Глава 4. Java Persistence API",
+          "url": "http://www.ozon.ru/context/detail/id/27663406/",
+          "isNotFree": true,
+          "isAdvised": true
+        },
+        {
+          "creator": "Дэвид Хеффельфингер",
+          "title": "Java EE 6 и сервер приложений GlassFish 3",
+          "sections": "Глава 2. Разработка и развертывание сервлета",
+          "url": "http://www.ozon.ru/context/detail/id/20041033/",
+          "isNotFree": true
+        },
+        {
+          "creator": "Брайн Бэшам, Кэти Сиерра, Берт Бейтс",
+          "title": "Head First Servlets and JSP",
+          "url": "https://www.ozon.ru/context/detail/id/4006546/",
+          "isNotFree": true,
+          "isEnglish": true
+        }
+      ],
+      "Статьи": [
+        {
+          "creator": "Java-online",
+          "title": "EJB",
+          "url": "http://java-online.ru/ejb.xhtml"
+        },
+        {
+          "creator": "ИНТУИТ",
+          "title": "EJB",
+          "url": "http://www.intuit.ru/studies/courses/633/489/lecture/24847"
+        },
+        {
+          "creator": "Tutorialspoint",
+          "title": "JPA Tutorial",
+          "url": "https://www.tutorialspoint.com/jpa/",
+          "isEnglish": true,
+          "isAdvised": true
+        },
+        {
+          "creator": "Habrahabr",
+          "title": "JPA, Hibernate",
+          "url": "https://habrahabr.ru/post/265061/",
+          "isAdvanced": true
+        },
+        {
+          "creator": "Habrahabr",
+          "title": "Servlet API",
+          "url": "https://habrahabr.ru/post/333626/"
+        },
+        {
+          "creator": "TechNerium",
+          "title": "JSP, Servlets API",
+          "url": "http://www.technerium.ru/stati/izuchaem-jsp-i-servlets-chast-2-osnovy-servletov"
+        },
+        {
+          "creator": "Алекс Родригес, инженер-программист, IBM",
+          "title": "REST Web Services",
+          "url": "https://www.ibm.com/developerworks/ru/library/ws-restfu/",
+          "isAdvised": true
+        }
+      ]
+    }
+  }
