@@ -1,143 +1,143 @@
 {
     "topics": [
-      "синтаксис",
-      "базовые конструкции",
-      "переменные",
-      "условные операторы",
-      "циклы",
-      "массивы"
+      "СЃРёРЅС‚Р°РєСЃРёСЃ",
+      "Р±Р°Р·РѕРІС‹Рµ РєРѕРЅСЃС‚СЂСѓРєС†РёРё",
+      "РїРµСЂРµРјРµРЅРЅС‹Рµ",
+      "СѓСЃР»РѕРІРЅС‹Рµ РѕРїРµСЂР°С‚РѕСЂС‹",
+      "С†РёРєР»С‹",
+      "РјР°СЃСЃРёРІС‹"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Тимур Батыршинов",
-          "sections": "с 1 по 21 урок",
-          "title": "Все необходимые темы",
+          "creator": "РўРёРјСѓСЂ Р‘Р°С‚С‹СЂС€РёРЅРѕРІ",
+          "sections": "СЃ 1 РїРѕ 21 СѓСЂРѕРє",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.youtube.com/watch?v=_jXDPfUKm58&index=1&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t"
         },
         {
-          "creator": "Юрий Ткач",
-          "sections": "лекции с 1 по 2",
-          "title": "Все необходимые темы, JVM",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
+          "sections": "Р»РµРєС†РёРё СЃ 1 РїРѕ 2",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹, JVM",
           "url": "https://www.youtube.com/watch?v=DKy4KzIn1qg&list=SPB0276A0A62BDEF06&index=1"
         },
         {
-          "creator": "Алексей Владыкин",
-          "title": "Все необходимые темы",
-          "sections": "лекции с 1 по 3",
+          "creator": "РђР»РµРєСЃРµР№ Р’Р»Р°РґС‹РєРёРЅ",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "Р»РµРєС†РёРё СЃ 1 РїРѕ 3",
           "url": "https://www.youtube.com/watch?v=AkhwODnzjN4",
           "isAdvanced": true
         },
         {
-          "creator": "Георгий Корнеев",
-          "sections": "1 лекция",
-          "title": "Введение в Java",
+          "creator": "Р“РµРѕСЂРіРёР№ РљРѕСЂРЅРµРµРІ",
+          "sections": "1 Р»РµРєС†РёСЏ",
+          "title": "Р’РІРµРґРµРЅРёРµ РІ Java",
           "url": "https://www.youtube.com/watch?v=1XDaOCVM-Q4",
           "isAdvanced": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Герберт Шилдт",
-          "title": "Java 8. Руководство для начинающих",
-          "sections": "с 1 по 5 главу",
+          "creator": "Р“РµСЂР±РµСЂС‚ РЁРёР»РґС‚",
+          "title": "Java 8. Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…",
+          "sections": "СЃ 1 РїРѕ 5 РіР»Р°РІСѓ",
           "url": "https://www.ozon.ru/context/detail/id/31249554/",
           "isNotFree": true
         },
         {
-          "creator": "Кей Хорстманн",
-          "title": "Java. Библиотека профессионала",
+          "creator": "РљРµР№ РҐРѕСЂСЃС‚РјР°РЅРЅ",
+          "title": "Java. Р‘РёР±Р»РёРѕС‚РµРєР° РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»Р°",
           "url": "https://www.ozon.ru/context/detail/id/25151213/",
           "isNotFree": true
         },
         {
-          "creator": "Кэти Сиерра, Берт Бейтс",
-          "title": "Head First: Изучаем Java",
+          "creator": "РљСЌС‚Рё РЎРёРµСЂСЂР°, Р‘РµСЂС‚ Р‘РµР№С‚СЃ",
+          "title": "Head First: РР·СѓС‡Р°РµРј Java",
           "url": "https://www.ozon.ru/context/detail/id/7821666/",
           "isNotFree": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Study Java",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "http://study-java.ru/"
         },
         {
           "creator": "SpecZone",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "http://spec-zone.ru/RU/Java/Tutorials/java/nutsandbolts/index.html"
         },
         {
-          "creator": "Александр Климов",
-          "title": "Все необходимые темы",
+          "creator": "РђР»РµРєСЃР°РЅРґСЂ РљР»РёРјРѕРІ",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "http://developer.alexanderklimov.ru/android/java/java.php"
         },
         {
           "creator": "Kostin",
-          "title": "Все необходимые темы",
-          "sections": "с 1 по 8 урок",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЃ 1 РїРѕ 8 СѓСЂРѕРє",
           "url": "http://kostin.ws/java/"
         }
       ],
-      "Задачники": [
+      "Р—Р°РґР°С‡РЅРёРєРё": [
         {
           "creator": "CodeWars",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.codewars.com/kata/search/java?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Fundamentals%2CNumbers%2CArrays%2CArithmetic%2CLoops%2CIntegers%2CConditional+Statements&beta=false",
           "isEnglish": true
         },
         {
           "creator": "Codingame",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.codingame.com/training/easy",
           "isEnglish": true
         },
         {
           "creator": "Codefights",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://codefights.com/arcade/",
           "isEnglish": true
         }
       ],
-      "Интерактивные сервисы": [
+      "РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Рµ СЃРµСЂРІРёСЃС‹": [
         {
           "creator": "Codecademy",
-          "title": "Все необходимые темы",
-          "sections": "с 1 по 2 раздел",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЃ 1 РїРѕ 2 СЂР°Р·РґРµР»",
           "url": "https://www.codecademy.com/learn/learn-java",
           "isEnglish": true
         },
         {
           "creator": "JavaRush",
-          "sections": "Раздел: Java Syntax",
-          "title": "Все необходимые темы",
+          "sections": "Р Р°Р·РґРµР»: Java Syntax",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://javarush.ru/quests/QUEST_JAVA_SYNTAX",
           "isNotFree": true
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Stepik",
-          "title": "Все необходимые темы",
-          "sections": "с 1 по 2 раздел",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
+          "sections": "СЃ 1 РїРѕ 2 СЂР°Р·РґРµР»",
           "url": "https://stepik.org/course/187"
         },
         {
           "creator": "Udacity",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.udacity.com/course/java-programming-basics--ud282",
           "isEnglish": true
         },
         {
           "creator": "edX",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "isEnglish": true,
           "url": "https://www.edx.org/course/learn-program-java-microsoft-dev276x-0"
         },
         {
           "creator": "Hexlet",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "http://java.hexlet.io/",
           "isNotFree": true,
           "isAdvanced": true
