@@ -7,38 +7,38 @@
       "Inversion of Control"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Юрий Ткач",
-          "sections": "Лекции с 1 по 10",
-          "title": "Все необходимые темы",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
+          "sections": "Р›РµРєС†РёРё СЃ 1 РїРѕ 10",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t&index=1"
         },
         {
-          "creator": "Евгений Борисов",
-          "title": "Об устройстве Spring",
-          "sections": "Часть 1 и 2",
+          "creator": "Р•РІРіРµРЅРёР№ Р‘РѕСЂРёСЃРѕРІ",
+          "title": "РћР± СѓСЃС‚СЂРѕР№СЃС‚РІРµ Spring",
+          "sections": "Р§Р°СЃС‚СЊ 1 Рё 2",
           "url": "https://www.youtube.com/watch?time_continue=5&v=BmBr5diz8WA",
           "isAdvanced": true
         },
         {
           "creator": "Oleg Zhurakousky",
-          "title": "Практические советы по использованию Spring",
+          "title": "РџСЂР°РєС‚РёС‡РµСЃРєРёРµ СЃРѕРІРµС‚С‹ РїРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЋ Spring",
           "url": "https://www.youtube.com/watch?v=RY6dNUL8k6o",
           "isAdvanced": true,
           "isEnglish": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Крейг Уоллс",
-          "title": "Spring в действии",
+          "creator": "РљСЂРµР№Рі РЈРѕР»Р»СЃ",
+          "title": "Spring РІ РґРµР№СЃС‚РІРёРё",
           "url": "https://www.ozon.ru/context/detail/id/31239365/",
           "isNotFree": true
         },
         {
-          "creator": "Крис Шефер, Кларенс Хо, Роб Харроп",
-          "title": "Spring 4 для профессионалов",
+          "creator": "РљСЂРёСЃ РЁРµС„РµСЂ, РљР»Р°СЂРµРЅСЃ РҐРѕ, Р РѕР± РҐР°СЂСЂРѕРї",
+          "title": "Spring 4 РґР»СЏ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»РѕРІ",
           "url": "https://www.ozon.ru/context/detail/id/33056979/",
           "isNotFree": true,
           "isAdvanced": true
@@ -51,68 +51,68 @@
           "isEnglish": true
         }
       ],
-      "Документация": [
+      "Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ": [
         {
           "creator": "Spring.io",
-          "title": "Официальная документация по Spring Core",
+          "title": "РћС„РёС†РёР°Р»СЊРЅР°СЏ РґРѕРєСѓРјРµРЅС‚Р°С†РёСЏ РїРѕ Spring Core",
           "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html",
           "isAdvanced": true,
           "isEnglish": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Spring-source",
-          "title": "Архитектура Spring",
+          "title": "РђСЂС…РёС‚РµРєС‚СѓСЂР° Spring",
           "url": "https://spring-source.ru/docs_simple.php?type=manual&theme=docs_simple&docs_simple=chap01_p01"
         },
         {
           "creator": "Spring-projects",
-          "title": "Создание каркаса Spring приложения",
+          "title": "РЎРѕР·РґР°РЅРёРµ РєР°СЂРєР°СЃР° Spring РїСЂРёР»РѕР¶РµРЅРёСЏ",
           "url": "http://spring-projects.ru/guides/lessons/lesson-1/"
         },
         {
           "creator": "Spring-projects",
-          "title": "Инверсия управления(Inversion of Control)",
+          "title": "РРЅРІРµСЂСЃРёСЏ СѓРїСЂР°РІР»РµРЅРёСЏ(Inversion of Control)",
           "url": "http://spring-projects.ru/guides/lessons/lesson-2/"
         },
         {
           "creator": "Habrahabr",
-          "title": "Практический пример использования Spring",
+          "title": "РџСЂР°РєС‚РёС‡РµСЃРєРёР№ РїСЂРёРјРµСЂ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ Spring",
           "url": "https://habrahabr.ru/post/333756/"
         },
         {
           "creator": "Habrahabr",
-          "title": "Порядок инициализации контекста приложения",
+          "title": "РџРѕСЂСЏРґРѕРє РёРЅРёС†РёР°Р»РёР·Р°С†РёРё РєРѕРЅС‚РµРєСЃС‚Р° РїСЂРёР»РѕР¶РµРЅРёСЏ",
           "url": "https://habrahabr.ru/post/222579/"
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Udemy",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.udemy.com/spring-tutorial-for-beginners/",
           "isNotFree": true,
           "isEnglish": true
         },
         {
           "creator": "Luxoft",
-          "title": "Все необходимые темы на углубленном уровне",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹ РЅР° СѓРіР»СѓР±Р»РµРЅРЅРѕРј СѓСЂРѕРІРЅРµ",
           "url": "http://www.luxoft-training.ru/kurs/vladenie_karkasom_razrabotki_spring_framework.html",
           "isAdvanced": true,
           "isNotFree": true
         }
       ],
-      "Полезные ссылки": [
+      "РџРѕР»РµР·РЅС‹Рµ СЃСЃС‹Р»РєРё": [
         {
           "creator": "Spring.io",
-          "title": "Генератор Spring проектов",
+          "title": "Р“РµРЅРµСЂР°С‚РѕСЂ Spring РїСЂРѕРµРєС‚РѕРІ",
           "url": "https://start.spring.io/",
           "isEnglish": true
         },
         {
           "creator": "SpringDeveloper",
-          "title": "Полезные советы по Spring в IntelliJ IDEA",
+          "title": "РџРѕР»РµР·РЅС‹Рµ СЃРѕРІРµС‚С‹ РїРѕ Spring РІ IntelliJ IDEA",
           "url": "https://www.youtube.com/watch?v=e7DR88jQa0Q",
           "isEnglish": true
         }
