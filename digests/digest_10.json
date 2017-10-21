@@ -5,88 +5,88 @@
       "Repository"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Юрий Ткач",
-          "sections": "Лекция 13",
-          "title": "Все необходимые темы",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
+          "sections": "Р›РµРєС†РёСЏ 13",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.youtube.com/watch?v=2fAhdDwjRSA&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t&index=13"
         },
         {
-          "creator": "Роман Бровко",
-          "sections": "Лекции с 31 по 42",
-          "title": "Все необходимые темы на углубленном уровне",
+          "creator": "Р РѕРјР°РЅ Р‘СЂРѕРІРєРѕ",
+          "sections": "Р›РµРєС†РёРё СЃ 31 РїРѕ 42",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹ РЅР° СѓРіР»СѓР±Р»РµРЅРЅРѕРј СѓСЂРѕРІРЅРµ",
           "url": "https://www.youtube.com/watch?v=wOPnbPP9P3A&list=PLwwk4BHih4fho6gmaAwdHYZ6QQq0aE7Zi&index=39",
           "isAdvanced": true
         },
         {
           "creator": "Java Brain",
-          "title": "Все необходимые темы на углубленном уровне",
-          "sections": "Все лекции из плэй листа",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹ РЅР° СѓРіР»СѓР±Р»РµРЅРЅРѕРј СѓСЂРѕРІРЅРµ",
+          "sections": "Р’СЃРµ Р»РµРєС†РёРё РёР· РїР»СЌР№ Р»РёСЃС‚Р°",
           "url": "https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E",
           "isAdvanced": true,
           "isEnglish": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Devcolibri",
-          "title": "Статьи о Spring JDBC",
+          "title": "РЎС‚Р°С‚СЊРё Рѕ Spring JDBC",
           "url": "http://devcolibri.com/category/spring"
         },
         {
           "creator": "Spring-projects",
-          "title": "Доступ к данным с использованием JDBC в Spring",
+          "title": "Р”РѕСЃС‚СѓРї Рє РґР°РЅРЅС‹Рј СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј JDBC РІ Spring",
           "url": "http://spring-projects.ru/guides/relational-data-access/"
         },
         {
           "creator": "Easyjava",
-          "title": "Примеры запросов в Spring JDBC",
+          "title": "РџСЂРёРјРµСЂС‹ Р·Р°РїСЂРѕСЃРѕРІ РІ Spring JDBC",
           "url": "https://easyjava.ru/spring/spring-data-access/zaprosy-v-spring-jdbc/"
         }
       ],
-      "Документация": [
+      "Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ": [
         {
           "creator": "Spring.io",
-          "title": "Документация по доступу к данным в Spring c помощью JDBC",
+          "title": "Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ РїРѕ РґРѕСЃС‚СѓРїСѓ Рє РґР°РЅРЅС‹Рј РІ Spring c РїРѕРјРѕС‰СЊСЋ JDBC",
           "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html#jdbc",
           "isAdvanced": true,
           "isEnglish": true
         },
         {
           "creator": "Eclipse.org",
-          "title": "Документация по JDBC",
+          "title": "Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ РїРѕ JDBC",
           "url": "https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/",
           "isAdvanced": true,
           "isEnglish": true
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Udemy",
-          "title": "Все необходимые темы",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹",
           "url": "https://www.udemy.com/spring-tutorial-for-beginners/",
           "isNotFree": true,
           "isEnglish": true
         },
         {
           "creator": "Luxoft",
-          "title": "Все необходимые темы на глубоком уровне",
+          "title": "Р’СЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ С‚РµРјС‹ РЅР° РіР»СѓР±РѕРєРѕРј СѓСЂРѕРІРЅРµ",
           "url": "http://www.luxoft-training.ru/kurs/vladenie_karkasom_razrabotki_spring_framework.html",
           "isAdvanced": true,
           "isNotFree": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Крейг Уоллс",
-          "title": "Spring в действии",
+          "creator": "РљСЂРµР№Рі РЈРѕР»Р»СЃ",
+          "title": "Spring РІ РґРµР№СЃС‚РІРёРё",
           "url": "https://www.ozon.ru/context/detail/id/31239365/",
           "isNotFree": true
         },
         {
-          "creator": "Крис Шефер, Кларенс Хо, Роб Харроп",
-          "title": "Spring 4 для профессионалов",
+          "creator": "РљСЂРёСЃ РЁРµС„РµСЂ, РљР»Р°СЂРµРЅСЃ РҐРѕ, Р РѕР± РҐР°СЂСЂРѕРї",
+          "title": "Spring 4 РґР»СЏ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»РѕРІ",
           "url": "https://www.ozon.ru/context/detail/id/33056979/",
           "isNotFree": true,
           "isAdvanced": true
@@ -99,10 +99,10 @@
           "isEnglish": true
         }
       ],
-      "Полезные ссылки": [
+      "РџРѕР»РµР·РЅС‹Рµ СЃСЃС‹Р»РєРё": [
         {
           "creator": "spring.io",
-          "title": "Готовый проект с примером использования Spring JDBC",
+          "title": "Р“РѕС‚РѕРІС‹Р№ РїСЂРѕРµРєС‚ СЃ РїСЂРёРјРµСЂРѕРј РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ Spring JDBC",
           "url": "https://github.com/spring-guides/gs-relational-data-access",
           "isAdvanced": true,
           "isEnglish": true
