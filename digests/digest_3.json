@@ -3,74 +3,74 @@
       "collections",
       "streams",
       "generics",
-      "сериализация"
+      "СЃРµСЂРёР°Р»РёР·Р°С†РёСЏ"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Сергей Немчинский",
+          "creator": "РЎРµСЂРіРµР№ РќРµРјС‡РёРЅСЃРєРёР№",
           "title": "Collections",
           "url": "https://www.youtube.com/watch?v=mKR1McHiu7c&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=7"
         },
         {
-          "creator": "Юрий Ткач",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
           "title": "Collections",
           "url": "https://www.youtube.com/watch?v=-S_huEuNJiU&list=PL6jg6AGdCNaWtTjsYJ9t0VaITpIZm4pMt",
           "isAdvised": true
         },
         {
-          "creator": "Юрий Ткач",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
           "title": "Serialization",
           "url": "https://www.youtube.com/watch?v=PcwXTCWRGvY&list=PL6jg6AGdCNaXYzZwvvZ-3NRTr63XeYazS",
           "isAdvised": true
         },
         {
-          "creator": "Юрий Ткач",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
           "title": "Generics",
           "url": "https://www.youtube.com/watch?v=MniNZsyjH9E&list=PL6jg6AGdCNaX1yIJpX4sgALBTmTVc_uOJ",
           "isAdvised": true
         },
         {
-          "creator": "Алексей Владыкин",
+          "creator": "РђР»РµРєСЃРµР№ Р’Р»Р°РґС‹РєРёРЅ",
           "title": "Generics, collections",
           "url": "https://www.youtube.com/watch?v=YPUGexs8nKk"
         },
         {
-          "creator": "Сергей Куксенко",
+          "creator": "РЎРµСЂРіРµР№ РљСѓРєСЃРµРЅРєРѕ",
           "title": "Streams",
           "url": "https://www.youtube.com/watch?v=O8oN4KSZEXE"
         }
       ],
-      "Интерактивные сервисы": [
+      "РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Рµ СЃРµСЂРІРёСЃС‹": [
         {
           "creator": "Codecademy",
           "title": "Collections",
-          "sections": "4 раздел",
+          "sections": "4 СЂР°Р·РґРµР»",
           "url": "https://www.codecademy.com/learn/learn-java",
           "isEnglish": true
         },
         {
           "creator": "JavaRush",
-          "sections": "Раздел: Java Core и Java Syntax",
-          "title": "ООП, исключения, ввод-вывод, строки",
+          "sections": "Р Р°Р·РґРµР»: Java Core Рё Java Syntax",
+          "title": "РћРћРџ, РёСЃРєР»СЋС‡РµРЅРёСЏ, РІРІРѕРґ-РІС‹РІРѕРґ, СЃС‚СЂРѕРєРё",
           "url": "https://javarush.ru/quests/",
           "isNotFree": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "SpecZone",
           "title": "Generics",
           "url": "http://spec-zone.ru/RU/Java/Tutorials/java/generics/index.html"
         },
         {
-          "creator": "Александр Климов",
-          "title": "Java. Экспресс-курс",
+          "creator": "РђР»РµРєСЃР°РЅРґСЂ РљР»РёРјРѕРІ",
+          "title": "Java. Р­РєСЃРїСЂРµСЃСЃ-РєСѓСЂСЃ",
           "url": "http://developer.alexanderklimov.ru/android/java/java.php"
         },
         {
           "creator": "Habrahabr",
-          "title": "Сериализация",
+          "title": "РЎРµСЂРёР°Р»РёР·Р°С†РёСЏ",
           "url": "https://habrahabr.ru/post/60317/"
         },
         {
@@ -84,7 +84,7 @@
           "url": "https://habrahabr.ru/post/237043/"
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Hexlet",
           "title": "Generics",
@@ -100,7 +100,7 @@
         {
           "creator": "Stepik",
           "title": "Collections, generics, streams",
-          "sections": "6 раздел",
+          "sections": "6 СЂР°Р·РґРµР»",
           "url": "https://stepik.org/course/187"
         },
         {
@@ -110,37 +110,37 @@
           "isEnglish": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Джошуа Блох",
-          "title": "Java. Эффективное программирование",
+          "creator": "Р”Р¶РѕС€СѓР° Р‘Р»РѕС…",
+          "title": "Java. Р­С„С„РµРєС‚РёРІРЅРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ",
           "url": "https://www.ozon.ru/context/detail/id/21724143/",
           "isNotFree": true,
           "isAdvanced": true
         },
         {
-          "creator": "Брюс Эккель",
-          "title": "Философия Java",
+          "creator": "Р‘СЂСЋСЃ Р­РєРєРµР»СЊ",
+          "title": "Р¤РёР»РѕСЃРѕС„РёСЏ Java",
           "url": "https://www.ozon.ru/context/detail/id/142431463/",
           "isNotFree": true,
           "isAdvanced": true
         },
         {
-          "creator": "Герберт Шилдт",
-          "title": "Java 8. Руководство для начинающих",
-          "sections": "с 17 по 18 главу",
+          "creator": "Р“РµСЂР±РµСЂС‚ РЁРёР»РґС‚",
+          "title": "Java 8. Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…",
+          "sections": "СЃ 17 РїРѕ 18 РіР»Р°РІСѓ",
           "url": "https://www.ozon.ru/context/detail/id/31249554/",
           "isNotFree": true
         },
         {
-          "creator": "Кей Хорстманн",
-          "title": "Java. Библиотека профессионала",
+          "creator": "РљРµР№ РҐРѕСЂСЃС‚РјР°РЅРЅ",
+          "title": "Java. Р‘РёР±Р»РёРѕС‚РµРєР° РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»Р°",
           "url": "https://www.ozon.ru/context/detail/id/25151213/",
           "isNotFree": true
         },
         {
-          "creator": "Кэти Сиерра, Берт Бейтс",
-          "title": "Head First: Изучаем Java",
+          "creator": "РљСЌС‚Рё РЎРёРµСЂСЂР°, Р‘РµСЂС‚ Р‘РµР№С‚СЃ",
+          "title": "Head First: РР·СѓС‡Р°РµРј Java",
           "url": "https://www.ozon.ru/context/detail/id/7821666/",
           "isNotFree": true
         }
