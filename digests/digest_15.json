@@ -1,77 +1,77 @@
 {
     "topics": [
-      "триггеры",
-      "редактирование таблиц",
-      "функции"
+      "С‚СЂРёРіРіРµСЂС‹",
+      "СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ С‚Р°Р±Р»РёС†",
+      "С„СѓРЅРєС†РёРё"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Александр Скрылев",
-          "sections": "3 и 4 урок",
-          "title": "Редактирование таблиц, расширенные возможности SELECT, функции",
+          "creator": "РђР»РµРєСЃР°РЅРґСЂ РЎРєСЂС‹Р»РµРІ",
+          "sections": "3 Рё 4 СѓСЂРѕРє",
+          "title": "Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ С‚Р°Р±Р»РёС†, СЂР°СЃС€РёСЂРµРЅРЅС‹Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё SELECT, С„СѓРЅРєС†РёРё",
           "url": "https://www.youtube.com/watch?v=GSanCvaOKWA"
         },
         {
           "creator": "Corey Schafer",
-          "sections": "4 и 5 урок",
-          "title": "Уроки по SQL для начинающих",
+          "sections": "4 Рё 5 СѓСЂРѕРє",
+          "title": "РЈСЂРѕРєРё РїРѕ SQL РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…",
           "url": "https://www.youtube.com/watch?v=xaWlS9HtWYw&list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN",
           "isEnglish": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Мартин Грабер",
-          "title": "Понимание SQL",
-          "sections": "главы: 3, 6, 15-17",
+          "creator": "РњР°СЂС‚РёРЅ Р“СЂР°Р±РµСЂ",
+          "title": "РџРѕРЅРёРјР°РЅРёРµ SQL",
+          "sections": "РіР»Р°РІС‹: 3, 6, 15-17",
           "url": "http://www.sql.ru/docs/sql/u_sql/"
         },
         {
-          "creator": "Всемирная группа разработчиков PostgreSQL",
-          "title": "Учебник PostgreSQL",
-          "sections": "2 глава 5-9 разделы",
+          "creator": "Р’СЃРµРјРёСЂРЅР°СЏ РіСЂСѓРїРїР° СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ PostgreSQL",
+          "title": "РЈС‡РµР±РЅРёРє PostgreSQL",
+          "sections": "2 РіР»Р°РІР° 5-9 СЂР°Р·РґРµР»С‹",
           "url": "http://citforum.ru/database/postgresql/tutorial-sql.html"
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "PostgresPro",
-          "title": "Триггерные процедуры",
+          "title": "РўСЂРёРіРіРµСЂРЅС‹Рµ РїСЂРѕС†РµРґСѓСЂС‹",
           "url": "https://postgrespro.ru/docs/postgresql/9.6/plpgsql-trigger.html"
         },
         {
           "creator": "PostgresPro",
-          "title": "Функции",
+          "title": "Р¤СѓРЅРєС†РёРё",
           "url": "https://postgrespro.ru/docs/postgrespro/9.5/sql-createfunction.html"
         }
       ],
-      "Полезные ссылки": [
+      "РџРѕР»РµР·РЅС‹Рµ СЃСЃС‹Р»РєРё": [
         {
           "creator": "PostgresPro",
-          "title": "Документация к PostgreSQL на русском",
+          "title": "Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ Рє PostgreSQL РЅР° СЂСѓСЃСЃРєРѕРј",
           "url": "http://repo.postgrespro.ru/doc/pgsql/9.6.5/ru/postgres-A4-fop.pdf"
         },
         {
           "creator": "Habrahabr",
-          "title": "Инструменты для разработки PostgreSQL",
+          "title": "РРЅСЃС‚СЂСѓРјРµРЅС‚С‹ РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚РєРё PostgreSQL",
           "url": "https://habrahabr.ru/company/pgdayrussia/blog/325642/"
         }
       ],
-      "Интерактивные сервисы": [
+      "РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Рµ СЃРµСЂРІРёСЃС‹": [
         {
           "creator": "TutorialsPoint",
-          "title": "Иполнитель SQL онлайн",
+          "title": "РРїРѕР»РЅРёС‚РµР»СЊ SQL РѕРЅР»Р°Р№РЅ",
           "url": "https://www.tutorialspoint.com/execute_sql_online.php"
         },
         {
           "creator": "Quizful",
-          "title": "Тест знаний SQL - Средний уровень",
+          "title": "РўРµСЃС‚ Р·РЅР°РЅРёР№ SQL - РЎСЂРµРґРЅРёР№ СѓСЂРѕРІРµРЅСЊ",
           "url": "http://www.quizful.net/test/sql_mid"
         },
         {
           "creator": "Sql-ex",
-          "title": "Упражнения по SQL",
+          "title": "РЈРїСЂР°Р¶РЅРµРЅРёСЏ РїРѕ SQL",
           "url": "http://www.sql-ex.ru/learn_exercises.php"
         }
       ]
