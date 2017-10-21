@@ -1,57 +1,57 @@
 {
     "topics": [
-      "многопоточность",
+      "РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
       "byte-code",
-      "аннотации",
+      "Р°РЅРЅРѕС‚Р°С†РёРё",
       "reflection",
-      "регулярные выражения",
-      "сеть"
+      "СЂРµРіСѓР»СЏСЂРЅС‹Рµ РІС‹СЂР°Р¶РµРЅРёСЏ",
+      "СЃРµС‚СЊ"
     ],
     "resources": {
-      "Видео": [
+      "Р’РёРґРµРѕ": [
         {
-          "creator": "Юрий Ткач",
-          "title": "Многопоточность",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
+          "title": "РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://www.youtube.com/watch?v=s032s29-NUU&list=PL6jg6AGdCNaXo06LjCBmRao-qJdf38oKp",
           "isAdvised": true
         },
         {
-          "creator": "Юрий Ткач",
-          "title": "Аннотации, reflection",
+          "creator": "Р®СЂРёР№ РўРєР°С‡",
+          "title": "РђРЅРЅРѕС‚Р°С†РёРё, reflection",
           "url": "https://www.youtube.com/watch?v=9BbxPd3GPeU&list=PL6jg6AGdCNaWgDwiPjmlIvkr8s2OdDH2P",
           "isAdvised": true
         },
         {
-          "creator": "Алексей Владыкин",
-          "sections": "с 8 по 10",
-          "title": "Аннотации, reflection, многопоточность",
+          "creator": "РђР»РµРєСЃРµР№ Р’Р»Р°РґС‹РєРёРЅ",
+          "sections": "СЃ 8 РїРѕ 10",
+          "title": "РђРЅРЅРѕС‚Р°С†РёРё, reflection, РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://www.youtube.com/watch?v=7G9HVi27h6E"
         },
         {
-          "creator": "Сергей Куксенко",
-          "sections": "с 9 по 12",
-          "title": "Аннотации, reflection, многопоточность, сеть",
+          "creator": "РЎРµСЂРіРµР№ РљСѓРєСЃРµРЅРєРѕ",
+          "sections": "СЃ 9 РїРѕ 12",
+          "title": "РђРЅРЅРѕС‚Р°С†РёРё, reflection, РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ, СЃРµС‚СЊ",
           "url": "https://www.youtube.com/watch?time_continue=3984&v=yJqa2jiwHZk"
         },
         {
-          "creator": "Образование онлайн",
-          "title": "Регулярные выражения",
+          "creator": "РћР±СЂР°Р·РѕРІР°РЅРёРµ РѕРЅР»Р°Р№РЅ",
+          "title": "Р РµРіСѓР»СЏСЂРЅС‹Рµ РІС‹СЂР°Р¶РµРЅРёСЏ",
           "url": "https://www.youtube.com/watch?v=OBkDT25X_S8"
         }
       ],
-      "Интерактивные сервисы": [
+      "РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Рµ СЃРµСЂРІРёСЃС‹": [
         {
           "creator": "JavaRush",
-          "sections": "Раздел: Java Core и Java Multithreading",
-          "title": "Многопоточность",
+          "sections": "Р Р°Р·РґРµР»: Java Core Рё Java Multithreading",
+          "title": "РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://javarush.ru/quests/",
           "isNotFree": true
         }
       ],
-      "Статьи": [
+      "РЎС‚Р°С‚СЊРё": [
         {
           "creator": "Devcolibri",
-          "title": "Статьи ",
+          "title": "РЎС‚Р°С‚СЊРё ",
           "url": "http://devcolibri.com/category/javase"
         },
         {
@@ -67,12 +67,12 @@
         },
         {
           "creator": "Habrahabr",
-          "title": "Многопоточность",
+          "title": "РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://habrahabr.ru/post/164487/"
         },
         {
           "creator": "Habrahabr",
-          "title": "Обзор java.util.concurrent",
+          "title": "РћР±Р·РѕСЂ java.util.concurrent",
           "url": "https://habrahabr.ru/company/luxoft/blog/157273/",
           "isAdvanced": true
         },
@@ -83,7 +83,7 @@
           "isAdvanced": true
         }
       ],
-      "Онлайн-курсы": [
+      "РћРЅР»Р°Р№РЅ-РєСѓСЂСЃС‹": [
         {
           "creator": "Hexlet",
           "title": "Byte-code",
@@ -92,54 +92,54 @@
         },
         {
           "creator": "Hexlet",
-          "title": "Многопоточность",
+          "title": "РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://ru.hexlet.io/courses/concurrency",
           "isNotFree": true
         },
         {
           "creator": "Udemy",
-          "title": "Многопоточность",
+          "title": "РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://www.udemy.com/java-multithreading/",
           "isEnglish": true
         },
         {
           "creator": "Coursera",
-          "title": "Многопоточность",
+          "title": "РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ",
           "url": "https://ru.coursera.org/specializations/pcdp",
           "isEnglish": true
         }
       ],
-      "Книги": [
+      "РљРЅРёРіРё": [
         {
-          "creator": "Джошуа Блох",
-          "title": "Java. Эффективное программирование",
+          "creator": "Р”Р¶РѕС€СѓР° Р‘Р»РѕС…",
+          "title": "Java. Р­С„С„РµРєС‚РёРІРЅРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ",
           "url": "https://www.ozon.ru/context/detail/id/21724143/",
           "isNotFree": true,
           "isAdvanced": true
         },
         {
-          "creator": "Брюс Эккель",
-          "title": "Философия Java",
+          "creator": "Р‘СЂСЋСЃ Р­РєРєРµР»СЊ",
+          "title": "Р¤РёР»РѕСЃРѕС„РёСЏ Java",
           "url": "https://www.ozon.ru/context/detail/id/142431463/",
           "isNotFree": true,
           "isAdvanced": true
         },
         {
-          "creator": "Герберт Шилдт",
-          "title": "Java 8. Руководство для начинающих",
-          "sections": "Глава 11, 21, 27, 28",
+          "creator": "Р“РµСЂР±РµСЂС‚ РЁРёР»РґС‚",
+          "title": "Java 8. Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…",
+          "sections": "Р“Р»Р°РІР° 11, 21, 27, 28",
           "url": "https://www.ozon.ru/context/detail/id/31249554/",
           "isNotFree": true
         },
         {
-          "creator": "Кей Хорстманн",
-          "title": "Java. Библиотека профессионала",
+          "creator": "РљРµР№ РҐРѕСЂСЃС‚РјР°РЅРЅ",
+          "title": "Java. Р‘РёР±Р»РёРѕС‚РµРєР° РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»Р°",
           "url": "https://www.ozon.ru/context/detail/id/25151213/",
           "isNotFree": true
         },
         {
-          "creator": "Кэти Сиерра, Берт Бейтс",
-          "title": "Head First: Изучаем Java",
+          "creator": "РљСЌС‚Рё РЎРёРµСЂСЂР°, Р‘РµСЂС‚ Р‘РµР№С‚СЃ",
+          "title": "Head First: РР·СѓС‡Р°РµРј Java",
           "url": "https://www.ozon.ru/context/detail/id/7821666/",
           "isNotFree": true
         }
