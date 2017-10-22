@@ -1,0 +1,17 @@
+﻿[
+  {
+    "name": "3Bet",
+    "url": "http://3bet.pro",
+    "img": "https://3bet.pro/resources/img/logo.png"
+  },
+  {
+    "name": "Vectree",
+    "url": "http://vectree.ru",
+    "img": "/img/vectree-logo-3.svg"
+  },
+  {
+    "name": "SpaceCraft",
+    "url": "http://spacecraftcode.ru",
+    "img": "https://spacecraftcode.ru/images/pages/login/rocket.png"
+  }
+]
