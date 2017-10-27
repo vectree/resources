@@ -1,0 +1,114 @@
+{
+  "topics": [
+    "Java Enterprise Edition",
+    "Основные компоненты JEE",
+    "Архитектура платформы JEE"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Golovach Courses",
+        "title": "Обзор J2EE",
+        "url": "https://www.youtube.com/watch?v=U3abRrhDl9c&list=PLoij6udfBncioun9-sBwpkpTit1SIhWko",
+        "sections": "часть с 1 по 6",
+        "isAdvised": true
+      },
+      {
+        "creator": "Тимур Батыршинов",
+        "title": "Ахитектура J2EE",
+        "sections": "Видео с 1 по 2",
+        "url": "https://www.youtube.com/watch?v=OQVTyjPzzeo&index=1&list=PLwwk4BHih4fjstwgKAHPAuUcjpRUiRh5k",
+        "isAdvised": true
+      },
+      {
+        "creator": "Мирончик Игорь Янович",
+        "title": "Разработка JEE приложений",
+        "url": "https://www.youtube.com/watch?v=5AirnKXPyW0&list=PL27FCF69EBF48228B&index=4",
+        "isAdvised": true
+      },
+      {
+        "creator": "Яков Файн",
+        "title": "Введение в JEE",
+        "url": "https://www.youtube.com/watch?v=tN8K1y-HSws&index=14&list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW"
+      },
+      {
+        "creator": "Сергей Немчинский",
+        "title": "Обзор возможностей J2EE",
+        "url": "https://www.youtube.com/watch?v=nL0LyeWqYb8"
+      },
+      {
+        "creator": "Сергей Немчинский",
+        "title": "Обзорная лекция по разработке Web приложений",
+        "url": "https://www.youtube.com/watch?v=ggWDA9EvV3g"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "IBM",
+        "title": "Описание технологий Java EE приложения",
+        "url": "https://www.ibm.com/developerworks/ru/library/j-jee5/",
+        "isAdvised": true
+      },
+      {
+        "creator": "NetBeans",
+        "title": "Начало работы с приложениями Java EE",
+        "url": "https://netbeans.org/kb/docs/javaee/javaee-gettingstarted_ru.html"
+      },
+      {
+        "creator": "Hixon",
+        "title": "Java EE 7 — Введение",
+        "url": "http://hixon.ru/java/java-ee-7-vvedenie.html"
+      },
+      {
+        "creator": "Stack Overflow",
+        "title": "Что такое Java EE?",
+        "url": "https://ru.stackoverflow.com/a/550983"
+      },
+      {
+        "creator": "Java Study",
+        "title": "Список вопросов с ответами для интервью по Java EE",
+        "isAdvised": true,
+        "url": "http://javastudy.ru/interview/list-of-questions-javaee-interview/"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Oracle America, Inc.",
+        "title": "Java EE Specification",
+        "sections": "Раздел 'Platform Overview'",
+        "url": "https://jcp.org/aboutJava/communityprocess/final/jsr366/index.html",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Энтони Гонсалвес",
+        "title": "Java EE 7. Основы",
+        "sections": "Глава 1. Краткий.обзор Java EE 7",
+        "url": "http://www.ozon.ru/context/detail/id/27663406/",
+        "isNotFree": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Арун Гупта",
+        "title": "Изучаем Java EE 7",
+        "sections": "Глава 1. Корпоративная платформа Java EE",
+        "url": "http://www.ozon.ru/context/detail/id/27933274/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Дэвид Хеффельфингер",
+        "title": "Java EE 6 и сервер приложений GlassFish 3",
+        "sections": "Глава 1",
+        "url": "http://www.ozon.ru/context/detail/id/20041033/",
+        "isNotFree": true
+      },
+      {
+        "creator": "М. Йенер, А. Фидом",
+        "title": "Java EE. Паттерны проектирования для профессионалов",
+        "sections": "Глава 2. Основы Java EE",
+        "url": "https://www.ozon.ru/context/detail/id/34187042/",
+        "isNotFree": true
+      }
+    ]
+  }
+}

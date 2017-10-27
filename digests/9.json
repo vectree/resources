@@ -1,0 +1,112 @@
+{
+  "topics": [
+    "JDBC",
+    "DAO",
+    "Repository"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Юрий Ткач",
+        "sections": "Лекция 13",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=2fAhdDwjRSA&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t&index=13"
+      },
+      {
+        "creator": "Роман Бровко",
+        "sections": "Лекции с 31 по 42",
+        "title": "Все необходимые темы на углубленном уровне",
+        "url": "https://www.youtube.com/watch?v=wOPnbPP9P3A&list=PLwwk4BHih4fho6gmaAwdHYZ6QQq0aE7Zi&index=39",
+        "isAdvanced": true
+      },
+      {
+        "creator": "Java Brain",
+        "title": "Все необходимые темы на углубленном уровне",
+        "sections": "Все лекции из плэй листа",
+        "url": "https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Devcolibri",
+        "title": "Статьи о Spring JDBC",
+        "url": "http://devcolibri.com/category/spring"
+      },
+      {
+        "creator": "Spring-projects",
+        "title": "Доступ к данным с использованием JDBC в Spring",
+        "url": "http://spring-projects.ru/guides/relational-data-access/"
+      },
+      {
+        "creator": "Easyjava",
+        "title": "Примеры запросов в Spring JDBC",
+        "url": "https://easyjava.ru/spring/spring-data-access/zaprosy-v-spring-jdbc/"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Spring.io",
+        "title": "Документация по доступу к данным в Spring c помощью JDBC",
+        "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html#jdbc",
+        "isAdvanced": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Eclipse.org",
+        "title": "Документация по JDBC",
+        "url": "https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Udemy",
+        "title": "Все необходимые темы",
+        "url": "https://www.udemy.com/spring-tutorial-for-beginners/",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Luxoft",
+        "title": "Все необходимые темы на глубоком уровне",
+        "url": "http://www.luxoft-training.ru/kurs/vladenie_karkasom_razrabotki_spring_framework.html",
+        "isAdvanced": true,
+        "isNotFree": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Крейг Уоллс",
+        "title": "Spring в действии",
+        "url": "https://www.ozon.ru/context/detail/id/31239365/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Крис Шефер, Кларенс Хо, Роб Харроп",
+        "title": "Spring 4 для профессионалов",
+        "url": "https://www.ozon.ru/context/detail/id/33056979/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Ashish Sarin",
+        "title": "Getting started with Spring Framework",
+        "url": "https://www.amazon.com/Getting-started-Spring-Framework-Sharma/dp/1480013978",
+        "isNotFree": true,
+        "isEnglish": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "spring.io",
+        "title": "Готовый проект с примером использования Spring JDBC",
+        "url": "https://github.com/spring-guides/gs-relational-data-access",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}

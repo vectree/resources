@@ -1,0 +1,103 @@
+{
+  "topics": [
+    "Aspect-oriented programming",
+    "AspectJ",
+    "Spring AOP"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Юрий Ткач",
+        "title": "Все необходимые темы",
+        "sections": "Лекции 11 и 12",
+        "url": "https://www.youtube.com/watch?v=aNcTL9e7luM&index=11&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t"
+      },
+      {
+        "creator": "Java Brain",
+        "title": "Все необходимые темы на углубленном уровне",
+        "sections": "Все лекции из плэй листа",
+        "url": "https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLE37064DE302862F8",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Wikibooks",
+        "title": "Теория аспектно-ориентированного программирования",
+        "url": "https://ru.wikibooks.org/wiki/%D0%90%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"
+      },
+      {
+        "creator": "Quizful",
+        "title": "Аспектно-ориентированное программирование в Spring Framework",
+        "url": "http://www.quizful.net/post/aspect-oriented-programming-in-spring"
+      },
+      {
+        "creator": "Ibm",
+        "title": "Мифы и реальности аспектно-ориентированного программирования",
+        "url": "https://www.ibm.com/developerworks/ru/library/j-aopwork15/"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Spring.io",
+        "title": "Документация по Spring AOP",
+        "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop",
+        "isAdvanced": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Eclipse",
+        "title": "Документация по AspectJ",
+        "url": "https://www.eclipse.org/aspectj/docs.php",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Udemy",
+        "title": "Все необходимые темы",
+        "url": "https://www.udemy.com/spring-tutorial-for-beginners/",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Luxoft",
+        "title": "Все необходимые темы на углубленном уровне",
+        "url": "http://www.luxoft-training.ru/kurs/vladenie_karkasom_razrabotki_spring_framework.html",
+        "isAdvanced": true,
+        "isNotFree": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Крейг Уоллс",
+        "title": "Spring в действии",
+        "url": "https://www.ozon.ru/context/detail/id/31239365/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Крис Шефер, Кларенс Хо, Роб Харроп",
+        "title": "Spring 4 для профессионалов",
+        "url": "https://www.ozon.ru/context/detail/id/33056979/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Ashish Sarin",
+        "title": "Getting started with Spring Framework",
+        "url": "https://www.amazon.com/Getting-started-Spring-Framework-Sharma/dp/1480013978",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Russ Miles",
+        "title": "AspectJ Cookbook",
+        "url": "https://www.ozon.ru/context/detail/id/2548549/",
+        "isNotFree": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}

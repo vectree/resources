@@ -1,0 +1,121 @@
+{
+  "topics": [
+    "Spring Beans",
+    "Spring Context",
+    "Spring Expression",
+    "Dependency Injection",
+    "Inversion of Control"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Юрий Ткач",
+        "sections": "Лекции с 1 по 10",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t&index=1"
+      },
+      {
+        "creator": "Евгений Борисов",
+        "title": "Об устройстве Spring",
+        "sections": "Часть 1 и 2",
+        "url": "https://www.youtube.com/watch?time_continue=5&v=BmBr5diz8WA",
+        "isAdvanced": true
+      },
+      {
+        "creator": "Oleg Zhurakousky",
+        "title": "Практические советы по использованию Spring",
+        "url": "https://www.youtube.com/watch?v=RY6dNUL8k6o",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Крейг Уоллс",
+        "title": "Spring в действии",
+        "url": "https://www.ozon.ru/context/detail/id/31239365/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Крис Шефер, Кларенс Хо, Роб Харроп",
+        "title": "Spring 4 для профессионалов",
+        "url": "https://www.ozon.ru/context/detail/id/33056979/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Ashish Sarin",
+        "title":   "Getting started with Spring Framework",
+        "url": "https://www.amazon.com/Getting-started-Spring-Framework-Sharma/dp/1480013978",
+        "isNotFree": true,
+        "isEnglish": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Spring.io",
+        "title": "Официальная документация по Spring Core",
+        "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Spring-source",
+        "title": "Архитектура Spring",
+        "url": "https://spring-source.ru/docs_simple.php?type=manual&theme=docs_simple&docs_simple=chap01_p01"
+      },
+      {
+        "creator": "Spring-projects",
+        "title": "Создание каркаса Spring приложения",
+        "url": "http://spring-projects.ru/guides/lessons/lesson-1/"
+      },
+      {
+        "creator": "Spring-projects",
+        "title": "Инверсия управления(Inversion of Control)",
+        "url": "http://spring-projects.ru/guides/lessons/lesson-2/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Практический пример использования Spring",
+        "url": "https://habrahabr.ru/post/333756/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Порядок инициализации контекста приложения",
+        "url": "https://habrahabr.ru/post/222579/"
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Udemy",
+        "title": "Все необходимые темы",
+        "url": "https://www.udemy.com/spring-tutorial-for-beginners/",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Luxoft",
+        "title": "Все необходимые темы на углубленном уровне",
+        "url": "http://www.luxoft-training.ru/kurs/vladenie_karkasom_razrabotki_spring_framework.html",
+        "isAdvanced": true,
+        "isNotFree": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "Spring.io",
+        "title": "Генератор Spring проектов",
+        "url": "https://start.spring.io/",
+        "isEnglish": true
+      },
+      {
+        "creator": "SpringDeveloper",
+        "title": "Полезные советы по Spring в IntelliJ IDEA",
+        "url": "https://www.youtube.com/watch?v=e7DR88jQa0Q",
+        "isEnglish": true
+      }
+    ]
+  }
+}
