@@ -1,6 +1,8 @@
 {
   "quizId": 0,
   "minPercent": 50,
+  "topicName": "Java",
+  "limit": 20,
   "questions": [
     {
       "question": "Какая разница между циклами с предусловием и постусловием?",
@@ -12,9 +14,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -27,9 +26,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -42,9 +38,6 @@
       ],
       "correctAnswers": [
         1
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -56,9 +49,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -74,9 +64,6 @@
         0,
         1,
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -88,9 +75,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -102,9 +86,6 @@
       ],
       "correctAnswers": [
         1
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -119,9 +100,6 @@
         0,
         1,
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -136,9 +114,6 @@
         0,
         1,
         3
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -151,9 +126,6 @@
       ],
       "correctAnswers": [
         3
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -166,9 +138,6 @@
       ],
       "correctAnswers": [
         3
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -182,9 +151,6 @@
       "correctAnswers": [
         0,
         1
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -198,9 +164,6 @@
       "correctAnswers": [
         0,
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -213,9 +176,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -229,9 +189,6 @@
       "correctAnswers": [
         0,
         1
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -245,9 +202,6 @@
       "correctAnswers": [
         0,
         1
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -260,9 +214,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -274,9 +225,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -288,9 +236,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -305,9 +250,6 @@
         0,
         1,
         3
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -319,9 +261,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -334,9 +273,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -349,9 +285,6 @@
       ],
       "correctAnswers": [
         1
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -364,9 +297,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -380,9 +310,6 @@
       "correctAnswers": [
         0,
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -395,9 +322,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -409,9 +333,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -426,9 +347,6 @@
         0,
         1,
         3
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -441,9 +359,6 @@
       ],
       "correctAnswers": [
         3
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -456,9 +371,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -471,9 +383,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -486,9 +395,6 @@
       ],
       "correctAnswers": [
         2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -500,9 +406,6 @@
       ],
       "correctAnswers": [
         0, 1, 2
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -514,9 +417,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -528,9 +428,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -542,9 +439,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
       ]
     },
     {
@@ -556,756 +450,6 @@
       ],
       "correctAnswers": [
         0
-      ],
-      "topics": [
-        "Java"
-      ]
-    },
-    {
-      "question": "Что такое Java EE?",
-      "answers": [
-        "Универсальный фреймворк с открытым исходным кодом для Java-платформы",
-        "Набор спецификаций и документации, описывающей архитектуру серверной платформы для задач предприятий",
-        "Фреймворк для автоматизации сборки проектов"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Какие технологии поддерживает Java EE?",
-      "answers": [
-        "EJB",
-        "JPA",
-        "HTTP",
-        "CORBA"
-      ],
-      "correctAnswers": [
-        0, 1
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Какие технологии поддерживает Java EE?",
-      "answers": [
-        "EJB",
-        "JPA",
-        "HTTP",
-        "CORBA",
-        "JTA"
-      ],
-      "correctAnswers": [
-        0, 1, 4
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Что такое сервлет?",
-      "answers": [
-        "Интерфейс Java, позволяющий работать с транзакциями",
-        "Интерфейс Java, реализация которого расширяет функциональные возможности сервера",
-        "Интерфейс Java, позволяющий работать с хранилищами данных",
-        "Интерфейс Java, обеспечивающий безопасность обработки данных"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Что такое JPA?",
-      "answers": [
-        "Спецификация, описывающая взаимодействие с базами данных",
-        "Спецификация, описывающая взаимодействие с кэшем",
-        "Спецификция, описывающая систему безопасности обработки данных"
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "В чем разница между SOA и веб сервисами?",
-      "answers": [
-        "Web Service - программный комплекс, основанный на сервис-ориентированной архитектуре",
-        "Web Service - идентифицируемая веб-адресом программная система",
-        "SOA - программный комплекс, основанный на сервис-ориентированной архитектуре",
-        "SOA - идентифицируемая веб-адресом программная система"
-      ],
-      "correctAnswers": [
-        1, 2
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "В чем разница между REST и SOAP веб сервисами?",
-      "answers": [
-        "REST поддерживает один формат - XML",
-        "REST может работать с ресурсами",
-        "SOAP не может работать с различными протоколами",
-        "REST поддерживает различные форматы"
-      ],
-      "correctAnswers": [
-        1, 3
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Какие два конечных типа веб сервисов используют JAX-WS?",
-      "answers": [
-        "WSDL",
-        "RPC",
-        "UDDI",
-        "Document style web service"
-      ],
-      "correctAnswers": [
-        1, 3
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Какие два конечных типа веб сервисов используют JAX-WS?",
-      "answers": [
-        "WSDL",
-        "RPC",
-        "UDDI",
-        "Document style web service"
-      ],
-      "correctAnswers": [
-        1, 3
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Что вы знаете о EJB?",
-      "answers": [
-        "Это фреймворк для построение бизнес-логики приложения",
-        "Делится на компоненты: Session beans, Message-Driven beans, Entities",
-        "Это фреймворк для тестирования нагрузки на базу данных",
-        "Делится на компоненты: Components, Message, Entities"
-      ],
-      "correctAnswers": [
-        0, 1
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Как называется API для поддержки транзакций?",
-      "answers": [
-        "JAAS",
-        "JPA",
-        "JSF",
-        "JTA"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Java EE"
-      ]
-    },
-    {
-      "question": "Какие из перечисленных выражений истинны в PostgreSQL?",
-      "answers": [
-        "NULL = NULL",
-        "NULL != NULL",
-        "NULL > NULL",
-        "ничего из вышеперечисленног"
-      ],
-      "correctAnswers": [
-        4
-      ],
-      "topics": [
-        "Postgres SQL"
-      ]
-    },
-    {
-      "question": "Выберите верный синтаксис DELETE выражений в PostgreSQL.",
-      "answers": [
-        "DELETE .. FROM .. HAVING",
-        "DELETE .. WHERE ..",
-        "DELETE .. FROM .. ORDER BY ..",
-        "DELETE .. FROM .. WHERE .."
-      ],
-      "correctAnswers": [
-        4
-      ],
-      "topics": [
-        "Postgres SQL"
-      ]
-    },
-    {
-      "question": "Может ли первичный ключ быть одновременно и внешним ключом?",
-      "answers": [
-        "Да",
-        "Нет"
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "topics": [
-        "Postgres SQL"
-      ]
-    },
-    {
-      "question": "Что такое первичный ключ?",
-      "answers": [
-        "Это синоним внешнего ключа",
-        "Колонка, в которую можно писать только уникальные значения",
-        "Одна колонка, которая однозначно идентифицирует запись в таблице и может быть описана как автоинкремент",
-        "Одна или несколько колонок, которые однозначно идентифицируют запись в таблице",
-        "Первая колонка в таблице"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Postgres SQL"
-      ]
-    },
-    {
-      "question": "Колонка EX_COL содержат значения { 100, 200, 300, NULL }. Каким будет результат функции AVG(EX_COL)?",
-      "answers": [
-        "0",
-        "150",
-        "200",
-        "Агрегатные функции не могут быть использованы для записей со значениями NULL"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Postgres SQL"
-      ]
-    },
-    {
-      "question": "Чему эквивалентен следующий запрос: SELECT * FROM product WHERE price BETWEEN 100 AND 200?",
-      "answers": [
-        "SELECT * FROM product WHERE price <= 100 OR price >= 200",
-        "SELECT * FROM product WHERE price >= 100 AND price <= 200",
-        "SELECT * FROM product WHERE price < 100 OR price > 200",
-        "SELECT * FROM product WHERE price > 100 AND price < 200"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Postgres SQL"
-      ]
-    },
-    {
-      "question": "Что такое сборка?",
-      "answers": [
-        "Одна из форм автоматического управления памятью",
-        "Двоичный файл, содержащий исполняемый код программы",
-        "Этап написания скриптов или автоматизация широкого спектра задач"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Какие задачи Maven?",
-      "answers": [
-        "Компиляция",
-        "Создание jar",
-        "Создания дистрибутива программы",
-        "Генерация документации",
-        "Позволяет писать unit-тесты",
-        "Позволяет создавать моки"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Какие задачи Maven?",
-      "answers": [
-        "Компиляция",
-        "Создание jar",
-        "Позволяет писать unit-тесты",
-        "Создания дистрибутива программы",
-        "Генерация документации",
-        "Позволяет создавать моки"
-      ],
-      "correctAnswers": [
-        0, 1, 3, 4
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Что делает команда mvn clean?",
-      "answers": [
-        "Создает веб-сайт проекта",
-        "Инициализирует состояние сборки, например, различные настройки",
-        "Очищает целевую директорию от созданных в процессе сборки файлов",
-        "Генерирует ресурсы, которые должны быть включены в пакет"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Что нужно определить для внешней зависимости?",
-      "answers": [
-        "groupId",
-        "systemId",
-        "artifactId",
-        "type"
-      ],
-      "correctAnswers": [
-        0, 2
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Что такое SNAPSHOT в Maven?",
-      "answers": [
-        "Текущая рабочая копия",
-        "Текущий релиз проекта",
-        "Вресия библиотеки Maven",
-        "Текущая версия на удаленном maven-репозитории"
-      ],
-      "correctAnswers": [
-        0, 2
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Можно ли собрать проект Maven без интернета?",
-      "answers": [
-        "Нет, так как Maven не может загрузить и проверить необходимые артифакты",
-        "Да",
-        "Да, если в локальном репозитории есть все необходимые артифакты"
-      ],
-      "correctAnswers": [
-        0, 2
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Между какими тегами указываются зависимости в pom файле?",
-      "answers": [
-        "<properties></properties>",
-        "<build></build>",
-        "<repositories></repositories>",
-        "<dependencies></dependencies>"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Какой командой можно запустить unit-тесты с помощью Maven?",
-      "answers": [
-        "mvn run test",
-        "mvn test",
-        "mvn build test",
-        "mvn -version"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Maven"
-      ]
-    },
-    {
-      "question": "Как создать репозиторий git для проекта?",
-      "answers": [
-        "git create",
-        "git new",
-        "git repository –new",
-        "git init"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Какой командой можно загрузить репозиторий на свой компьютер?",
-      "answers": [
-        "git pull",
-        "git push",
-        "git clone",
-        "git fetch"
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как проиндексировать файлы и сделать коммит одной командой?",
-      "answers": [
-        "git commit -m \"Comment\"",
-        "git commit -a -m \"Comment\"",
-        "git commit -add -m \"Comment\"",
-        "git commit --add -m \"Comment\""
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как проиндексировать несколько файлов одной командой?",
-      "answers": [
-        "git add TEXT1.txt, TEXT2.txt, TEXT3.txt",
-        "git add TEXT1.txt TEXT2.txt TEXT3.txt",
-        "git add TEXT1.txt ADD TEXT2.txt ADD TEXT3.txt"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как посмотреть id коммита?",
-      "answers": [
-        "git info",
-        "git id",
-        "git log",
-        "git commit id"
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как получить список всех веток?",
-      "answers": [
-        "git branch –all",
-        "git tree",
-        "git tree –all",
-        "git branch"
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как создать новую ветку с именем dev?",
-      "answers": [
-        "git create subtree dev",
-        "git create dev",
-        "git branch dev",
-        "git new dev",
-        "git branch new dev"
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как перейти из ветки master в ветку dev?",
-      "answers": [
-        "git move dev",
-        "git checkout dev",
-        "git change master dev",
-        "git branch master dev"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Как удалить ветку dev?",
-      "answers": [
-        "git branch --delete dev",
-        "git delete dev",
-        "git branch -d dev",
-        "git checkout --delete dev"
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "topics": [
-        "Git"
-      ]
-    },
-    {
-      "question": "Что такое unit тестирование?",
-      "answers": [
-        "Процесс проверки на корректность функционирования отдельных частей исходного кода",
-        "Фаза тестирования, при которой программные модули тестируются в группе",
-        "Тестирование системы в целом"
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "topics": [
-        "JUnit"
-      ]
-    },
-    {
-      "question": "Для чего нужна аннотация @Ignore?",
-      "answers": [
-        "Игнорировать данный тестовый метод",
-        "Игнорировать данный тестовый класс",
-        "Игнорировать инициализация тестов",
-        "Ничего из вышеперечисленного"
-      ],
-      "correctAnswers": [
-        0, 1
-      ],
-      "topics": [
-        "JUnit"
-      ]
-    },
-    {
-      "question": "Какова цель аннотации @Before над не тестовом методом в JUnit?",
-      "answers": [
-        "Метод запускается только один раз при запуске теста",
-        "Метод запускается перед каждым тестовым методом",
-        "Метод запускается после каждого метода",
-        "Метод запускается после того, как отработали все тестовые методы"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "JUnit"
-      ]
-    },
-    {
-      "question": "Какой аннотацией помечаются Mock-объекты в Mockito?",
-      "answers": [
-        "@Mockito",
-        "@Mock",
-        "@Mocks",
-        "@Abstract"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "JUnit"
-      ]
-    },
-    {
-      "question": "Какими методами можно проверить эквивалентность объектов",
-      "answers": [
-        "assertEquals",
-        "assertThat",
-        "assertCopies",
-        "assertSimilar"
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "JUnit"
-      ]
-    },
-    {
-      "question": "Что вы понимаете под Dependency Injection?",
-      "answers": [
-        "Процесс предоставления внешней зависимости программному компоненту",
-        "Процесс предоставления параметров программному компоненту",
-        "Процесс внедрения в систему программных компонент"
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Что вы понимаете под аспектно-ориентированным программированием?",
-      "answers": [
-        "Парадигма программирования, в которой выполнение программы определяется событиями",
-        "Парадигма программирования, основанная на идее разделения функциональности",
-        "Парадигма программирования, при использовании которой программа осмысливается как модель автомата."
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Какие вы знаете scope у Spring Bean?",
-      "answers": [
-        "singleton",
-        "prototype",
-        "class",
-        "bean"
-      ],
-      "correctAnswers": [
-        0, 1
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Какие задачи контроллера в Spring MVC?",
-      "answers": [
-        "Обрабатывает запросы к действиям",
-        "Контроллирует контекст Spring",
-        "Занимается хранением данных",
-        "Управляет связью между видом и моделью"
-      ],
-      "correctAnswers": [
-        0, 3
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Что такое pointcut в AOP?",
-      "answers": [
-        "Действие, которое применяется в какой-то момент в программе",
-        "Предикат, который соответствует различным местам в нескольких классах",
-        "Отдельный модуль с логикой, который применяется к нескольким классам",
-        "Точка во время выполнения программы, где применяется некоторая логика"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Отметьте Spring аннотации",
-      "answers": [
-        "@Controller",
-        "@Autowired",
-        "@Autocloseable",
-        "@ResponseBody"
-      ],
-      "correctAnswers": [
-        0, 1, 3
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Отметьте Spring аннотации",
-      "answers": [
-        "@Controller",
-        "@Autowired",
-        "@Autocloseable",
-        "@ResponseBody"
-      ],
-      "correctAnswers": [
-        0, 1, 3
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "С помощью какого класса реализована поддержка JDBC API?",
-      "answers": [
-        "JDBCDataSource",
-        "TemplateJDBC",
-        "JavaDataBaseClient",
-        "JDBCTemplate"
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Какая аннотация используется для управления транзакциями?",
-      "answers": [
-        "@Transaction",
-        "@Transactional",
-        "@Atomic",
-        "@Transactions"
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "topics": [
-        "Spring"
-      ]
-    },
-    {
-      "question": "Какой проект предоставляет возможности по защите приложения?",
-      "answers": [
-        "Spring Security",
-        "Spring Defence",
-        "Spring DAO",
-        "Spring SSA"
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "topics": [
-        "Spring"
       ]
     }
   ]

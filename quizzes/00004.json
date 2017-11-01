@@ -1,0 +1,116 @@
+{
+  "quizId": 4,
+  "minPercent": 50,
+  "topicName": "Git",
+  "limit": 5,
+  "questions": [
+    {
+      "question": "Как создать репозиторий git для проекта?",
+      "answers": [
+        "git create",
+        "git new",
+        "git repository –new",
+        "git init"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Какой командой можно загрузить репозиторий на свой компьютер?",
+      "answers": [
+        "git pull",
+        "git push",
+        "git clone",
+        "git fetch"
+      ],
+      "correctAnswers": [
+        2
+      ],
+    },
+    {
+      "question": "Как проиндексировать файлы и сделать коммит одной командой?",
+      "answers": [
+        "git commit -m \"Comment\"",
+        "git commit -a -m \"Comment\"",
+        "git commit -add -m \"Comment\"",
+        "git commit --add -m \"Comment\""
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как проиндексировать несколько файлов одной командой?",
+      "answers": [
+        "git add TEXT1.txt, TEXT2.txt, TEXT3.txt",
+        "git add TEXT1.txt TEXT2.txt TEXT3.txt",
+        "git add TEXT1.txt ADD TEXT2.txt ADD TEXT3.txt"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как посмотреть id коммита?",
+      "answers": [
+        "git info",
+        "git id",
+        "git log",
+        "git commit id"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как получить список всех веток?",
+      "answers": [
+        "git branch –all",
+        "git tree",
+        "git tree –all",
+        "git branch"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как создать новую ветку с именем dev?",
+      "answers": [
+        "git create subtree dev",
+        "git create dev",
+        "git branch dev",
+        "git new dev",
+        "git branch new dev"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как перейти из ветки master в ветку dev?",
+      "answers": [
+        "git move dev",
+        "git checkout dev",
+        "git change master dev",
+        "git branch master dev"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как удалить ветку dev?",
+      "answers": [
+        "git branch --delete dev",
+        "git delete dev",
+        "git branch -d dev",
+        "git checkout --delete dev"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    }
+  ]
+}

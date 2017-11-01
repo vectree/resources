@@ -1,0 +1,79 @@
+{
+  "quizId": 2,
+  "minPercent": 50,
+  "topicName": "Postgres SQL",
+  "limit": 3,
+  "questions": [
+    {
+      "question": "Какие из перечисленных выражений истинны в PostgreSQL?",
+      "answers": [
+        "NULL = NULL",
+        "NULL != NULL",
+        "NULL > NULL",
+        "ничего из вышеперечисленног"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "question": "Выберите верный синтаксис DELETE выражений в PostgreSQL.",
+      "answers": [
+        "DELETE .. FROM .. HAVING",
+        "DELETE .. WHERE ..",
+        "DELETE .. FROM .. ORDER BY ..",
+        "DELETE .. FROM .. WHERE .."
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "question": "Может ли первичный ключ быть одновременно и внешним ключом?",
+      "answers": [
+        "Да",
+        "Нет"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Что такое первичный ключ?",
+      "answers": [
+        "Это синоним внешнего ключа",
+        "Колонка, в которую можно писать только уникальные значения",
+        "Одна колонка, которая однозначно идентифицирует запись в таблице и может быть описана как автоинкремент",
+        "Одна или несколько колонок, которые однозначно идентифицируют запись в таблице",
+        "Первая колонка в таблице"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Колонка EX_COL содержат значения { 100, 200, 300, NULL }. Каким будет результат функции AVG(EX_COL)?",
+      "answers": [
+        "0",
+        "150",
+        "200",
+        "Агрегатные функции не могут быть использованы для записей со значениями NULL"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Чему эквивалентен следующий запрос: SELECT * FROM product WHERE price BETWEEN 100 AND 200?",
+      "answers": [
+        "SELECT * FROM product WHERE price <= 100 OR price >= 200",
+        "SELECT * FROM product WHERE price >= 100 AND price <= 200",
+        "SELECT * FROM product WHERE price < 100 OR price > 200",
+        "SELECT * FROM product WHERE price > 100 AND price < 200"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "quizId": 6,
+  "minPercent": 50,
+  "topicName": "Spring",
+  "limit": 5,
+  "questions": [
+    {
+      "question": "Что вы понимаете под Dependency Injection?",
+      "answers": [
+        "Процесс предоставления внешней зависимости программному компоненту",
+        "Процесс предоставления параметров программному компоненту",
+        "Процесс внедрения в систему программных компонент"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Что вы понимаете под аспектно-ориентированным программированием?",
+      "answers": [
+        "Парадигма программирования, в которой выполнение программы определяется событиями",
+        "Парадигма программирования, основанная на идее разделения функциональности",
+        "Парадигма программирования, при использовании которой программа осмысливается как модель автомата."
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Какие вы знаете scope у Spring Bean?",
+      "answers": [
+        "singleton",
+        "prototype",
+        "class",
+        "bean"
+      ],
+      "correctAnswers": [
+        0, 1
+      ]
+    },
+    {
+      "question": "Какие задачи контроллера в Spring MVC?",
+      "answers": [
+        "Обрабатывает запросы к действиям",
+        "Контроллирует контекст Spring",
+        "Занимается хранением данных",
+        "Управляет связью между видом и моделью"
+      ],
+      "correctAnswers": [
+        0, 3
+      ]
+    },
+    {
+      "question": "Что такое pointcut в AOP?",
+      "answers": [
+        "Действие, которое применяется в какой-то момент в программе",
+        "Предикат, который соответствует различным местам в нескольких классах",
+        "Отдельный модуль с логикой, который применяется к нескольким классам",
+        "Точка во время выполнения программы, где применяется некоторая логика"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Отметьте Spring аннотации",
+      "answers": [
+        "@Controller",
+        "@Autowired",
+        "@Autocloseable",
+        "@ResponseBody"
+      ],
+      "correctAnswers": [
+        0, 1, 3
+      ]
+    },
+    {
+      "question": "Отметьте Spring аннотации",
+      "answers": [
+        "@Controller",
+        "@Autowired",
+        "@Autocloseable",
+        "@ResponseBody"
+      ],
+      "correctAnswers": [
+        0, 1, 3
+      ]
+    },
+    {
+      "question": "С помощью какого класса реализована поддержка JDBC API?",
+      "answers": [
+        "JDBCDataSource",
+        "TemplateJDBC",
+        "JavaDataBaseClient",
+        "JDBCTemplate"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Какая аннотация используется для управления транзакциями?",
+      "answers": [
+        "@Transaction",
+        "@Transactional",
+        "@Atomic",
+        "@Transactions"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какой проект предоставляет возможности по защите приложения?",
+      "answers": [
+        "Spring Security",
+        "Spring Defence",
+        "Spring DAO",
+        "Spring SSA"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    }
+  ]
+}
