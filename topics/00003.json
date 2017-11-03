@@ -1,8 +1,6 @@
 {
-  "quizId": 3,
-  "minPercent": 50,
+  "topicId": 3,
   "topicName": "Maven",
-  "limit": 5,
   "questions": [
     {
       "question": "Что такое сборка?",

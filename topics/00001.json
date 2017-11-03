@@ -1,8 +1,6 @@
 {
-  "quizId": 1,
-  "minPercent": 50,
+  "topicId": 1,
   "topicName": "Java EE",
-  "limit": 6,
   "questions": [
     {
       "question": "Что такое Java EE?",

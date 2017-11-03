@@ -10,8 +10,8 @@
   "practicePeriod": 14,
   "complexity": 4,
   "mentors": true,
-  "timelineId": "0",
-  "quizId": "0",
+  "timelineId": 0,
+  "quizId": 0,
   "steps": [
     "Подготовка с помощью дерева навыков",
     "Тест на знание пройденного материала",

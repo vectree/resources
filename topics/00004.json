@@ -1,8 +1,6 @@
 {
-  "quizId": 4,
-  "minPercent": 50,
+  "topicId": 4,
   "topicName": "Git",
-  "limit": 5,
   "questions": [
     {
       "question": "Как создать репозиторий git для проекта?",

@@ -1,8 +1,6 @@
 {
-  "quizId": 5,
-  "minPercent": 50,
+  "topicId": 5,
   "topicName": "JUnit",
-  "limit": 3,
   "questions": [
     {
       "question": "Что такое unit тестирование?",

@@ -1,7 +1,7 @@
 [
   {
     "content": {
-      "digestId": "4",
+      "digestId": 4,
       "label": "Java EE",
       "title": "Обзор платформы",
       "text": "Что такое Java EE? Что позволяет сделать Java EE? Какие модули входят в Java EE? Ответы на эти вопросы вы получите в этом дайджесте."
@@ -12,7 +12,7 @@
   },
   {
     "content": {
-      "digestId": "5",
+      "digestId": 5,
       "label": "Java EE",
       "title": "Спецификации Java EE API",
       "text": "Ознакомит вас с набором официальных правил (соглашений) принятых в Java EE. Такие как JPA, Servlet API, JAX-RS, корпоративные EJB-компоненты."
@@ -23,7 +23,7 @@
   },
   {
     "content": {
-      "digestId": "6",
+      "digestId": 6,
       "label": "Java EE",
       "title": "Java EE для профессионалов. JAAS и JTA.",
       "text": "Углубитесь в возможности, которые декларирует Java EE. Узнаем о механизмах защиты J2EE. И что же моежт JTA ?"

@@ -1,8 +1,6 @@
 {
-  "quizId": 6,
-  "minPercent": 50,
+  "topicId": 6,
   "topicName": "Spring",
-  "limit": 5,
   "questions": [
     {
       "question": "Что вы понимаете под Dependency Injection?",

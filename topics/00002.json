@@ -1,8 +1,6 @@
 {
-  "quizId": 2,
-  "minPercent": 50,
+  "topicId": 2,
   "topicName": "Postgres SQL",
-  "limit": 3,
   "questions": [
     {
       "question": "Какие из перечисленных выражений истинны в PostgreSQL?",
