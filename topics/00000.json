@@ -194,8 +194,7 @@
       "answers": [
         "Использовать итератор, работающий по принципу fail-safe",
         "Enumeration только для read-only коллекций",
-        "У Enumeration есть метод remove",
-        "Iterator использует меньше памяти"
+        "У Enumeration есть метод remove"
       ],
       "correctAnswers": [
         0,
