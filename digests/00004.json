@@ -10,8 +10,7 @@
         "creator": "Golovach Courses",
         "title": "Обзор J2EE",
         "url": "https://www.youtube.com/watch?v=U3abRrhDl9c&list=PLoij6udfBncioun9-sBwpkpTit1SIhWko",
-        "sections": "часть с 1 по 6",
-        "isAdvised": true
+        "sections": "часть с 1 по 6"
       },
       {
         "creator": "Тимур Батыршинов",
@@ -23,8 +22,7 @@
       {
         "creator": "Мирончик Игорь Янович",
         "title": "Разработка JEE приложений",
-        "url": "https://www.youtube.com/watch?v=5AirnKXPyW0&list=PL27FCF69EBF48228B&index=4",
-        "isAdvised": true
+        "url": "https://www.youtube.com/watch?v=5AirnKXPyW0&list=PL27FCF69EBF48228B&index=4"
       },
       {
         "creator": "Яков Файн",
@@ -58,17 +56,19 @@
         "creator": "Hixon",
         "title": "Java EE 7 — Введение",
         "url": "http://hixon.ru/java/java-ee-7-vvedenie.html"
-      },
-      {
-        "creator": "Stack Overflow",
-        "title": "Что такое Java EE?",
-        "url": "https://ru.stackoverflow.com/a/550983"
-      },
+      }
+    ],
+    "Полезные ссылки": [
       {
         "creator": "Java Study",
         "title": "Список вопросов с ответами для интервью по Java EE",
         "isAdvised": true,
         "url": "http://javastudy.ru/interview/list-of-questions-javaee-interview/"
+      },
+      {
+        "creator": "Stack Overflow",
+        "title": "Что такое Java EE?",
+        "url": "https://ru.stackoverflow.com/a/550983"
       }
     ],
     "Книги": [
@@ -77,7 +77,6 @@
         "title": "Java EE Specification",
         "sections": "Раздел 'Platform Overview'",
         "url": "https://jcp.org/aboutJava/communityprocess/final/jsr366/index.html",
-        "isAdvised": true,
         "isEnglish": true
       },
       {

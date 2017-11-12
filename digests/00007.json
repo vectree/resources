@@ -12,6 +12,7 @@
         "creator": "Юрий Ткач",
         "sections": "Лекции с 1 по 10",
         "title": "Все необходимые темы",
+        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=3wBteulZaAs&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t&index=1"
       },
       {
@@ -69,16 +70,19 @@
       {
         "creator": "Spring-projects",
         "title": "Создание каркаса Spring приложения",
+        "isAdvised": true,
         "url": "http://spring-projects.ru/guides/lessons/lesson-1/"
       },
       {
         "creator": "Spring-projects",
         "title": "Инверсия управления(Inversion of Control)",
+        "isAdvised": true,
         "url": "http://spring-projects.ru/guides/lessons/lesson-2/"
       },
       {
         "creator": "Habrahabr",
         "title": "Практический пример использования Spring",
+        "isAdvised": true,
         "url": "https://habrahabr.ru/post/333756/"
       },
       {

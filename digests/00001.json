@@ -12,7 +12,8 @@
         "creator": "Сергей Немчинский",
         "sections": "лекции с 3 по 4",
         "title": "ООП, JVM, уровни доступа",
-        "url": "https://www.youtube.com/watch?v=9GdtWiovvIQ&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=1"
+        "url": "https://www.youtube.com/watch?v=9GdtWiovvIQ&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=1",
+        "isAdvised": true
       },
       {
         "creator": "Юрий Ткач",
@@ -39,7 +40,6 @@
       {
         "creator": "Герберт Шилдт",
         "title": "Java 8. Руководство для начинающих",
-        "sections": "с 6 по 15 главу",
         "url": "https://www.ozon.ru/context/detail/id/31249554/",
         "isNotFree": true
       },
@@ -53,6 +53,7 @@
         "creator": "Кэти Сиерра, Берт Бейтс",
         "title": "Head First: Изучаем Java",
         "url": "https://www.ozon.ru/context/detail/id/7821666/",
+        "isAdvised": true,
         "isNotFree": true
       }
     ],
@@ -76,12 +77,14 @@
         "creator": "Kostin",
         "title": "Программирование на Java",
         "sections": "с 9 по 14 урок",
-        "url": "http://kostin.ws/java/"
+        "url": "http://kostin.ws/java/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
         "title": "Обработка строк в Java",
-        "url": "https://habrahabr.ru/post/260767/"
+        "url": "https://habrahabr.ru/post/260767/",
+        "isAdvised": true
       }
     ],
     "Задачники": [
@@ -101,7 +104,8 @@
         "creator": "Codefights",
         "title": "Строки",
         "url": "https://codefights.com/interview-practice/topics/strings",
-        "isEnglish": true
+        "isEnglish": true,
+        "isAdvised": true
       }
     ],
     "Интерактивные сервисы": [
@@ -110,7 +114,8 @@
         "title": "ООП, исключения, строки",
         "sections": "3 раздел",
         "url": "https://www.codecademy.com/learn/learn-java",
-        "isEnglish": true
+        "isEnglish": true,
+        "isAdvised": true
       },
       {
         "creator": "JavaRush",
@@ -131,12 +136,13 @@
         "creator": "Stepik",
         "title": "ООП, исключения, ввод-вывод",
         "sections": "с 3 по 5 раздел",
-        "url": "https://stepik.org/course/187"
+        "url": "https://stepik.org/course/187",
+        "isAdvised": true
       },
       {
         "creator": "Udacity",
         "title": "ООП",
-        "url": "https://www.udacity.com/course/Object-Oriented-Programming-in-Java",
+        "url": "https://www.udacity.com/course/object-oriented-programming-in-java--ud283",
         "isEnglish": true
       },
       {

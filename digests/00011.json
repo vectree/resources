@@ -15,8 +15,7 @@
       {
         "creator": "Сергей Немчинский",
         "title": "Юнит-тестирование в разработке",
-        "url": "https://www.youtube.com/watch?v=KAny2OSYY3Y",
-        "isAdvised": true
+        "url": "https://www.youtube.com/watch?v=KAny2OSYY3Y"
       },
       {
         "creator": "Петр Арсентьев",
@@ -48,7 +47,8 @@
       {
         "creator": "Habrahabr",
         "title": "Юнит-тестирование для чайников",
-        "url": "https://habrahabr.ru/post/169381/"
+        "url": "https://habrahabr.ru/post/169381/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
@@ -63,13 +63,9 @@
       },
       {
         "creator": "Habrahabr",
-        "title": "Интеграционные тесты с Maven, JUnit и Spring",
-        "url": "https://habrahabr.ru/post/146984/"
-      },
-      {
-        "creator": "Habrahabr",
         "title": "Тестирование в Java. JUnit",
-        "url": "https://habrahabr.ru/post/120101/"
+        "url": "https://habrahabr.ru/post/120101/",
+        "isAdvised": true
       },
       {
         "creator": "TutorialsPoint",

@@ -13,6 +13,7 @@
         "creator": "Тимур Батыршинов",
         "sections": "с 1 по 21 урок",
         "title": "Все необходимые темы",
+        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=_jXDPfUKm58&index=1&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t"
       },
       {
@@ -40,7 +41,6 @@
       {
         "creator": "Герберт Шилдт",
         "title": "Java 8. Руководство для начинающих",
-        "sections": "с 1 по 5 главу",
         "url": "https://www.ozon.ru/context/detail/id/31249554/",
         "isNotFree": true
       },
@@ -54,7 +54,8 @@
         "creator": "Кэти Сиерра, Берт Бейтс",
         "title": "Head First: Изучаем Java",
         "url": "https://www.ozon.ru/context/detail/id/7821666/",
-        "isNotFree": true
+        "isNotFree": true,
+        "isAdvised": true
       }
     ],
     "Статьи": [
@@ -77,7 +78,8 @@
         "creator": "Kostin",
         "title": "Все необходимые темы",
         "sections": "с 1 по 8 урок",
-        "url": "http://kostin.ws/java/"
+        "url": "http://kostin.ws/java/",
+        "isAdvised": true
       }
     ],
     "Задачники": [
@@ -106,7 +108,8 @@
         "title": "Все необходимые темы",
         "sections": "с 1 по 2 раздел",
         "url": "https://www.codecademy.com/learn/learn-java",
-        "isEnglish": true
+        "isEnglish": true,
+        "isAdvised": true
       },
       {
         "creator": "JavaRush",
@@ -121,7 +124,8 @@
         "creator": "Stepik",
         "title": "Все необходимые темы",
         "sections": "с 1 по 2 раздел",
-        "url": "https://stepik.org/course/187"
+        "url": "https://stepik.org/course/187",
+        "isAdvised": true
       },
       {
         "creator": "Udacity",

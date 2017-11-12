@@ -35,7 +35,8 @@
       {
         "creator": "Habrahabr",
         "title": "Шесть простых примеров по Mockito",
-        "url": "https://habrahabr.ru/post/243155/"
+        "url": "https://habrahabr.ru/post/243155/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
@@ -46,16 +47,6 @@
         "creator": "Java-online",
         "title": "JUnit и фреймворк Mockito",
         "url": "http://java-online.ru/junit-mockito.xhtml"
-      },
-      {
-        "creator": "Habrahabr",
-        "title": "JMock и EasyMock",
-        "url": "https://habrahabr.ru/post/136466/"
-      },
-      {
-        "creator": "Habrahabr",
-        "title": "Трагедия стопроцентного покрытия кода",
-        "url": "https://habrahabr.ru/company/everydaytools/blog/328406/"
       },
       {
         "creator": "Fruzenshtein",

@@ -16,8 +16,7 @@
       {
         "creator": "Сергей Немчинский",
         "title": "Maven",
-        "url": "https://www.youtube.com/watch?v=IAbZVA4tK6M",
-        "isAdvised": true
+        "url": "https://www.youtube.com/watch?v=IAbZVA4tK6M"
       },
       {
         "creator": "LessonFirst",
@@ -41,7 +40,8 @@
       {
         "creator": "Habrahabr",
         "title": "Apache Maven — основы",
-        "url": "https://habrahabr.ru/post/77382/"
+        "url": "https://habrahabr.ru/post/77382/",
+        "isAdvised": true
       },
       {
         "creator": "Proselyte",

@@ -30,7 +30,6 @@
         "creator": "Технопарк Mail.ru Group",
         "title": "Инструменты, Servlet API",
         "url": "https://www.youtube.com/watch?v=suq_phQsOck",
-        "isAdvised": true
       },
       {
         "creator": "Telusko Learnings",
@@ -44,14 +43,12 @@
         "title": "REST Web Services",
         "sections": "Весь плейлист",
         "url": "https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn",
-        "isAdvised": true,
         "isEnglish": true
       },
       {
         "creator": "Oracle Developers",
         "title": "JAX-RS",
         "url": "https://www.youtube.com/watch?v=Xra9JHZIL5Q",
-        "isAdvised": true,
         "isEnglish": true
       }
     ],
@@ -61,15 +58,13 @@
         "title": "The Java EE 6 Tutorial",
         "sections": "JPA, REST, Servlet-API, JAX-RS",
         "url": "https://docs.oracle.com/javaee/6/tutorial/doc/bnbpz.html",
-        "isEnglish": true,
-        "isAdvised": true
+        "isEnglish": true
       },
       {
         "creator": "Oracle America, Inc.",
         "title": "Java EE Specification",
         "sections": "EE.5.5 Enterprise JavaBeans™ (EJB) References",
         "url": "https://jcp.org/aboutJava/communityprocess/final/jsr366/index.html",
-        "isAdvanced": true,
         "isEnglish": true
       }
     ],

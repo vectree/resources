@@ -10,7 +10,8 @@
         "creator": "Александр Скрылев",
         "sections": "3 и 4 урок",
         "title": "Редактирование таблиц, расширенные возможности SELECT, функции",
-        "url": "https://www.youtube.com/watch?v=GSanCvaOKWA"
+        "url": "https://www.youtube.com/watch?v=GSanCvaOKWA",
+        "isAdvised": true
       },
       {
         "creator": "Corey Schafer",
@@ -26,24 +27,27 @@
         "title": "Понимание SQL",
         "sections": "главы: 3, 6, 15-17",
         "url": "http://www.sql.ru/docs/sql/u_sql/"
-      },
-      {
-        "creator": "Всемирная группа разработчиков PostgreSQL",
-        "title": "Учебник PostgreSQL",
-        "sections": "2 глава 5-9 разделы",
-        "url": "http://citforum.ru/database/postgresql/tutorial-sql.html"
       }
     ],
     "Статьи": [
       {
         "creator": "PostgresPro",
         "title": "Триггерные процедуры",
-        "url": "https://postgrespro.ru/docs/postgresql/9.6/plpgsql-trigger.html"
+        "url": "https://postgrespro.ru/docs/postgresql/9.6/plpgsql-trigger.html",
+        "isAdvised": true
       },
       {
         "creator": "PostgresPro",
         "title": "Функции",
+        "isAdvised": true,
         "url": "https://postgrespro.ru/docs/postgrespro/9.5/sql-createfunction.html"
+      },
+      {
+        "creator": "Citforum",
+        "title": "Учебник PostgreSQL",
+        "sections": "2 глава 5-9 разделы",
+        "url": "http://citforum.ru/database/postgresql/tutorial-sql.html",
+        "isAdvised": true
       }
     ],
     "Полезные ссылки": [

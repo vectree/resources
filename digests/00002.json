@@ -47,7 +47,8 @@
         "title": "Collections",
         "sections": "4 раздел",
         "url": "https://www.codecademy.com/learn/learn-java",
-        "isEnglish": true
+        "isEnglish": true,
+        "isAdvised": true
       },
       {
         "creator": "JavaRush",
@@ -71,17 +72,20 @@
       {
         "creator": "Habrahabr",
         "title": "Сериализация",
-        "url": "https://habrahabr.ru/post/60317/"
+        "url": "https://habrahabr.ru/post/60317/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
         "title": "Streams",
-        "url": "https://habrahabr.ru/company/luxoft/blog/270383/"
+        "url": "https://habrahabr.ru/company/luxoft/blog/270383/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
         "title": "Collections",
-        "url": "https://habrahabr.ru/post/237043/"
+        "url": "https://habrahabr.ru/post/237043/",
+        "isAdvised": true
       }
     ],
     "Онлайн-курсы": [
@@ -101,7 +105,8 @@
         "creator": "Stepik",
         "title": "Collections, generics, streams",
         "sections": "6 раздел",
-        "url": "https://stepik.org/course/187"
+        "url": "https://stepik.org/course/187",
+        "isAdvised": true
       },
       {
         "creator": "Udacity",
@@ -128,7 +133,6 @@
       {
         "creator": "Герберт Шилдт",
         "title": "Java 8. Руководство для начинающих",
-        "sections": "с 17 по 18 главу",
         "url": "https://www.ozon.ru/context/detail/id/31249554/",
         "isNotFree": true
       },
@@ -142,7 +146,8 @@
         "creator": "Кэти Сиерра, Берт Бейтс",
         "title": "Head First: Изучаем Java",
         "url": "https://www.ozon.ru/context/detail/id/7821666/",
-        "isNotFree": true
+        "isNotFree": true,
+        "isAdvised": true
       }
     ]
   }

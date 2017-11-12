@@ -1,12 +1,8 @@
 {
   "topics": [
-    "установка",
-    "фундаментальные основы архитектуры",
-    "создание базы данных",
-    "доступ к базе данных",
+    "создание и доступ",
     "создание и удаление таблицы,",
     "вставка",
-    "вывод",
     "удаление и изменение записей"
   ],
   "resources": {
@@ -15,6 +11,7 @@
         "creator": "Александр Скрылев",
         "sections": "1 и 2 урок",
         "title": "Основы SQL",
+        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=P2Eaf9M4gOU"
       },
       {
@@ -31,25 +28,32 @@
         "title": "Понимание SQL",
         "sections": "1 и 2 глава",
         "url": "http://www.sql.ru/docs/sql/u_sql/"
-      },
-      {
-        "creator": "Всемирная группа разработчиков PostgreSQL",
-        "title": "Учебник PostgreSQL",
-        "sections": "1 глава полностью и 2 глава 1-5 разделы",
-        "url": "http://citforum.ru/database/postgresql/tutorial-sql.html"
       }
     ],
     "Статьи": [
       {
         "creator": "DigitalOcean",
         "title": "Установка и использование PostgreSQL в Ubuntu",
-        "url": "https://www.digitalocean.com/community/tutorials/postgresql-ubuntu-16-04-ru"
+        "url": "https://www.digitalocean.com/community/tutorials/postgresql-ubuntu-16-04-ru",
+        "isAdvised": true
       },
       {
         "creator": "TutorialsPoint",
         "title": "Краткие туториалы по всем аспектам PostgreSQL",
         "sections": "Раздел PostgresSQL Tutorial",
         "url": "https://www.tutorialspoint.com/postgresql/index.htm"
+      },
+      {
+        "creator": "Citforum",
+        "title": "Учебник PostgreSQL",
+        "sections": "1 глава полностью и 2 глава 1-5 разделы",
+        "url": "http://citforum.ru/database/postgresql/tutorial-sql.html",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Курс молодого бойца PostgreSQL",
+        "url": "https://habrahabr.ru/post/340460/"
       }
     ],
     "Полезные ссылки": [

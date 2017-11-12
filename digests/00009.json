@@ -9,6 +9,7 @@
       {
         "creator": "Юрий Ткач",
         "sections": "Лекция 13",
+        "isAdvised": true,
         "title": "Все необходимые темы",
         "url": "https://www.youtube.com/watch?v=2fAhdDwjRSA&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t&index=13"
       },
@@ -37,10 +38,12 @@
       {
         "creator": "Spring-projects",
         "title": "Доступ к данным с использованием JDBC в Spring",
+        "isAdvised": true,
         "url": "http://spring-projects.ru/guides/relational-data-access/"
       },
       {
         "creator": "Easyjava",
+        "isAdvised": true,
         "title": "Примеры запросов в Spring JDBC",
         "url": "https://easyjava.ru/spring/spring-data-access/zaprosy-v-spring-jdbc/"
       }

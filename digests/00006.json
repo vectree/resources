@@ -49,8 +49,7 @@
         "creator": "Oracle America, Inc.",
         "title": "JTA",
         "url": "http://download.oracle.com/otndocs/jcp/jta-1.1-spec-oth-JSpec/?submit=Download",
-        "isEnglish": true,
-        "isAdvised": true
+        "isEnglish": true
       }
     ],
     "Статьи": [
@@ -63,7 +62,8 @@
         "creator": "Devcolibri",
         "title": "JAAS, Security Architecture",
         "sections": "Обратите внимание на продолжение статьи (Часть 2)",
-        "url": "http://devcolibri.com/4575"
+        "url": "http://devcolibri.com/4575",
+        "isAdvised": true
       },
       {
         "creator": "Red Hat",

@@ -11,7 +11,8 @@
         "creator": "Александр Скрылев",
         "sections": "5 урок",
         "title": "Транзакции",
-        "url": "https://www.youtube.com/watch?v=d6c1S9O1rJ8"
+        "url": "https://www.youtube.com/watch?v=d6c1S9O1rJ8",
+        "isAdvised": true
       },
       {
         "creator": "Артем Навроцкий",
@@ -25,24 +26,27 @@
         "title": "Понимание SQL",
         "sections": "главы: 9, 10, 19, 23",
         "url": "http://www.sql.ru/docs/sql/u_sql/"
-      },
-      {
-        "creator": "Всемирная группа разработчиков PostgreSQL",
-        "title": "Учебник PostgreSQL",
-        "sections": "глава 3",
-        "url": "http://citforum.ru/database/postgresql/tutorial-sql.html"
       }
     ],
     "Статьи": [
       {
         "creator": "PostgresPro",
         "title": "Представления",
+        "isAdvised": true,
         "url": "https://postgrespro.ru/docs/postgrespro/9.6/sql-createview"
       },
       {
         "creator": "PostgresPro",
         "title": "Транзакции",
+        "isAdvised": true,
         "url": "https://postgrespro.ru/docs/postgrespro/9.6/tutorial-transactions"
+      },
+      {
+        "creator": "Citforum",
+        "title": "Учебник PostgreSQL",
+        "sections": "глава 3",
+        "url": "http://citforum.ru/database/postgresql/tutorial-sql.html",
+        "isAdvised": true
       }
     ],
     "Полезные ссылки": [

@@ -36,7 +36,8 @@
       {
         "creator": "Образование онлайн",
         "title": "Регулярные выражения",
-        "url": "https://www.youtube.com/watch?v=OBkDT25X_S8"
+        "url": "https://www.youtube.com/watch?v=OBkDT25X_S8",
+        "isAdvised": true
       }
     ],
     "Интерактивные сервисы": [
@@ -51,7 +52,7 @@
     "Статьи": [
       {
         "creator": "Devcolibri",
-        "title": "Статьи ",
+        "title": "Все необходимые темы",
         "url": "http://devcolibri.com/category/javase"
       },
       {
@@ -68,19 +69,22 @@
       {
         "creator": "Habrahabr",
         "title": "Многопоточность",
-        "url": "https://habrahabr.ru/post/164487/"
+        "url": "https://habrahabr.ru/post/164487/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
         "title": "Обзор java.util.concurrent",
         "url": "https://habrahabr.ru/company/luxoft/blog/157273/",
-        "isAdvanced": true
+        "isAdvanced": true,
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
         "title": "byte-code",
         "url": "https://habrahabr.ru/post/111456/",
-        "isAdvanced": true
+        "isAdvanced": true,
+        "isAdvised": true
       }
     ],
     "Онлайн-курсы": [
@@ -127,7 +131,6 @@
       {
         "creator": "Герберт Шилдт",
         "title": "Java 8. Руководство для начинающих",
-        "sections": "Глава 11, 21, 27, 28",
         "url": "https://www.ozon.ru/context/detail/id/31249554/",
         "isNotFree": true
       },
@@ -141,7 +144,8 @@
         "creator": "Кэти Сиерра, Берт Бейтс",
         "title": "Head First: Изучаем Java",
         "url": "https://www.ozon.ru/context/detail/id/7821666/",
-        "isNotFree": true
+        "isNotFree": true,
+        "isAdvised": true
       }
     ]
   }
