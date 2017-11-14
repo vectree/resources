@@ -1,4 +1,7 @@
 ## Оформление дайджестов дерева
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/96071bdddd4548eba86b955593671ec4)](https://www.codacy.com/app/vectree/resources?utm_source=github.com&utm_medium=referral&utm_content=vectree/resources&utm_campaign=badger)
+
 - Блоки выравнивать
 - В title пишем темы, которые рассматриваются в дереве
 - В одном блоке стараемся хранить от 2-5 ссылок
