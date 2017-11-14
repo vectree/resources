@@ -1,0 +1,85 @@
+{
+  "topics": [
+    "unix terminal",
+    "bash",
+    "команды терминала",
+    "командная строка"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "From LAMER to Programmer",
+        "sections": "с 1 по 9 урок",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=XAfDrMeqoHY&list=PL7KBbsb4oaOnEdCxwKkRDXCUNZ-gPYf89"
+      },
+      {
+        "creator": "Хороший программист",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=tQLpAefAKuA"
+      },
+      {
+        "creator": "Иван Глазков",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=GH7oK81HBaY",
+        "isAdvised": true
+      },
+      {
+        "creator": "Кирилл Семаев",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=7BuRI0Vk0Ys",
+        "isAdvised": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Роббинс Арнольд",
+        "title": "Bash. Карманный справочник системного администратора",
+        "url": "http://www.ozon.ru/context/detail/id/141811615/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Уильям Шоттс",
+        "title": "Командная строка Linux. Полное руководство",
+        "url": "https://www.ozon.ru/context/detail/id/137731096/"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Unix shell: абсолютно первые шаги",
+        "url": "https://habrahabr.ru/post/267825/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Jlevy",
+        "title": "Искусство командной строки",
+        "url": "https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md",
+        "isAdvanced": true
+      },
+      {
+        "creator": "Мендел Купер",
+        "title": "Advanced Bash-Scripting Guide",
+        "url": "http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html",
+        "isAdvanced": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "GNU",
+        "title": "Официальная документация по Bash",
+        "url": "http://www.gnu.org/software/bash/manual/bash.html",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Hexlet",
+        "title": "Bash: Основы командной строки",
+        "url": "https://ru.hexlet.io/courses/bash",
+        "isAdvised": true
+      }
+    ]
+  }
+}

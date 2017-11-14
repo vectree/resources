@@ -1,0 +1,36 @@
+{
+  "topics": [
+    "unit-тесты",
+    "тестирование"
+  ],
+  "resources": {
+    "Книги": [
+      {
+        "creator": "Рой Ошероув",
+        "title": "Искусство автономного тестирования",
+        "url": "http://www.ozon.ru/context/detail/id/26230428/",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Tproger",
+        "title": "Зачем нужны юнит-тесты",
+        "url": "https://tproger.ru/translations/unit-tests-purposes/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Юнит-тестирование для чайников",
+        "url": "https://habrahabr.ru/post/169381/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Citforum",
+        "title": "Модульное тестирование. Зачем, как и кто",
+        "url": "http://citforum.ru/SE/testing/unit_testing/",
+        "isAdvised": true
+      }
+    ]
+  }
+}

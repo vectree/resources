@@ -1,0 +1,36 @@
+{
+  "topics": [
+    "рабочий процесс",
+    "цикл разработки"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Continuous Delivery в Яндексе",
+        "url": "https://habrahabr.ru/company/yandex/blog/237017/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Оптимизируем рабочий процесс",
+        "url": "https://habrahabr.ru/post/245349/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "GitHub Flow: рабочий процесс Гитхаба",
+        "url": "https://habrahabr.ru/post/189046/",
+        "isAdvised": true
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Github",
+        "title": "Understanding the GitHub Flow",
+        "url": "https://guides.github.com/introduction/flow/",
+        "isAdvised": true
+      }
+    ]
+  }
+}

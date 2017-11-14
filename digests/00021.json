@@ -1,0 +1,44 @@
+{
+  "topics": [
+    "travis ci",
+    "continuous integration"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Fullstack Academy",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=Uft5KBimzyk",
+        "isEnglish": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Sapegin",
+        "title": "Автоматизация запуска тестов с помощью Travis CI",
+        "url": "http://nano.sapegin.ru/all/travis-ci"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Что такое travis-ci.org и с чем его едят?",
+        "url": "https://habrahabr.ru/post/140344/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Непрерывная интеграция: CircleCI vs Travis CI vs Jenkins",
+        "url": "https://habrahabr.ru/company/southbridge/blog/332836/",
+        "isAdvised": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Travis CI",
+        "title": "Официальная документация по Travis CI",
+        "url": "https://docs.travis-ci.com/user/getting-started/",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "topics": [
+    "code style",
+    "java"
+  ],
+  "resources": {
+    "Книги": [
+      {
+        "creator": "Роберт Мартин",
+        "title": "Чистый код. Создание, анализ и рефакторинг",
+        "url": "https://www.ozon.ru/context/detail/id/5011068/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Стив Макконнелл",
+        "title": "Совершенный код",
+        "url": "https://www.ozon.ru/context/detail/id/138437220/",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "GeoSoft",
+        "title": "Java Programming Style Guidelines",
+        "url": "http://geosoft.no/development/javastyle.html",
+        "isEnglish": true
+      },
+      {
+        "creator": "Lar",
+        "title": "Правила написания кода на Java",
+        "url": "https://www.lar.ru/java-codestyle/"
+      },
+      {
+        "creator": "Google",
+        "title": "Google Java Style Guide",
+        "url": "https://google.github.io/styleguide/javaguide.html",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Oracle",
+        "title": "Code Conventions for the Java Programming Language",
+        "url": "http://www.oracle.com/technetwork/java/codeconvtoc-136057.html",
+        "isEnglish": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Рекомендации к стилю кода",
+        "url": "https://habrahabr.ru/post/112042/",
+        "isAdvised": true
+      },
+      {
+        "creator": "JazzTeam",
+        "title": "Code Style",
+        "url": "http://wiki.jazzteam.org/index.php?title=Code_Style"
+      }
+    ]
+  }
+}
