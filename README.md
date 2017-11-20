@@ -1,6 +1,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/96071bdddd4548eba86b955593671ec4)](https://www.codacy.com/app/vectree/resources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vectree/resources&amp;utm_campaign=Badge_Grade)
 
 ## Оформление дайджестов дерева
+
+[![Join the chat at https://gitter.im/vectree/Lobby](https://badges.gitter.im/vectree/Lobby.svg)](https://gitter.im/vectree/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Блоки выравнивать
 - В title пишем темы, которые рассматриваются в дереве
 - В одном блоке стараемся хранить от 2-5 ссылок
