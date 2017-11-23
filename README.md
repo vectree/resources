@@ -1,7 +1,21 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/96071bdddd4548eba86b955593671ec4)](https://www.codacy.com/app/vectree/resources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vectree/resources&amp;utm_campaign=Badge_Grade)
+# [vectree](http://vectree.ru/)
+
+[![license][license-badge]][LICENSE] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/96071bdddd4548eba86b955593671ec4)](https://www.codacy.com/app/vectree/resources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vectree/resources&amp;utm_campaign=Badge_Grade)
 [![Join the chat at https://gitter.im/vectree-chat/Lobby](https://badges.gitter.im/vectree-chat/Lobby.svg)](https://gitter.im/vectree-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Оформление дайджестов дерева
+![alt text](https://sun9-7.userapi.com/c841624/v841624284/28b96/aJT1-hf8yts.jpg)
+
+Vectree — платформа для начинающих разработчиков, помогающая приобрести ключевые навыки для трудоустройства в IT.
+
+Наша задача:
+- предоставление образовательных материалов,
+- проверка знаний, 
+- менторская поддержка,
+- консультация в карьерных вопросах,
+- формирование команд для работы над реальными задачами,
+- трудоустройство.
+
+## Оформление Digest / Timeline
 
 - Блоки выравнивать
 - В title пишем темы, которые рассматриваются в дереве
@@ -19,16 +33,18 @@
 - Сравнивайте свое дерево с другими деревьями
 
 ## Оформление Quiz
-- Одна тема(topic) == одна квиза
+- Одна тема (topic) - одна квиза
 - Каждое направления связанно с одной или несколькими квизами
  
 Шаблон файла c квизой
 
-- <strong>quizId</strong> - id квизы. Нумерация по порядку от 0. Совпадет с названием файла, в котором лежит квиза
-- <strong>minPercent</strong> - отражает какой процент правильных ответов должно быть у пользователя, для того что бы квиза была засчитана как пройденная. Может принимать значения от 0 до 100.
-- <strong>topicName</strong> - тема, к которой относится квиза.
-- <strong>limit</strong> - количесто вопросов, которое будет показано при прохождении квизы.
-- <strong>questions</strong> - массив объектов, каждый из которых содержит вопрос, варианты ответов и номер правильных ответов.
+- **quizId** - id теста. Нумерация по порядку от 0 и совпадет с названием файла, в котором лежит квиза
+- **minPercent** - процент правильных ответов, для прохождения теста. (значения от 0 до 100)
+- **topicName** - тема, к которой относится тест
+- **limit** - количесто вопросов, которое будет показано при прохождении теста
+- **questions** - массив объектов, каждый из которых содержит вопрос, варианты ответов и номер правильных ответов
 
+[LICENSE]: ./LICENSE.md
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 
 
