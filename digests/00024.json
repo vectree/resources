@@ -1,0 +1,117 @@
+{
+  "topics": [
+    "основы",
+    "функции",
+    "указатели",
+    "структуры и интерфейсы",
+    "многопоточность",
+    "пакеты",
+    "тестирование"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Mail.ru",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I",
+        "isAdvised": true
+      },
+      {
+        "creator": "Роб Пайк",
+        "title": "Многопоточность",
+        "url": "https://www.youtube.com/watch?v=cN_DpYBzKso",
+        "isAdvised": true
+      },
+      {
+        "creator": "Сергей Гаврюк",
+        "title": "Все необходимые темы",
+        "isAdvanced": true,
+        "url": "https://www.youtube.com/channel/UC2ZML5bXoJrvAlhsqMVUvXg/videos"
+      },
+      {
+        "creator": "Роман Левищенко",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Марк Саммерфильд",
+        "title": "Программирование на языке Go",
+        "url": "https://www.ozon.ru/context/detail/id/19954705/"
+      },
+      {
+        "creator": "Алан А. А. Донован, Брайан У. Керниган",
+        "title": "Язык программирования Go",
+        "url": "https://www.ozon.ru/context/detail/id/34671680/"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Golang-book",
+        "title": "Все необходимые темы",
+        "url": "http://golang-book.ru/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Особенности языка",
+        "url": "https://habrahabr.ru/post/269731/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Особенности языка",
+        "url": "https://habrahabr.ru/company/mailru/blog/314804/"
+      },
+      {
+        "creator": "Golang.org",
+        "title": "Многопоточность",
+        "isEnglish": true,
+        "url": "https://blog.golang.org/pipelines"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Golang.org",
+        "title": "Официальная документация",
+        "url": "https://golang.org/doc/",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Golang.org",
+        "title": "Спецификация",
+        "url": "https://golang.org/ref/spec",
+        "isEnglish": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "4gophers",
+        "title": "Множество статей по разным темам",
+        "url": "https://4gophers.ru/articles/"
+      },
+      {
+        "creator": "Golang.org",
+        "title": "Github Wiki",
+        "isAdvised": true,
+        "url": "https://github.com/golang/go/wiki"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "GoTour",
+        "title": "Все необходимые темы",
+        "url": "https://go-tour-ru-ru.appspot.com/welcome/1",
+        "isAdvised": true
+      }
+    ],
+    "Подкасты": [
+      {
+        "creator": "Golang Show",
+        "title": "Русскоязычный подкаст о Go",
+        "url": "https://golangshow.com/"
+      }
+    ]
+  }
+}
