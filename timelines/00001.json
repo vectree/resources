@@ -23,6 +23,17 @@
   },
   {
     "content": {
+      "taskId": 0,
+      "label": "Java",
+      "title": "Практика: Conway's Game of Life",
+      "text": "В данной практике мы создадим популярную игру, основанную на автоматах."
+    },
+    "img": {
+      "src": "/img/java-icon.png"
+    }
+  },
+  {
+    "content": {
       "digestId": 2,
       "label": "Java",
       "title": "Advanced Java: Часть 1",
