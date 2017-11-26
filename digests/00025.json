@@ -1,0 +1,104 @@
+{
+  "topics": [
+    "cuda",
+    "параллельные вычисления",
+    "gpu",
+    "введение в cuda"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Евгений Перепёлкин",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/playlist?list=PLhlTilzRdxykC7dmxh0Xp2kJNy0LSTUfO",
+        "isAdvised": true
+      },
+      {
+        "creator": "Дмитрий Нестерук",
+        "title": "Введение в CUDA",
+        "url": "https://www.youtube.com/watch?v=WSDBfaXWwnw",
+        "isAdvised": true
+      },
+      {
+        "creator": "Landwatersun",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/playlist?list=PLhlTilzRdxyndPPJQ_HEei9Qch6QDZM8Q",
+        "isAdvised": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Алексей Боресков, Александр Харламов",
+        "title": "Основы работы с технологией CUDA",
+        "isNotFree": true,
+        "url": "https://www.ozon.ru/context/detail/id/5080841/"
+      },
+      {
+        "creator": "Джейсон Сандерс, Эдвард Кэндрот",
+        "title": "Технология CUDA в примерах",
+        "isNotFree": true,
+        "isAdvised": true,
+        "url": "https://www.ozon.ru/context/detail/id/6743358/"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Алексей Берилло",
+        "title": "Все необходимые темы",
+        "url": "http://www.ixbt.com/video3/cuda-1.shtml",
+        "isAdvised": true
+      },
+      {
+        "creator": "Bog BOS",
+        "title": "Все необходимые темы",
+        "url": "http://www.bog.pp.ru/work/cuda.html",
+        "isAdvised": true
+      },
+      {
+        "creator": "nvworld",
+        "title": "Все необходимые темы",
+        "url": "https://nvworld.ru/articles/cuda_parallel/"
+      },
+      {
+        "creator": "Владимир Фролов",
+        "title": "Все необходимые темы",
+        "url": "http://ray-tracing.ru/articles199.html"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Работа GPU",
+        "url": "https://habrahabr.ru/post/54707/"
+      },
+      {
+        "creator": "THG",
+        "title": "Введение в CUDA",
+        "url": "http://www.thg.ru/graphic/nvidia_cuda/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Введение в CUDA",
+        "url": "https://habrahabr.ru/post/50241/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/company/epam_systems/blog/245503/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Синхронизация блоков",
+        "isAdvanced": true,
+        "url": "https://habrahabr.ru/post/54707/"
+      }
+    ],
+    "Онлайн курсы": [
+      {
+        "creator": "Udacity",
+        "title": "Intro to Parallel Programming",
+        "isAdvanced": true,
+        "isEnglish": true,
+        "url": "https://www.udacity.com/course/intro-to-parallel-programming--cs344"
+      }
+    ]
+  }
+}

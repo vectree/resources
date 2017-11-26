@@ -1,11 +1,11 @@
 {
   "topics": [
     "основы",
-    "функции",
     "указатели",
     "структуры и интерфейсы",
     "многопоточность",
     "пакеты",
+    "context",
     "тестирование"
   ],
   "resources": {
@@ -38,11 +38,13 @@
       {
         "creator": "Марк Саммерфильд",
         "title": "Программирование на языке Go",
+        "isNotFree": true,
         "url": "https://www.ozon.ru/context/detail/id/19954705/"
       },
       {
         "creator": "Алан А. А. Донован, Брайан У. Керниган",
         "title": "Язык программирования Go",
+        "isNotFree": true,
         "url": "https://www.ozon.ru/context/detail/id/34671680/"
       }
     ],
@@ -61,6 +63,7 @@
       {
         "creator": "Habrahabr",
         "title": "Особенности языка",
+        "isAdvanced": true,
         "url": "https://habrahabr.ru/company/mailru/blog/314804/"
       },
       {
@@ -68,6 +71,19 @@
         "title": "Многопоточность",
         "isEnglish": true,
         "url": "https://blog.golang.org/pipelines"
+      },
+      {
+        "creator": "4gophers",
+        "title": "Context",
+        "isAdvised": true,
+        "url": "https://4gophers.ru/articles/kontekst/#.Whr5yrSFj6Y"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Context",
+        "isAdvised": true,
+        "isAdvanced": true,
+        "url": "https://habrahabr.ru/post/269299/"
       }
     ],
     "Документация": [
@@ -83,6 +99,12 @@
         "title": "Спецификация",
         "url": "https://golang.org/ref/spec",
         "isEnglish": true
+      },
+      {
+        "creator": "Евгений Охотников",
+        "title": "Effective Go на русском",
+        "isAdvised": true,
+        "url": "http://eao197.narod.ru/desc/short_effective_go.html"
       }
     ],
     "Полезные ссылки": [
