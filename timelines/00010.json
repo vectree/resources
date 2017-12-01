@@ -1,0 +1,46 @@
+[
+  {
+    "content": {
+      "digestId": 24,
+      "label": "Go",
+      "title": "Введение в Go",
+      "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить основы Go."
+    },
+    "img": {
+      "src": "/img/golang.png"
+    }
+  },
+  {
+    "content": {
+      "taskId": 1,
+      "label": "Go",
+      "title": "Практика: Go Grabber",
+      "text": "В данной практике мы создадим граббер сайта."
+    },
+    "img": {
+      "src": "/img/golang.png"
+    }
+  },
+  {
+    "content": {
+      "digestId": 26,
+      "label": "Go",
+      "title": "Advanced Go",
+      "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить более продвинутый материал."
+    },
+    "img": {
+      "src": "/img/golang.png"
+    }
+  },
+  {
+    "content": {
+      "taskId": 2,
+      "label": "Go",
+      "title": "Практика: Go Web App",
+      "text": "В данной практике мы создадим простое web-приложение."
+    },
+    "img": {
+      "src": "/img/golang.png"
+    }
+  }
+]

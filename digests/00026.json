@@ -1,0 +1,123 @@
+{
+  "topics": [
+    "работа с базой данных",
+    "структуры и интерфейсы",
+    "многопоточность",
+    "slices",
+    "context"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Роб Пайк",
+        "title": "Многопоточность",
+        "url": "https://www.youtube.com/watch?v=cN_DpYBzKso",
+        "isAdvised": true
+      },
+      {
+        "creator": "Сергей Гаврюк",
+        "title": "Все необходимые темы",
+        "isAdvanced": true,
+        "url": "https://www.youtube.com/channel/UC2ZML5bXoJrvAlhsqMVUvXg/videos"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Марк Саммерфильд",
+        "title": "Программирование на языке Go",
+        "isNotFree": true,
+        "url": "https://www.ozon.ru/context/detail/id/19954705/"
+      },
+      {
+        "creator": "Алан А. А. Донован, Брайан У. Керниган",
+        "title": "Язык программирования Go",
+        "isNotFree": true,
+        "isAdvised": true,
+        "url": "https://www.ozon.ru/context/detail/id/34671680/"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Интерфейсы",
+        "url": "https://habrahabr.ru/post/276981/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Slices",
+        "url": "https://habrahabr.ru/post/202948/",
+        "isAdvised": true
+      },
+      {
+        "creator": "calhoun",
+        "title": "Работа с базой данных",
+        "url": "https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Многопоточность",
+        "isAdvised": true,
+        "url": "https://habrahabr.ru/post/276255/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://habrahabr.ru/post/325468/"
+      },
+      {
+        "creator": "4gophers",
+        "title": "Context",
+        "isAdvised": true,
+        "url": "https://4gophers.ru/articles/kontekst/#.Whr5yrSFj6Y"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Golang.org",
+        "title": "Официальная документация",
+        "url": "https://golang.org/doc/",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Golang.org",
+        "title": "Спецификация",
+        "url": "https://golang.org/ref/spec",
+        "isEnglish": true
+      },
+      {
+        "creator": "The Go Blog",
+        "title": "Оффициальный блог",
+        "url": "https://blog.golang.org/index",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Golang.org",
+        "title": "Github Wiki",
+        "url": "https://github.com/golang/go/wiki",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "Habrahabr",
+        "title": "Особенности языка",
+        "isAdvanced": true,
+        "url": "https://habrahabr.ru/company/mailru/blog/314804/"
+      }
+    ],
+    "Подкасты": [
+      {
+        "creator": "Golang Show",
+        "title": "Русскоязычный подкаст о Go",
+        "url": "https://golangshow.com/"
+      }
+    ]
+  }
+}

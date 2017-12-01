@@ -1,0 +1,82 @@
+{
+  "topics": [
+    "анализаторы кода",
+    "качество go-кода",
+    "чистый код",
+    "golint",
+    "go vet",
+    "go fmt"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "System Development",
+        "title": "Go и контроль качества проекта",
+        "url": "https://sysdev.me/go-and-project-quality/"
+      },
+      {
+        "creator": "Codacy",
+        "title": "Getting started with Codacy",
+        "isEnglish": true,
+        "url": "https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy"
+      },
+      {
+        "creator": "Spreadsheetdb",
+        "title": "If you code in Go, don't forget to vet",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://www.spreadsheetdb.io/blog/2017/03/if-you-code-in-go-dont-forget-to-vet"
+      },
+      {
+        "creator": "Go wiki",
+        "title": "Go Code Review Comments",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://github.com/golang/go/wiki/CodeReviewComments"
+      },
+      {
+        "creator": "The Go Blog",
+        "title": "go fmt your code",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://blog.golang.org/go-fmt-your-code"
+      }
+    ],
+    "Инструменты": [
+      {
+        "creator": "Intellij IDEA",
+        "title": "Настройка go fmt",
+        "url": "https://www.idmworks.com/automatically-calling-go-fmt-from-intellij-2/",
+        "isEnglish": true
+      },
+      {
+        "creator": "Go fmt",
+        "title": "Бесплатный",
+        "url": "https://golang.org/cmd/gofmt/",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Go vet",
+        "title": "Бесплатный",
+        "url": "https://golang.org/cmd/vet/",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Golint",
+        "title": "Бесплатный",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://github.com/golang/lint"
+      },
+      {
+        "creator": "Codacy",
+        "title": "Бесплатный для open source",
+        "url": "https://www.codacy.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}

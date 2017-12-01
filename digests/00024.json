@@ -1,11 +1,9 @@
 {
   "topics": [
-    "основы",
+    "основы Go",
+    "gopath",
     "указатели",
-    "структуры и интерфейсы",
-    "многопоточность",
     "пакеты",
-    "context",
     "тестирование"
   ],
   "resources": {
@@ -15,18 +13,6 @@
         "title": "Все необходимые темы",
         "url": "https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I",
         "isAdvised": true
-      },
-      {
-        "creator": "Роб Пайк",
-        "title": "Многопоточность",
-        "url": "https://www.youtube.com/watch?v=cN_DpYBzKso",
-        "isAdvised": true
-      },
-      {
-        "creator": "Сергей Гаврюк",
-        "title": "Все необходимые темы",
-        "isAdvanced": true,
-        "url": "https://www.youtube.com/channel/UC2ZML5bXoJrvAlhsqMVUvXg/videos"
       },
       {
         "creator": "Роман Левищенко",
@@ -45,6 +31,7 @@
         "creator": "Алан А. А. Донован, Брайан У. Керниган",
         "title": "Язык программирования Go",
         "isNotFree": true,
+        "isAdvised": true,
         "url": "https://www.ozon.ru/context/detail/id/34671680/"
       }
     ],
@@ -57,33 +44,15 @@
       },
       {
         "creator": "Habrahabr",
-        "title": "Особенности языка",
-        "url": "https://habrahabr.ru/post/269731/"
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/240917/",
+        "isAdvised": true
       },
       {
         "creator": "Habrahabr",
-        "title": "Особенности языка",
-        "isAdvanced": true,
-        "url": "https://habrahabr.ru/company/mailru/blog/314804/"
-      },
-      {
-        "creator": "Golang.org",
-        "title": "Многопоточность",
-        "isEnglish": true,
-        "url": "https://blog.golang.org/pipelines"
-      },
-      {
-        "creator": "4gophers",
-        "title": "Context",
-        "isAdvised": true,
-        "url": "https://4gophers.ru/articles/kontekst/#.Whr5yrSFj6Y"
-      },
-      {
-        "creator": "Habrahabr",
-        "title": "Context",
-        "isAdvised": true,
-        "isAdvanced": true,
-        "url": "https://habrahabr.ru/post/269299/"
+        "title": "GOPATH",
+        "url": "https://habrahabr.ru/post/249545/",
+        "isAdvised": true
       }
     ],
     "Документация": [
@@ -101,10 +70,11 @@
         "isEnglish": true
       },
       {
-        "creator": "Евгений Охотников",
-        "title": "Effective Go на русском",
-        "isAdvised": true,
-        "url": "http://eao197.narod.ru/desc/short_effective_go.html"
+        "creator": "The Go Blog",
+        "title": "Оффициальный блог",
+        "url": "https://blog.golang.org/index",
+        "isEnglish": true,
+        "isAdvised": true
       }
     ],
     "Полезные ссылки": [
@@ -112,12 +82,6 @@
         "creator": "4gophers",
         "title": "Множество статей по разным темам",
         "url": "https://4gophers.ru/articles/"
-      },
-      {
-        "creator": "Golang.org",
-        "title": "Github Wiki",
-        "isAdvised": true,
-        "url": "https://github.com/golang/go/wiki"
       }
     ],
     "Интерактивные сервисы": [
@@ -126,13 +90,6 @@
         "title": "Все необходимые темы",
         "url": "https://go-tour-ru-ru.appspot.com/welcome/1",
         "isAdvised": true
-      }
-    ],
-    "Подкасты": [
-      {
-        "creator": "Golang Show",
-        "title": "Русскоязычный подкаст о Go",
-        "url": "https://golangshow.com/"
       }
     ]
   }

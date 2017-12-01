@@ -52,7 +52,7 @@
         "isAdvised": true
       },
       {
-        "creator": "Codacy",
+        "creator": "SonarQube",
         "title": "Бесплатный для open source, необходим выделенный сервер",
         "url": "https://www.sonarqube.org/"
       }
