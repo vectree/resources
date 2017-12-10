@@ -20,5 +20,16 @@
     "img": {
       "src": "/img/golang.png"
     }
+  },
+  {
+    "content": {
+      "digestId": 29,
+      "label": "Gorilla",
+      "title": "Gorilla Web Toolkit",
+      "text": "В данном дереве вы изучите отдельные модули набора Gorilla Web Toolkit."
+    },
+    "img": {
+      "src": "/img/gorilla.png"
+    }
   }
 ]

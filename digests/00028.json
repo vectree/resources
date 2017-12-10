@@ -1,0 +1,48 @@
+{
+  "topics": [
+    "gb",
+    "зависимости",
+    "vendoring зависимостей",
+    "менеджер зависимостей",
+    "govendor"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Александр Булимов",
+        "title": "Vendoring зависимостей",
+        "url": "http://bulimov.ru/it/go-vendoring/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Gb",
+        "url": "https://habrahabr.ru/post/259967/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Zerokspot",
+        "title": "Govendor",
+        "url": "https://zerokspot.com/weblog/2017/04/23/getting-started-with-govendor/",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "HackerNoon",
+        "title": "Dev",
+        "url": "https://hackernoon.com/using-go-dep-as-a-project-maintainer-641d1f3006d7",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Golang.org",
+        "title": "Github Wiki",
+        "url": "https://github.com/golang/go/wiki/PackageManagementTools",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}

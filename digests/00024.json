@@ -45,8 +45,19 @@
       {
         "creator": "Habrahabr",
         "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://habrahabr.ru/post/325468/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
         "url": "https://habrahabr.ru/post/240917/",
         "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Пакеты",
+        "url": "https://habrahabr.ru/post/332948/"
       },
       {
         "creator": "Habrahabr",

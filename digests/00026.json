@@ -4,7 +4,8 @@
     "структуры и интерфейсы",
     "многопоточность",
     "slices",
-    "context"
+    "context",
+    "пакеты"
   ],
   "resources": {
     "Видео": [
@@ -64,9 +65,15 @@
       },
       {
         "creator": "Habrahabr",
-        "title": "Все необходимые темы",
+        "title": "Пакеты",
         "isAdvised": true,
-        "url": "https://habrahabr.ru/post/325468/"
+        "url": "https://habrahabr.ru/post/308198/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Многопоточность",
+        "isAdvised": true,
+        "url": "https://habrahabr.ru/post/271789/"
       },
       {
         "creator": "4gophers",

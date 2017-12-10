@@ -1,0 +1,68 @@
+{
+  "topics": [
+    "gorilla web toolkit",
+    "gorilla mux",
+    "gorilla websocket",
+    "мультиплексор"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Giant Flying Saucer",
+        "title": "Gorilla mux",
+        "url": "http://www.giantflyingsaucer.com/blog/?p=5635",
+        "isEnglish": true
+      },
+      {
+        "creator": "Kelvin Salton",
+        "title": "Gorilla mux, TDD",
+        "url": "https://medium.com/@kelvinpfw/building-and-testing-a-rest-api-in-golang-using-gorilla-mux-and-mysql-1f0518818ff6",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Go Web Examples",
+        "title": "Gorilla mux",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://gowebexamples.com/routes-using-gorilla-mux/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Gorilla websocket",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://habrahabr.ru/post/226469/"
+      },
+      {
+        "creator": "Scotch",
+        "title": "Gorilla websocket",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets"
+      },
+      {
+        "creator": "Semaphore",
+        "title": "Gorilla mux, TDD",
+        "url": "https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql",
+        "isEnglish": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Gorilla mux",
+        "title": "Оффициальная документация",
+        "url": "http://www.gorillatoolkit.org/pkg/mux",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Gorilla websocket",
+        "title": "Оффициальная документация",
+        "url": "http://www.gorillatoolkit.org/pkg/websocket",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}
