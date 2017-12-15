@@ -53,5 +53,16 @@
     "img": {
       "src": "/img/golang.png"
     }
+  },
+  {
+    "content": {
+      "taskId": 3,
+      "label": "Go",
+      "title": "Практика: Go Skimmer",
+      "text": "В данной практике мы создадим сборщик запросов."
+    },
+    "img": {
+      "src": "/img/golang.png"
+    }
   }
 ]
