@@ -1,0 +1,123 @@
+{
+  "topics": [
+    "docker",
+    "контейнеризация",
+    "docker-compose"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Соломон Хайкс",
+        "title": "Introduction to Docker",
+        "url": "https://www.youtube.com/watch?v=Q5POuMHxW-0",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "LearnCode.academy",
+        "title": "Docker Tutorial",
+        "url": "https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Hexlet",
+        "title": "Введение в Docker",
+        "url": "https://www.youtube.com/watch?v=dfXuTTV6TVo"
+      },
+      {
+        "creator": "GeekBrains",
+        "title": "Знакомимся с основными возможностями Docker",
+        "url": "https://www.youtube.com/watch?v=7GLP8_UEBp4"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Основы",
+        "url": "https://habrahabr.ru/post/253877/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Основы",
+        "url": "https://habrahabr.ru/post/309556/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Основы",
+        "url": "https://habrahabr.ru/post/337306/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Docker-compose",
+        "url": "https://habrahabr.ru/post/322440/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Подводные камни",
+        "url": "https://habrahabr.ru/post/332450/",
+        "isAdvanced": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Обзор",
+        "url": "https://habrahabr.ru/post/277699/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Рецепты",
+        "url": "https://habrahabr.ru/post/267441/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Основы",
+        "url": "https://habrahabr.ru/post/272145/",
+        "isAdvised": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Оффициальная документация",
+        "title": "Основы",
+        "url": "https://docs.docker.com/get-started/",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "Digital Ocean",
+        "title": "Шпаргалка",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes"
+      },
+      {
+        "creator": "Трой Говард",
+        "title": "Где хранятся images?",
+        "isEnglish": true,
+        "url": "http://blog.thoward37.me/articles/where-are-docker-images-stored/"
+      }
+    ],
+    "Интерактвные курсы": [
+      {
+        "creator": "Katacoda",
+        "title": "Learn Docker",
+        "url": "https://www.katacoda.com/courses/docker",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ],
+    "Онлайн курсы": [
+      {
+        "creator": "Udemy",
+        "title": "Docker Mastery",
+        "isEnglish": true,
+        "isNotFree": true,
+        "url": "https://www.udemy.com/docker-mastery/"
+      }
+    ]
+  }
+}

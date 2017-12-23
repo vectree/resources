@@ -31,5 +31,16 @@
     "img": {
       "src": "/img/gorilla.png"
     }
+  },
+  {
+    "content": {
+      "digestId": 31,
+      "label": "Docker",
+      "title": "Контейнеризация",
+      "text": "В данном дереве вы изучите платформу разработки и эксплуатации приложений Docker."
+    },
+    "img": {
+      "src": "/img/docker.png"
+    }
   }
 ]
