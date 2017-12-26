@@ -1,0 +1,87 @@
+{
+  "topics": [
+    "разработка на STM32",
+    "GPIO",
+    "SPI",
+    "UART",
+    "Прерывания"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Патрик Худ-Дэниел",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=R6SstBoXjKc&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Sappise",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=Qqk81seMlHA&list=PL8OgDYWys_b6XtOjCejd37aVv0ic24jqV"
+      },
+      {
+        "creator": "Narod stream",
+        "title": "Keil uVision",
+        "sections": "1 урок",
+        "url": "https://www.youtube.com/watch?v=jJt0hTuaR_I&index=3&list=PLJTlt64jBcCuRgAMGImQzxRlYdSKa5Ifk"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Customelectronics",
+        "title": "Все необходимые темы",
+        "url": "http://www.customelectronics.ru/stm32-kurs-programmirovaniyu/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Stm32.chrns",
+        "title": "Все необходимые темы",
+        "url": "http://stm32.chrns.com/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Microtechnics",
+        "title": "Все необходимые темы",
+        "url": "http://microtechnics.ru/stm32-uchebnyj-kurs-vvedenie/"
+      },
+      {
+        "creator": "Microtechnics",
+        "title": "GPIO",
+        "url": "http://microtechnics.ru/stm32-uchebnyj-kurs-gpio-porty-vvoda-vyvoda/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/216843/"
+      },
+      {
+        "creator": "EasySTM32",
+        "title": "SPI, UART",
+        "url": "http://easystm32.ru/interfaces",
+        "isAdvised": true
+      },
+      {
+        "creator": "Geektimes",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://geektimes.ru/post/293249/"
+      },
+      {
+        "creator": "Compel",
+        "title": "Все необходимые темы",
+        "url": "https://www.compel.ru/lib/ne/2011/2/4-mikrokontrolleryi-stm32-s-nulya"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "STMicroelectronics",
+        "title": "Оффициальная документация STM32",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "http://www.st.com/en/microcontrollers.html"
+      }
+    ]
+  }
+}

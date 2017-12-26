@@ -1,0 +1,79 @@
+{
+  "topics": [
+    "окружение STM32",
+    "STM32Cube",
+    "Keil uVision",
+    "среда разработки STM32"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Патрик Худ-Дэниел",
+        "title": "Все необходимые темы",
+        "sections": "с 1 по 5 урок",
+        "url": "https://www.youtube.com/watch?v=R6SstBoXjKc&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Sappise",
+        "title": "Все необходимые темы",
+        "sections": "с 1 по 2 урок",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=Qqk81seMlHA&list=PL8OgDYWys_b6XtOjCejd37aVv0ic24jqV"
+      },
+      {
+        "creator": "Narod stream",
+        "title": "Keil uVision",
+        "sections": "1 урок",
+        "url": "https://www.youtube.com/watch?v=jJt0hTuaR_I&index=3&list=PLJTlt64jBcCuRgAMGImQzxRlYdSKa5Ifk"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Дмитрий Бравиков",
+        "title": "Keil uVision",
+        "url": "https://bravikov.wordpress.com/2016/02/21/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-stm32-%D0%B2-keil-mdk-arm/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Customelectronics",
+        "title": "Все необходимые темы",
+        "url": "http://www.customelectronics.ru/stm32-podgotovka-k-rabote/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Microtechnics",
+        "title": "Все необходимые темы",
+        "url": "http://microtechnics.ru/start-s-stm32f3discovery/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "STM32Cube",
+        "url": "https://habrahabr.ru/post/310742/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "STM32Cube",
+        "url": "https://habrahabr.ru/post/213561/"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Keil",
+        "title": "Оффициальная документация Keil",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "http://www.keil.com/support/man/docs/uv4/"
+      },
+      {
+        "creator": "STMicroelectronics",
+        "title": "Оффициальная документация STM32Cube",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "http://www.st.com/content/ccc/resource/technical/document/user_manual/10/c5/1a/43/3a/70/43/7d/DM00104712.pdf/files/DM00104712.pdf/jcr:content/translations/en.DM00104712.pdf"
+      }
+    ]
+  }
+}
