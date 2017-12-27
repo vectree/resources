@@ -23,6 +23,17 @@
   },
   {
     "content": {
+      "timelineId": 6,
+      "label": "SQL Postgres",
+      "title": "Язык запросов SQL - Postgres",
+      "text": "В данном дереве вы изучите понятие базы данных и язык запросов SQL на примере Postgres"
+    },
+    "img": {
+      "src": "/img/postgresql-icon.svg"
+    }
+  },
+  {
+    "content": {
       "digestId": 29,
       "label": "Gorilla",
       "title": "Gorilla Web Toolkit",
@@ -34,7 +45,7 @@
   },
   {
     "content": {
-      "digestId": 31,
+      "timelineId": 14,
       "label": "Docker",
       "title": "Контейнеризация",
       "text": "В данном дереве вы изучите платформу разработки и эксплуатации приложений Docker."
