@@ -1,0 +1,79 @@
+{
+  "topics": [
+    "RabbitMQ",
+    "организация очередей",
+    "AMQP",
+    "отложенные сообщения"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "JimOnDemand",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=XjuiZM7JzPw",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Вадим Ипатов",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=T8xJPmAJrjs",
+        "isAdvised": true
+      },
+      {
+        "creator": "SpringDeveloper",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=kA8rPIDa388",
+        "isEnglish": true
+      },
+      {
+        "creator": "HighLoad Channel",
+        "url": "https://www.youtube.com/watch?v=jMZviSKf3QU&t=115s",
+        "title": "RabbitMQ, pipeline",
+        "isAdvanced": true,
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Cloudamqp",
+        "title": "Все необходимые темы",
+        "url": "https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html",
+        "isEnglish": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Введение",
+        "url": "https://habrahabr.ru/company/mailru/blog/216363/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/149694/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/200870/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "AMQP",
+        "url": "https://habrahabr.ru/company/mailru/blog/216363/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "отложенные сообщения",
+        "url": "https://habrahabr.ru/post/235505/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Spring AMQP",
+        "url": "https://habrahabr.ru/post/262069/"
+      }
+    ]
+  }
+}
