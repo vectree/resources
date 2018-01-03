@@ -1,0 +1,94 @@
+{
+  "topics": [
+    "микросервисы",
+    "микросервисная архитектура",
+    "опыт использования",
+    "основные понятия",
+    "приемущества и недостатки",
+    "введение",
+    "SOA"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "InfoQ",
+        "url": "https://www.youtube.com/watch?v=CZ3wIuvmHeM",
+        "title": "Введение",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Опыт использования",
+        "url": "https://www.youtube.com/watch?v=MBZtcNgDXzU",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Основные понятия",
+        "url": "https://www.youtube.com/watch?v=l5ug_W9iFUs",
+        "isAdvised": true
+      },
+      {
+        "creator": "HighLoad Channel",
+        "title": "Приемущества и недостатки",
+        "url": "https://www.youtube.com/watch?v=7WT_Rl6m2DU",
+        "isAdvanced": true
+      },
+      {
+        "creator": "LuxoftTrainingCenter",
+        "title": "Введение",
+        "url": "https://www.youtube.com/watch?v=hcHKOqMGd-c",
+        "isAdvised": true
+      },
+      {
+        "creator": "Максим Сячин",
+        "title": "Опыт использования",
+        "url": "https://www.youtube.com/watch?v=Ypn-0mjN6UA"
+      },
+      {
+        "creator": "DataArt Online",
+        "title": "Опыт использования",
+        "url": "https://www.youtube.com/watch?v=QmGe8Zpm6uk"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Майкл Т. Фишер, Мартин Л. Аббот",
+        "url": "https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802"
+      },
+      {
+        "creator": "Сэм Ньюмен",
+        "url": "https://www.ozon.ru/context/detail/id/135199296/",
+        "title": "The Art of Scalability",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Пример приложения",
+        "url": "https://habrahabr.ru/post/280786/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/249183/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/company/mailru/blog/320962/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/company/dataart/blog/280083/",
+        "isAdvised": true
+      }
+    ]
+  }
+}

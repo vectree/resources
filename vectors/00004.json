@@ -2,7 +2,7 @@
   "creator": 1,
   "subscribers": [1],
   "title": "STM32 Developer",
-  "type": "В разработке",
+  "header": "В разработке",
   "img": "/img/stm32.png",
   "salary": "от 20000 руб.",
   "practicePeriod": 14,

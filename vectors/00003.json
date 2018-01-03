@@ -2,7 +2,7 @@
   "creator": 1,
   "subscribers": [1],
   "title": "CUDA Developer",
-  "type": "В разработке",
+  "header": "В разработке",
   "img": "/img/cuda.png",
   "salary": "от 20000 руб.",
   "practicePeriod": 14,

@@ -2,7 +2,7 @@
   "creator": 1,
   "subscribers": [1],
   "title": "Go Developer",
-  "type": "В разработке",
+  "header": "Специализация",
   "img": "/img/golang.png",
   "salary": "от 20000 руб.",
   "practicePeriod": 14,

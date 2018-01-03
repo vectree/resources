@@ -2,7 +2,7 @@
   "creator": 1,
   "subscribers": [2, 1, 0],
   "title": "Java Developer",
-  "type": "Специализация",
+  "header": "Специализация",
   "img": "/img/java-icon.png",
   "salary": "от 20000 руб.",
   "practicePeriod": 14,
