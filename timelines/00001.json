@@ -53,5 +53,16 @@
     "img": {
       "src": "/img/java-icon.png"
     }
+  },
+  {
+    "content": {
+      "taskId": 5,
+      "label": "Java",
+      "title": "Практика: Арбитражный бот",
+      "text": "В данной практике мы создадим арбитражного бота на криптовалютной бирже Poloniex."
+    },
+    "img": {
+      "src": "/img/java-icon.png"
+    }
   }
 ]
