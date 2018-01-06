@@ -12,6 +12,17 @@
   },
   {
     "content": {
+      "taskId": 7,
+      "label": "JUnit",
+      "title": "Практика: Тестируем продуктовый магазин",
+      "text": "В рамках данной практики вы напишите терминал продуктового магазина, протестируете его и интегрируете тесты с TravisCI."
+    },
+    "img": {
+      "src": "/img/junit5-icon.png"
+    }
+  },
+  {
+    "content": {
       "digestId": 12,
       "label": "JUnit",
       "title": "JUnit + Mockito",
