@@ -13,6 +13,75 @@
         "title": "Ряды фурье",
         "url": "https://www.youtube.com/watch?v=1nGeS97cGMM",
         "isAdvised": true
+      },
+      {
+        "creator": "Василий Терешков",
+        "title": "Быстрое преобразование фурье, вейвлет-преобразование",
+        "sections": "1 и 2 часть",
+        "url": "https://www.youtube.com/watch?v=1nGeS97cGMM",
+        "isAdvised": true
+      },
+      {
+        "creator": "Чип и дип",
+        "title": "Преобразование фурье",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=tU1bjw6fBLg"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Александр Полищук",
+        "title": "Абелевы многообразия, тэта-функции и преобразование Фурье",
+        "url": "https://www.ozon.ru/context/detail/id/5395259/"
+      },
+      {
+        "creator": "Дубнищев Юрий",
+        "title": "Теория и преобразование сигналов в оптических системах",
+        "url": "https://www.bookvoed.ru/book?id=3295593&gclid=Cj0KCQiAyszSBRDJARIsAHAqQ4oS2m_885YaM4NVXYUr0bSorIEw4leTXXlcnYttKU906zNc4vT_uU4aArU8EALw_wcB"
+      },
+      {
+        "creator": "Владдимир Задирака",
+        "title": "Теория вычесления преобразования Фурье",
+        "url": "http://www.ozon.ru/context/detail/id/139388919/",
+        "isAdvised": true
+      },
+      {
+        "url": "https://www.ozon.ru/context/detail/id/19715084/",
+        "creator": "Норберт Винер, Раймонд Пэли",
+        "title": "Преобразование Фурье в комплексной области",
+        "isAdvised": true
+      },
+      {
+        "creator": "Оберхеттингер Фритц",
+        "title": "Преобразования Фурье распределений и их обращения",
+        "url": "https://www.bookvoed.ru/book?id=6748544&gclid=Cj0KCQiAyszSBRDJARIsAHAqQ4prmQMzgwXIBc8shLTE_aPKZAuU2bDx2XdTAP-cjh4NK3NiFaFk7REaArjPEALw_wcB"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "BetterExplained",
+        "title": "Преобразование Фурье",
+        "url": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Пол Борк",
+        "title": "Преобразование Фурье",
+        "url": "http://paulbourke.net/miscellaneous/dft/",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Преобразование Фурье",
+        "url": "https://habrahabr.ru/post/196374/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Преобразование Фурье",
+        "url": "https://habrahabr.ru/post/112068/"
       }
     ]
   }
