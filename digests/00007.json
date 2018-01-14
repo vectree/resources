@@ -4,8 +4,7 @@
     "Spring Context",
     "Spring Expression",
     "Dependency Injection",
-    "Inversion of Control",
-    "Spring MVC"
+    "Inversion of Control"
   ],
   "resources": {
     "Видео": [
@@ -22,6 +21,13 @@
         "sections": "Часть 1 и 2",
         "url": "https://www.youtube.com/watch?time_continue=5&v=BmBr5diz8WA",
         "isAdvanced": true
+      },
+      {
+        "creator": "Роман Бровко",
+        "sections": "Лекции с 1 по 22",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=M4w6b2pENWU&list=PLwwk4BHih4fho6gmaAwdHYZ6QQq0aE7Zi"
       },
       {
         "creator": "Oleg Zhurakousky",

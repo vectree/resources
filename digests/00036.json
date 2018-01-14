@@ -1,0 +1,72 @@
+{
+  "topics": [
+    "mvc",
+    "spring mvc",
+    "ввдение в spring mvc"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Gontuseries",
+        "url": "https://www.youtube.com/watch?v=iCQspqBpOB0&list=PLBgMUB7xGcO31B2gBmy1igpZn6LK78-CJ",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Hillel",
+        "url": "https://www.youtube.com/watch?v=Z9dvZyEofAg",
+        "title": "Все необходимые темы",
+        "isAdvised": true
+      },
+      {
+        "creator": "Роман Бровко",
+        "sections": "Лекции с 44 по 47",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=2H30Gugw5gM&index=57&list=PLwwk4BHih4fho6gmaAwdHYZ6QQq0aE7Zi"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Amuthan Ganeshan",
+        "url": "https://www.amazon.com/Spring-MVC-Beginners-Guide-Second/dp/1785880632/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=1R80VW6X4TPGTJ8FYX85",
+        "title": "Spring MVC Beginners Guide",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "ввдение в Spring MVC",
+        "url": "https://habrahabr.ru/post/336816/",
+        "isAdvised": true
+      },
+      {
+        "creator": "javaTpoint",
+        "url": "https://www.javatpoint.com/spring-3-mvc-tutorial",
+        "isEnglish": true,
+        "title": "Все необходимые темы"
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Spring.io",
+        "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html",
+        "isEnglish": true,
+        "title": "Все необходимые темы"
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Udemy",
+        "title": "Spring MVC For Beginners",
+        "isNotFree": true,
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/"
+      }
+    ]
+  }
+}

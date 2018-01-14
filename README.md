@@ -43,6 +43,7 @@ Vectree — платформа для начинающих разработчи�
   * [Youtube Trends](tasks/8)
 - Spring:
   * [Курс валют](tasks/9)
+  * [Pomodoro](tasks/10)
 - Go:
   * [Go Grabber](tasks/1)
   * [Go Web App](tasks/2)

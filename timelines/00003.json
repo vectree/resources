@@ -12,6 +12,28 @@
   },
   {
     "content": {
+      "digestId": 36,
+      "label": "Spring",
+      "title": "Реализация архитектуры MVC в Spring",
+      "text": "В данном дайджесте вы изучите Spring MVC и разберетесь с архитектурой Model - View - Controller."
+    },
+    "img": {
+      "src": "/img/spring-icon.svg"
+    }
+  },
+  {
+    "content": {
+      "taskId": 9,
+      "label": "Spring",
+      "title": "Практика: Курс валют",
+      "text": "В данной практике вы создадите шаблон Spring-проекта и на его основе сделаете сервис курсов валют."
+    },
+    "img": {
+      "src": "/img/spring-icon.svg"
+    }
+  },
+  {
+    "content": {
       "digestId": 8,
       "label": "Spring",
       "title": "Spring AOP",
@@ -26,7 +48,18 @@
       "digestId": 9,
       "label": "Spring",
       "title": "Взаимодействие с базами данных в Spring",
-      "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить базовые принципы доступа к данным в Spring"
+      "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить базовые принципы доступа к данным в Spring."
+    },
+    "img": {
+      "src": "/img/spring-icon.svg"
+    }
+  },
+  {
+    "content": {
+      "taskId": 10,
+      "label": "Spring",
+      "title": "Практика: Pomodoro",
+      "text": "В данной практике вы создадите, реализуете технику управления временем \"Помидор\" с помощью Spring."
     },
     "img": {
       "src": "/img/spring-icon.svg"

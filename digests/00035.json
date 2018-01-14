@@ -55,6 +55,9 @@
     "Книги": [
       {
         "creator": "Майкл Т. Фишер, Мартин Л. Аббот",
+        "title": "The Art of Scalability",
+        "isEnglish": true,
+        "isAdvanced": true,
         "url": "https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802"
       },
       {
