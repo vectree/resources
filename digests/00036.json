@@ -39,7 +39,7 @@
     "Статьи": [
       {
         "creator": "Habrahabr",
-        "title": "ввдение в Spring MVC",
+        "title": "Ввдение в Spring MVC",
         "url": "https://habrahabr.ru/post/336816/",
         "isAdvised": true
       },
@@ -55,6 +55,7 @@
         "creator": "Spring.io",
         "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html",
         "isEnglish": true,
+        "isAdvised": true,
         "title": "Все необходимые темы"
       }
     ],

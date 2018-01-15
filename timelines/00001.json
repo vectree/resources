@@ -12,6 +12,17 @@
   },
   {
     "content": {
+      "url": "https://codefights.com/arcade/intro/",
+      "label": "Java",
+      "title": "Практика: Задачи Java на CodeFights",
+      "text": "Решите множество интересных задач с помощью языка программирования Java и узнайте как решают их более опытные специалисты."
+    },
+    "img": {
+      "src": "/img/codefights.png"
+    }
+  },
+  {
+    "content": {
       "digestId": 1,
       "label": "Java",
       "title": "Введение в Java: Часть 2",
@@ -30,6 +41,17 @@
     },
     "img": {
       "src": "/img/java-icon.png"
+    }
+  },
+  {
+    "content": {
+      "url": "https://www.codewars.com/kata/search/java?q=&beta=false",
+      "label": "Java",
+      "title": "Практика: Задачи Java на CodeWars",
+      "text": "Решите множество интересных ката с помощью языка программирования Java и узнайте как решают их более опытные специалисты."
+    },
+    "img": {
+      "src": "/img/codewars.png"
     }
   },
   {

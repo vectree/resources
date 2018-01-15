@@ -1,0 +1,84 @@
+{
+  "topics": [
+    "реактивное программирование",
+    "введение в spring webflux",
+    "spring webflux",
+    "примеры работы с Spring Webflux"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Devoxx",
+        "title": "Spring Webflux",
+        "url": "https://www.youtube.com/watch?v=rdgJ8fOxJhc",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Devoxx",
+        "title": "Spring Webflux",
+        "url": "https://www.youtube.com/watch?v=zVNIZXf4BG8",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Tech Primers",
+        "title": "Spring Webflux",
+        "url": "https://www.youtube.com/watch?v=27Lg96EwPEg",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Введение в Spring Webflux",
+        "url": "https://habrahabr.ru/post/337604/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Реактивное программирование",
+        "url": "https://habrahabr.ru/company/piter/blog/307658/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabt",
+        "url": "https://habrahabr.ru/post/342498/",
+        "isAdvised": true,
+        "title": "Примеры работы с Spring Webflux"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Реактивное программирование",
+        "url": "https://habrahabr.ru/post/195562/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Реактивное программирование",
+        "url": "https://habrahabr.ru/post/279715/",
+        "isAdvised": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Spring.io",
+        "url": "https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html",
+        "isEnglish": true,
+        "isAdvised": true,
+        "title": "Все необходимые темы"
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Udemy",
+        "title": "Spring MVC For Beginners",
+        "isNotFree": true,
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/"
+      }
+    ]
+  }
+}

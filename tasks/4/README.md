@@ -46,6 +46,6 @@
 
 [Практика взята с Habrahabr](https://habrahabr.ru/post/310460) 
 
-[Спасибо Prakhar Srivastav за перевод](https://prakhar.me/)
+[Спасибо Prakhar Srivastav за статью](https://prakhar.me/)
 
 [Спасибо freetonik за перевод](https://habrahabr.ru/users/freetonik/)

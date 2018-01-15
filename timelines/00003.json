@@ -64,5 +64,16 @@
     "img": {
       "src": "/img/spring-icon.svg"
     }
+  },
+  {
+    "content": {
+      "digestId": 37,
+      "label": "Spring",
+      "title": "Реактивное программирование в Spring",
+      "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить фреймворк реактивного программирования Spring WebFlux."
+    },
+    "img": {
+      "src": "/img/spring-icon.svg"
+    }
   }
 ]
