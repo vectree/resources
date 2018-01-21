@@ -3,11 +3,39 @@
     "content": {
       "digestId": 10,
       "label": "Maven",
-      "title": "Знакомство с Maven",
-      "text": "В этом дайджесте вы найдете список ресурсов, с помощью которых Вы узнаете, что такое Maven, зачем он нужен и как его использовать."
+      "title": "Введение в разработку с Maven",
+      "text": "В рамках данного дайджеста вы установите и разберете инструмент для сборки проектов - Maven."
     },
     "img": {
-      "src": "/img/maven-icon.png"
+      "icon": "fa fa-reply"
+    }
+  },
+  {
+    "content": {
+      "taskId": 8,
+      "label": "Maven",
+      "title": "Практика: Youtube Trends",
+      "text": "В рамках данной практики вы реализуете Telegram бота, который будет анализировать YouTube Trends. Проект будет собран с помощью Maven."
+    },
+    "img": {
+      "icon": "fa fa-github",
+      "style": {
+        "color": "#333"
+      }
+    }
+  },
+  {
+    "content": {
+      "quizId": 3,
+      "label": "Maven",
+      "title": "Тестирование",
+      "text": "Проверьте свои знания, ответив на несколько вопросов."
+    },
+    "img": {
+      "icon": "fa fa-check",
+      "style": {
+        "color": "#eb4e4e"
+      }
     }
   }
 ]
