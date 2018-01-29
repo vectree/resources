@@ -1,0 +1,115 @@
+# Основы работы в Keil uVision 5
+
+Откройте сгенерированный в STM32CubeMX проект. Основное окно программы показано на рисунке 12.
+
+![Alt text](https://pp.userapi.com/c834202/v834202133/a01e7/_MQjS8CORFU.jpg)
+Рисунок 12. Интерфейс uVision 5
+
+Для простоты все примеры кода будут приведены на C. При желании вы
+можете использовать C++, но только в этом случае надо не забывать про использования `extern` "C" для обеспечения совместимости ABI приреализации C функций на C++.
+
+Далее откройте код main.c, и добавьте в него следующий код для мигания светодиодами в функцию `main`:
+```c
+HAL_GPIO_WritePin(GPIOE, 0xFF00, GPIO_PIN_RESET);
+
+/* Infinite loop */
+while (1)
+ {
+    // frame 1
+    HAL_GPIO_WritePin(GPIOE, 0xEE00, GPIO_PIN_RESET);
+    HAL_GPIO_WritePin(GPIOE, 0x1100, GPIO_PIN_SET);
+    HAL_Delay(100);
+    
+    // frame 2
+    HAL_GPIO_WritePin(GPIOE, 0xDD00, GPIO_PIN_RESET);
+    HAL_GPIO_WritePin(GPIOE, 0x2200, GPIO_PIN_SET);
+    HAL_Delay(100);
+
+     // frame 3
+    HAL_GPIO_WritePin(GPIOE, 0xBB00, GPIO_PIN_RESET);
+    HAL_GPIO_WritePin(GPIOE, 0x4400, GPIO_PIN_SET);
+    HAL_Delay(100);
+    
+    // frame 4
+    HAL_GPIO_WritePin(GPIOE, 0x7700, GPIO_PIN_RESET);
+    HAL_GPIO_WritePin(GPIOE, 0x8800, GPIO_PIN_SET);
+    HAL_Delay(100);
+}
+```
+
+В итоге весь код функции main будет выглядеть следующим образом:
+
+```c
+int main(void)
+{
+    /* 
+        Reset of all peripherals, Initializes
+        the Flash interface and the Systick. 
+    */
+    HAL_Init();
+    
+    /* Configure the system clock */
+    SystemClock_Config();
+   
+    /* Initialize all configured peripherals */
+    MX_GPIO_Init();
+    MX_I2C1_Init();
+    MX_SPI1_Init();
+    MX_USB_PCD_Init();
+   
+    /* USER CODE */
+   
+    HAL_GPIO_WritePin(GPIOE, 0xFF00, GPIO_PIN_RESET);
+   
+    /* Infinite loop */
+    while (1)
+    {
+        // frame 1
+        HAL_GPIO_WritePin(GPIOE, 0xEE00, GPIO_PIN_RESET);
+        HAL_GPIO_WritePin(GPIOE, 0x1100, GPIO_PIN_SET);
+        HAL_Delay(100);
+        
+        // frame 2
+        HAL_GPIO_WritePin(GPIOE, 0xDD00, GPIO_PIN_RESET);
+        HAL_GPIO_WritePin(GPIOE, 0x2200, GPIO_PIN_SET);
+        HAL_Delay(100);
+
+        // frame 3
+        HAL_GPIO_WritePin(GPIOE, 0xBB00, GPIO_PIN_RESET);
+        HAL_GPIO_WritePin(GPIOE, 0x4400, GPIO_PIN_SET);
+        HAL_Delay(100);    
+        
+        // frame 4
+        HAL_GPIO_WritePin(GPIOE, 0x7700, GPIO_PIN_RESET);
+        HAL_GPIO_WritePin(GPIOE, 0x8800, GPIO_PIN_SET);
+        HAL_Delay(100);
+    } 
+}
+```
+Базовая программа готова, и теперь её можно скомпилировать (рисунок 13).
+
+![Alt text](https://pp.userapi.com/c621511/v621511953/5d566/VBCIGH71-ag.jpg)
+Рисунок 13. Компиляция программы в uVision
+
+Если компиляция программы прошла успешно, то можно подключить отладочную плату STM32F3Discovery по STLink/V2 через USB и загрузить программу на плату (рисунок 14). Перед загрузкой программы не происходит её автоматическая компиляция, поэтому нужно не забывать каждый раз перед загрузкой кода, запускать его компиляцию, чтобы изменения в коде попали на
+плату!
+
+![Alt text](https://pp.userapi.com/c621511/v621511953/5d576/3rl4YR8iI1M.jpg)
+Рисунок 14. Загрузка программы
+
+После того как программа загрузилась, нажмите на плате **reset** для
+перезагрузки, после чего, если все было сделано правильно, вы увидите мигание светодиодов на плате.
+
+Однако каждый раз перезапускать плату вручную не удобно, поэтому имеется возможность автоматического перезапуска платы. Для этого нужно зайти в настройки проекта (рисунок 15), перейти на вкладку Debug и открыть окно Settings (рисунок 16). В появившемся окне настроек перейти на вкладку Flash Download, отметить Run and Reset и применить настройки (рисунок 17).
+
+![Alt text](https://pp.userapi.com/c621511/v621511953/5d57f/YXDv68t2LxI.jpg)
+Рисунок 15. Переход к настройкам проекта
+
+![Alt text](https://pp.userapi.com/c621511/v621511953/5d587/5LqF_ajkFf0.jpg)
+Рисунок 16. Вкладка аппаратного дебаггера/программатора
+
+![Alt text](https://pp.userapi.com/c621511/v621511953/5d58f/1oHLtQbzx9M.jpg)
+Рисунок 17. Настройки загрузки программы на плату
+
+В результате теперь после загрузки программы, отладочная плата будет
+автоматически перезагружена.
