@@ -12,5 +12,7 @@
   "mentors": true,
   "timelineId": 0,
   "quizId": 0,
-  "steps": [1, 2, 3]
+  "practiceId": 0,
+  "interview": true,
+  "practiceSize": 3
 }
