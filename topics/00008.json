@@ -1,0 +1,108 @@
+{
+  "topicId": 8,
+  "topicName": "Docker",
+  "questions": [
+    {
+      "question": "На каких операционных системах может быть запущен Docker?",
+      "answers": [
+        "Windows",
+        "Linux",
+        "Mac"
+      ],
+      "correctAnswers": [
+        0, 1, 2
+      ]
+    },
+    {
+      "question": "Все docker-контейнеры запускаются на одной машине, делят одно ядро операционной системы и используют RAM более эффективно.",
+      "answers": [
+        "Да",
+        "Нет"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какое название публичного Docker-реестра?",
+      "answers": [
+        "Docker Swarm",
+        "Docker Hub",
+        "Docker Cloud",
+        "Docker Compose"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Какое название у инструмента запуска нескольких контейнров, используя единый конфигурационный файл для всех сервисов?",
+      "answers": [
+        "Docker Swarm",
+        "Docker Hub",
+        "Docker Cloud",
+        "Docker Compose"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Какое название у инструмента создания кластера Docker-контейнеров?",
+      "answers": [
+        "Docker Swarm",
+        "Docker Hub",
+        "Docker Cloud",
+        "Docker Compose"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Файл конфигурации Docker-контейнера?",
+      "answers": [
+        "Dockersfile",
+        "docker-compose",
+        "docker-compose.xml",
+        "Dockerfile"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Какая команда запускате Docker-образ?",
+      "answers": [
+        "docker run имя_образа",
+        "docker start имя_образа",
+        "docker build имя_образа"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какая команда выводит список всех запущенных Docker-контейнеров?",
+      "answers": [
+        "docker container ls -run",
+        "docker container ls",
+        "docker container ls -running"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Какая команда создает все сервисы описанные в docker-compose.xml?",
+      "answers": [
+        "docker-compose create",
+        "docker up",
+        "docker-compose up"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    }
+  ]
+}

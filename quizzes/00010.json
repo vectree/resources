@@ -1,0 +1,6 @@
+{
+  "quizId": 10,
+  "minPercent": 50,
+  "limit": 20,
+  "topics": [2, 4, 7, 8]
+}
