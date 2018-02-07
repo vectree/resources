@@ -1,0 +1,53 @@
+{
+  "topics": [
+    "FreeRTOS",
+    "Операционная система реального времени",
+    "Установка FreeRTOS на STM32"
+  ],
+  "resources": {
+    "Книга": [
+      {
+        "creator": "Андрей Курниц",
+        "title": "FreeRTOS — операционная система для микроконтроллеров",
+        "url": "http://easyelectronics.ru/img/ARM_kurs/FreeRTOS/Kurniz.pdf",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "EasyElectronics",
+        "title": "Все необходимые темы",
+        "url": "http://we.easyelectronics.ru/STM32/stm32-freertos.html",
+        "isAdvised": true
+      },
+      {
+        "creator": "pic24",
+        "title": "Операционная система реального времени",
+        "url": "http://www.pic24.ru/doku.php/osa/articles/rtos_usage",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/249273/",
+        "isAdvised": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Geektimes",
+        "title": "Установка FreeRTOS на STM32",
+        "url": "https://geektimes.ru/post/283678/",
+        "isAdvised": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "FreeRTOS",
+        "url": "https://www.freertos.org/index.html",
+        "isEnglish": true,
+        "isAdvised": true,
+        "title": "Все необходимые темы"
+      }
+    ]
+  }
+}

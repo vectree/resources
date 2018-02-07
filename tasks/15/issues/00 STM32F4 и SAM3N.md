@@ -1,0 +1,255 @@
+# STM32F4 и SAM3N
+
+Доброе время суток!) Продолжаем изучать микроконтроллеры ARM архитектуры, сегодня пойдет речь о RTOS (OCPB), а в частности про FreeRTOS (тут я добавлю свою ложку дёгтя) и новый зверь ChibiOS. RTOS — операционная система реального времени. Что такое реальное время? Стандарт POSIX 1003.1 даёт следующее определение: «Реальное время в операционных системах — это способность операционной системы обеспечить требуемый уровень сервиса в определённый промежуток времени». Операционная система, реагирующая на событие за определенный, заданный промежуток времени. Операционные системы реального времени делят на два типа — системы жесткого реального времени и системы мягкого реального времени. Операционная система, которая может обеспечить требуемое время выполнения задачи реального времени даже в худших случаях, называется операционной системой жёсткого реального времени. Операционная система, которая может обеспечить требуемое время выполнения задачи реального времени в среднем, называется операционной системой мягкого реального времени.
+
+FreeRTOS — http://www.freertos.org/
+
+![Alt text](http://www.mcu.by/wp-content/uploads/2014/09/logo_f.png)
+
+Лого freertos
+
+ChibiOS — http://www.chibios.org/ 
+
+![Alt text](http://www.mcu.by/wp-content/uploads/2014/09/logo.png)
+
+Лого чиби
+
+Какие MCU поддерживают данные оси?
+
+**FreeRTOS** – наверное самая пушистая, количество платформ просто зашкаливает, вот ссылка (http://www.freertos.org/RTOS_ports.html), где подробно перечисляется, какие мсиюшки поддерживает freertos: Actel, Altera, Atmel, NXP,.., ST… и очень много другого.
+
+**ChibiOS** – не такая пушистая, но потенциал очень велик)
+
+Так какие платформы поддерживает чиби?
+
+* ARM Cortex-M0 (ARMv6-M) GCC LPC11xx, LPC11Uxx, STM32F0xx
+* ARM Cortex-M0 (ARMv6-M) RVCT LPC11xx, LPC11Uxx, STM32F0xx
+* ARM Cortex-M3 (ARMv7-M) GCC LPC13xx, STM32F1xx, STM32F2xx, STM32L1xx
+* ARM Cortex-M3 (ARMv7-M) IAR LPC13xx, STM32F1xx, STM32F2xx, STM32L1xx
+* ARM Cortex-M3 (ARMv7-M) RVCT LPC13xx, STM32F1xx, STM32F2xx, STM32L1xx
+* ARM Cortex-M4 (ARMv7-ME) GCC STM32F3xx, STM32F4xx
+* ARM Cortex-M4 (ARMv7-ME) IAR STM32F3xx, STM32F4xx
+* ARM Cortex-M4 (ARMv7-ME) RVCT STM32F3xx, STM32F4xx
+* ARM7 GCC AT91SAM7x, LPC214x
+* MegaAVR GCC ATmega128, AT90CAN128, ATmega328p, ATmega1280
+* MSP430 GCC MSP430F1611
+* Power Architecture e200z GCC/HighTec SPC56x (all)
+* STM8 Cosmic STM8L, STM8S
+* STM8 Raisonance STM8L, STM8S
+
+Как мы видим это в основном ведущие поставщики микроконтроллеров ST, Atmel и NXP.
+
+Первые примеры будут посвящены вытесняющей многозадачности. Что такое многозадачность? Это свойство операционной системы или среды выполнения обеспечивать возможность параллельной (или псевдопараллельной) обработки нескольких процессов. Истинная многозадачность операционной системы возможна только в распределённых вычислительных системах. Вытесняющая многозадачность — это когда диспетчер каждый системный тик, останавливает задачу(А), и передает управление другой задаче(Б). Обеспечивая тем самым псевдопараллельное выполнение. Сегодня у нас будут два подопытных кролика. Первый STM32F429ZI –DISCO и второй SAM3N-EK.
+
+![Alt text](http://www.mcu.by/wp-content/uploads/2014/09/rtos.bmp)
+
+Для изучения freertos есть, ОЧЕНЬ ПОДРОБНОЕ РУКОВОДСТВО ПО FREERTOS написал Андрей Курниц для журнала «Компоненты и технологии» (http://www.kit-e.ru/articles/micro/2011_2_96.php). И так начинаем:
+
+#### STM32F4 + Keil + FreeRTOS.
+
+```c
+#include "stm32f4xx_hal.h"
+#include "cmsis_os.h"
+
+UART_HandleTypeDef huart5;
+void SystemClock_Config(void);
+static void StartThread(void const * argument);
+static void MX_GPIO_Init(void);
+static void MX_UART5_Init(void);
+typedef struct TaskParam_t{
+	signed long int period;
+} Task;
+
+Task p1, p2;
+
+void vTask1(void *pvParameters){
+	Task *task_period;
+	task_period = (Task *)pvParameters;
+	HAL_GPIO_WritePin(GPIOG, GPIO_PIN_13, GPIO_PIN_SET);
+	for(;;){
+		HAL_GPIO_TogglePin(GPIOG, GPIO_PIN_13);
+		vTaskDelay(task_period->period);
+	}
+	vTaskDelete(NULL);
+}
+
+void vTask2(void *pvParameters){
+	Task *period;
+	period =  (Task *) pvParameters;
+	HAL_GPIO_WritePin(GPIOG, GPIO_PIN_14, GPIO_PIN_SET);
+	for(;;){
+		HAL_GPIO_TogglePin(GPIOG, GPIO_PIN_14);
+		vTaskDelay(period->period);
+	}
+	vTaskDelete(NULL);
+}
+
+int main(void)
+{
+  HAL_Init();
+  SystemClock_Config();
+  HAL_NVIC_SetPriorityGrouping(NVIC_PRIORITYGROUP_4);
+  HAL_NVIC_SetPriority(SysTick_IRQn, 0, 0);
+  MX_GPIO_Init();
+	p1.period = 1000;
+	p2.period = 500;
+	xTaskCreate(vTask1, (signed char *) "Task1", configMINIMAL_STACK_SIZE, (void *) &p1, 1, NULL);
+	xTaskCreate(vTask2, (signed char *) "Task2", configMINIMAL_STACK_SIZE, (void *) &p2, 1, NULL);
+	vTaskStartScheduler();
+	
+  while (1){	
+  }
+}
+```
+
+#### STM32F4 + keil + ChibiOS
+
+```c
+#include "ch.h"
+#include "hal.h"
+
+static WORKING_AREA(waThread1, 128);
+static WORKING_AREA(waThread2, 128);
+static msg_t Thread1(void *arg);
+static msg_t Thread2(void *arg);
+
+typedef struct TaskParam_t{
+	signed long int period;
+} Task;
+
+Task p1, p2;
+
+int main(void){
+	p1.period = 1000;
+	p2.period = 500;
+	halInit();
+	chSysInit();
+	chThdCreateStatic(waThread1, sizeof(waThread1), NORMALPRIO, Thread1, (void *)&p1);
+	chThdCreateStatic(waThread2, sizeof(waThread2), NORMALPRIO, Thread2, (void *)&p2);
+	while(TRUE){		
+	}
+}
+
+static msg_t Thread1(void *arg){
+	Task *period;
+	period =  (Task *) arg;
+	palSetPad(GPIOG, GPIOG_LED4_RED );
+	while(TRUE){
+	palTogglePad(GPIOG, GPIOG_LED4_RED);
+	chThdSleepMilliseconds(period->period);
+	}
+}
+
+static msg_t Thread2(void *arg){
+	Task *period;
+	period =  (Task *) arg;
+	palSetPad(GPIOG, GPIOG_LED3_GREEN);
+	while(TRUE){
+	palTogglePad(GPIOG, GPIOG_LED3_GREEN);
+	chThdSleepMilliseconds(period->period);
+	}
+}
+```
+
+[Ссылка на youtube-видео 1](https://youtu.be/2xIHr_p1K1Q)
+
+* `halInit()` – инициализация борды,
+* `chSysInit()` – инициализация оси и инициализация диспетчера задач,
+* `Thread *chThdCreateStatic(void *wsp, size_t size, tprio_t prio, tfunc_t pf, void *arg)` – создание потока (создание задачи).
+* 1—ый аргумент – указатель на выделенную память для задачи
+* 2-ой аргумент – размер памяти, сколько выделили
+* 3-ый аргумент – уровень приоритета для задачи
+* 4-ый аргумент — имя функции
+* 5-ый аргумент – данные передаваемые функции
+
+#### SAM3N-EK+Ateml Studio 6 +FreeRTOS
+
+```c
+#include <asf.h>
+#include "conf_board.h"
+
+#define TASK_MONITOR_STACK_SIZE            (2048/sizeof(portSTACK_TYPE))
+#define TASK_MONITOR_STACK_PRIORITY        (tskIDLE_PRIORITY)
+#define TASK_LED_STACK_SIZE                (1024/sizeof(portSTACK_TYPE))
+#define TASK_LED_STACK_PRIORITY            (tskIDLE_PRIORITY)
+
+extern void vApplicationStackOverflowHook(xTaskHandle *pxTask,
+		signed char *pcTaskName);
+extern void vApplicationIdleHook(void);
+extern void vApplicationTickHook(void);
+
+extern void xPortSysTickHandler(void);
+
+void SysTick_Handler(void)
+{
+	xPortSysTickHandler();
+}
+
+
+extern void vApplicationStackOverflowHook(xTaskHandle *pxTask,
+		signed char *pcTaskName)
+{
+
+}
+
+extern void vApplicationIdleHook(void)
+{
+}
+
+extern void vApplicationTickHook(void)
+{
+}
+
+
+typedef struct TaskParam_t{
+	signed long int period;
+} Task;
+
+Task p1, p2;
+
+
+
+static void task_led1(void *pvParameters)
+{
+	Task *period;
+	period =  (Task *) pvParameters;
+	
+	for (;;) {
+
+		LED_Toggle(LED0);
+		vTaskDelay(period->period);
+	}
+}
+
+
+static void task_led2(void *pvParameters)
+{
+	Task *period;
+	period =  (Task *) pvParameters;
+	for (;;) {
+		LED_Toggle(LED1);
+		vTaskDelay(period->period);
+	}
+}
+
+
+int main(void)
+{
+	sysclk_init();
+	board_init();
+	p1.period = 1000;
+	p2.period = 500;
+	xTaskCreate(task_led1, (signed char *)"Led1", TASK_LED_STACK_SIZE, (void *) &p1, TASK_LED_STACK_PRIORITY, NULL);
+	xTaskCreate(task_led2, (signed char *)"Led2", TASK_LED_STACK_SIZE, (void *) &p2, TASK_LED_STACK_PRIORITY, NULL);
+	vTaskStartScheduler();
+	while(1){
+	}
+	return 0;
+}
+```
+
+[Ссылка на youtube-видео 2](https://youtu.be/5fayVp9dbzM)
+
+[Ссылка на youtube-видео 3](https://youtu.be/Xg9PilVLvPc)
+
+Как мы видим применение freertos просто потрясающее, программная реализация просто копи пастом переносится на другую платформу, немного подправив код. 
