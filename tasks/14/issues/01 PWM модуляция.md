@@ -1,0 +1,485 @@
+# PWM модуляция. Управление сервоприводом
+Как правило сервоприводы (рисунок 7), используемые в различной механике, управляются с помощью PWM сигнала частотой 50 Гц и длительностью импульса 1000 мкс – 2000 мкс [7].
+
+![Alt text](https://sun9-7.userapi.com/c840532/v840532538/51dde/UGUvEkYnSwg.jpg)
+
+Рисунок 7. Серво привод
+ 
+Настройка таймера для генерации PWM сигнала сводится к следующим шагам:
+1. настройка пинов портов ввода/вывода на работу с таймером;
+2. настройка таймера (задается частота таймера и его период);
+3. настройка канала (задание ширины импульса);
+4. запуск таймера.
+
+Приведенный ниже код демонстрирует пример управления сервоприводом, подключенным к пину PD12 c помощью первого канала четвертого таймера. В отличии от предыдущих лабораторных работа, пример кода состоит из нескольких файлов со следующим назначением:
+1. utils.h и utils.cpp – общие вспомогательные функции для настройки таймеров и прочие сервисные функции;
+2. simple_servo.h и simple_servo.cpp – класс для инициализации и управлением характеристиками pwm сигнала;
+3. main.cpp – основной код программы. 
+
+utils.h
+```cpp
+/**
+ * Common helper functions.
+ */
+#ifndef __UTILS
+#define __UTILS
+#include "stm32f3xx_hal.h"
+
+//----------------------------------------------------------------
+// Helper function to control timers
+//----------------------------------------------------------------
+
+/**
+ * Enable timer clock
+ */
+void enableTimerClock(TIM_TypeDef* tim);
+
+/**
+ * Set value of the compare/capture register for channel of the specified timer.
+ */
+
+void setTimerChannelValue(TIM_TypeDef* tim, uint32_t channel, uint32_t value);
+
+/**
+ * Get value of the compare/capture register for channel of the specified timer.
+ */
+uint32_t getTimerChannelValue(TIM_TypeDef* tim, uint32_t channel);
+
+/**
+ * Enable specified GPIO timer output
+ */
+void enableGPIOForTimer(GPIO_TypeDef* GPIOx, uint32_t gpioPins,
+
+uint32_t alternativeFunctionCode);
+
+/**
+ * Get interrupt code
+ *
+ * @param tim - timer instance
+ * @param interruptType  - TIM_IT_UPDATE, TIM_IT_CC1, TIM_IT_CC2, TIM_IT_CC3 or TIM_IT_CC4
+ */
+IRQn_Type getIRQCode(TIM_TypeDef* tim, uint32_t interruptType);
+
+/**
+ * Get interrupt code of the corresponding timer channel
+ *
+ * @param channel - TIM_CHANNEL_1, TIM_CHANNEL_2, TIM_CHANNEL_3 or TIM_CHANNEL_4
+ * @return - TIM_IT_CC1, TIM_IT_CC2, TIM_IT_CC3 or TIM_IT_CC4
+ */
+uint32_t getTimInterruptTypeCode(uint32_t channel);
+
+//----------------------------------------------------------------
+// Other helper functions
+//----------------------------------------------------------------
+void systemClockConfig();
+void initLeds();
+void setIndicatorPosition(float angle);
+
+#endif
+```
+
+utils.cpp
+
+```c
+#include "utils.h"
+#include <cmath>
+
+using std::round;
+
+void enableTimerClock(TIM_TypeDef* tim)
+{
+    if (tim == TIM1) {
+        __HAL_RCC_TIM1_CLK_ENABLE();
+    } else if (tim == TIM2) {
+        __HAL_RCC_TIM2_CLK_ENABLE();
+    } else if (tim == TIM3) {
+        __HAL_RCC_TIM3_CLK_ENABLE();
+    } else if (tim == TIM4) {
+        __HAL_RCC_TIM4_CLK_ENABLE();
+    } else if (tim == TIM6) {
+        __HAL_RCC_TIM6_CLK_ENABLE();
+    } else if (tim == TIM7) {
+        __HAL_RCC_TIM7_CLK_ENABLE();
+    } else if (tim == TIM8) {
+        __HAL_RCC_TIM8_CLK_ENABLE();
+    } else if (tim == TIM15) {
+        __HAL_RCC_TIM15_CLK_ENABLE();
+    } else if (tim == TIM16) {
+        __HAL_RCC_TIM16_CLK_ENABLE();
+    } else if (tim == TIM17) {
+        __HAL_RCC_TIM17_CLK_ENABLE();
+    } 
+}
+
+void setTimerChannelValue(TIM_TypeDef* tim, uint32_t channel, uint32_t value)
+{
+    switch (channel) {
+        case TIM_CHANNEL_1:
+            tim->CCR1 = value;
+            break;
+        case TIM_CHANNEL_2:
+            tim->CCR2 = value;
+            break;
+        case TIM_CHANNEL_3:
+            tim->CCR3 = value;
+            break;
+        case TIM_CHANNEL_4:
+            tim->CCR4 = value;
+        break; 
+    }
+}
+
+uint32_t getTimerChannelValue(TIM_TypeDef* tim, uint32_t channel)
+{
+    uint32_t value = 0;
+    switch (channel) {
+        case TIM_CHANNEL_1:
+            value = tim->CCR1;
+            break;
+        case TIM_CHANNEL_2:
+            value = tim->CCR2;
+            break;
+        case TIM_CHANNEL_3:
+            value = tim->CCR3;
+            break;
+        case TIM_CHANNEL_4:
+            value = tim->CCR4;
+            break;
+    }
+    
+    return value;
+}
+
+IRQn_Type getIRQCode(TIM_TypeDef* tim, uint32_t interruptType)
+{
+    IRQn_Type irqCode;
+    if (tim == TIM1) {
+        if (interruptType == TIM_IT_UPDATE) {
+            irqCode = TIM1_UP_TIM16_IRQn;
+        } else if (interruptType == TIM_IT_CC1 || interruptType == TIM_IT_CC2 || interruptType == TIM_IT_CC3 || interruptType == TIM_IT_CC4) {
+            irqCode = TIM1_CC_IRQn;
+        }
+    } else if (tim == TIM2) {
+        irqCode = TIM2_IRQn;
+    } else if (tim == TIM3) {
+        irqCode = TIM3_IRQn;
+    } else if (tim == TIM4) {
+        irqCode = TIM4_IRQn;
+    } else if (tim == TIM6) {
+        irqCode = TIM6_DAC_IRQn;
+    } else if (tim == TIM7) {
+        irqCode = TIM7_IRQn;
+    } else if (tim == TIM8) {
+        if (interruptType == TIM_IT_UPDATE) {
+            irqCode = TIM8_UP_IRQn;
+        } else if (interruptType == TIM_IT_CC1 || interruptType == TIM_IT_CC2 || interruptType == TIM_IT_CC3 || interruptType == TIM_IT_CC4) {
+            irqCode = TIM8_CC_IRQn;
+        }
+    } else if (tim == TIM15) {
+        irqCode = TIM1_BRK_TIM15_IRQn;
+    } else if (tim == TIM16) {
+        irqCode = TIM1_UP_TIM16_IRQn;
+    } else if (tim == TIM17) {
+        irqCode = TIM1_TRG_COM_TIM17_IRQn;
+    }
+    
+    return irqCode;
+}
+
+uint32_t getTimInterruptTypeCode(uint32_t channel)
+{
+    uint32_t value = 0;
+    switch (channel) {
+        case TIM_CHANNEL_1:
+            value = TIM_IT_CC1;
+            break;
+        case TIM_CHANNEL_2:
+            value = TIM_IT_CC2;
+            break;
+        case TIM_CHANNEL_3:
+            value = TIM_IT_CC3;
+            break;
+        case TIM_CHANNEL_4:
+            value = TIM_IT_CC3;
+        break; 
+    }
+    return value;
+}
+
+void enableGPIOForTimer(GPIO_TypeDef* gpio, uint32_t gpioPins,
+
+uint32_t alternativeFunctionCode)
+{
+    if (gpio == GPIOA) {
+        __HAL_RCC_GPIOA_CLK_ENABLE();
+    } else if (gpio == GPIOB) {
+        __HAL_RCC_GPIOB_CLK_ENABLE();
+    } else if (gpio == GPIOC) {
+        __HAL_RCC_GPIOC_CLK_ENABLE();
+    } else if (gpio == GPIOD) {
+        __HAL_RCC_GPIOD_CLK_ENABLE();
+    } else if (gpio == GPIOE) {
+        __HAL_RCC_GPIOE_CLK_ENABLE();
+    } else if (gpio == GPIOF) {
+        __HAL_RCC_GPIOF_CLK_ENABLE();
+    }
+    
+    GPIO_InitTypeDef gpioInit;
+    gpioInit.Pin = gpioPins;
+    gpioInit.Mode = GPIO_MODE_AF_PP;
+    gpioInit.Pull = GPIO_NOPULL;
+    gpioInit.Speed = GPIO_SPEED_FREQ_LOW;
+    
+    // code of the alternative function can be found in the stm32f3datasheet.pdf
+    gpioInit.Alternate = alternativeFunctionCode;
+    HAL_GPIO_Init(gpio, &gpioInit);
+}
+
+void initLeds()
+{
+    __HAL_RCC_GPIOE_CLK_ENABLE();
+    GPIO_InitTypeDef gpioInit;
+    gpioInit.Pin = 0xFF00;
+    gpioInit.Mode = GPIO_MODE_OUTPUT_PP;
+    gpioInit.Pull = GPIO_NOPULL;
+    gpioInit.Speed = GPIO_SPEED_FREQ_LOW;
+    HAL_GPIO_Init(GPIOE, &gpioInit);
+    HAL_GPIO_WritePin(GPIOE, 0xFF00, GPIO_PIN_RESET);
+}
+
+void setIndicatorPosition(float angle)
+{
+    // convert angle to pin number
+    volatile int8_t pinNo = round(angle / 45.0f);
+    pinNo += 5;
+    
+    while (pinNo < 0) {
+        pinNo++;
+    }
+    
+    while (pinNo > 8) {
+        pinNo--;
+    }
+    
+    pinNo += 8;
+
+    // switch leds
+    GPIOE->ODR = ((GPIOE->ODR) & 0x00FFU) | (0x0001U << pinNo);
+}
+
+/**
+ * System Clock Configuration
+ */
+void systemClockConfig(void)
+{
+    RCC_OscInitTypeDef RCC_OscInitStruct;
+    RCC_ClkInitTypeDef RCC_ClkInitStruct;
+    
+    // Initializes the CPU, AHB and APB busses clocks
+    RCC_OscInitStruct.OscillatorType = RCC_OSCILLATORTYPE_HSE;
+    RCC_OscInitStruct.HSEState = RCC_HSE_BYPASS;
+    RCC_OscInitStruct.HSEPredivValue = RCC_HSE_PREDIV_DIV1;
+    RCC_OscInitStruct.HSIState = RCC_HSI_ON;
+    RCC_OscInitStruct.PLL.PLLState = RCC_PLL_ON;
+    RCC_OscInitStruct.PLL.PLLSource = RCC_PLLSOURCE_HSE;
+    RCC_OscInitStruct.PLL.PLLMUL = RCC_PLL_MUL6;
+    HAL_RCC_OscConfig(&RCC_OscInitStruct);
+    
+    // Initializes the CPU, AHB and APB busses clocks
+    RCC_ClkInitStruct.ClockType = RCC_CLOCKTYPE_HCLK | RCC_CLOCKTYPE_SYSCLK | RCC_CLOCKTYPE_PCLK1 | RCC_CLOCKTYPE_PCLK2;
+    RCC_ClkInitStruct.SYSCLKSource = RCC_SYSCLKSOURCE_PLLCLK;
+    RCC_ClkInitStruct.AHBCLKDivider = RCC_SYSCLK_DIV1;
+    RCC_ClkInitStruct.APB1CLKDivider = RCC_HCLK_DIV2;
+    RCC_ClkInitStruct.APB2CLKDivider = RCC_HCLK_DIV1;
+    HAL_RCC_ClockConfig(&RCC_ClkInitStruct, FLASH_LATENCY_1);
+    
+    // Configure the Systick interrupt time
+    HAL_SYSTICK_Config(HAL_RCC_GetHCLKFreq() / 1000);
+    
+    // Configure the Systick
+    HAL_SYSTICK_CLKSourceConfig(SYSTICK_CLKSOURCE_HCLK);
+    
+    // SysTick_IRQn interrupt configuration
+    HAL_NVIC_SetPriority(SysTick_IRQn, 0, 0);
+}
+```
+simple_servo.h
+
+```cpp
+/**
+ * Helper class to control servo motor using timer.
+ */
+#ifndef __SIMPLE_SERVO
+#define __SIMPLE_SERVO
+#include "stm32f3xx_hal.h"
+/**
+ * Simple to control servo motor.
+ */
+class SimpleServo {
+    public:
+        SimpleServo() = default;
+        /**
+         * Initialize timers.
+         *
+         * Note: pins should be configured separatly.
+         */
+        void init(TIM_TypeDef* tim, uint32_t channel, uint32_t pwmFrequency = 50, uint32_t minPulseWidth = 1000, uint32_t maxPulseWidth = 2000);
+        
+        /**
+         * Set servo postion
+         *
+         * @param angle - servo angle (between -90 and 90)
+         */
+        void setAngle(float angle);
+
+    private:
+        /**
+         * Convert servo position in the degrees to value of the capture/compare register.
+         */
+        uint32_t calculatePulseLen(float angle);
+       
+        /**
+         * Timer counter frequncy (100 kHz)
+         */
+        static const uint32_t COUNTER_FREQUNCY = 100000;
+        
+        // HAL structure to contol timer
+        TIM_HandleTypeDef hTim;
+        
+        // pwm channel
+        uint32_t channel;
+        
+        // pwm frequency (Hz)
+        uint32_t pwmFrequency;
+        
+        // pulse width in microseconds with -90 degrees
+        uint32_t minPulseWidth;
+        
+        // pulse width in microseconds with 90 degrees
+        uint32_t maxPulseWidth;
+        
+        float counterUnitLen;
+};
+
+#endif
+```
+
+simple_servo.cpp
+```cpp
+
+#include <cmath>
+#include "simple_servo.h"
+#include "utils.h"
+
+using std::round;
+
+uint32_t SimpleServo::calculatePulseLen(float angle)
+{
+    if (angle > 90.0f) {
+        angle = 90.0f;
+    } else if (angle < -90.0f) {
+        angle = -90.0f;
+    }
+
+    float pulseWidth = ((-angle + 90.0f) / 180.0f) * (maxPulseWidth - minPulseWidth) + minPulseWidth;
+    
+    return pulseWidth * (COUNTER_FREQUNCY / 1000000.0f);
+}
+
+void SimpleServo::init(TIM_TypeDef* tim, uint32_t channel, uint32_t pwmFrequency, uint32_t minPulseWidth, uint32_t maxPulseWidth)
+{
+    // save pwm parameters
+    this->pwmFrequency = pwmFrequency;
+    this->minPulseWidth = minPulseWidth;
+    this->maxPulseWidth = maxPulseWidth;
+    
+    // save timer parameters
+     hTim.Instance = tim;
+    this->channel = channel;
+    
+    // configure and initizialize timer
+    hTim.State = HAL_TIM_STATE_RESET;
+    
+    // calculate timer prescaler to make timer frequncy equals COUNTER_FREQUNCY
+    hTim.Init.Prescaler = HAL_RCC_GetHCLKFreq() / COUNTER_FREQUNCY - 1;
+   
+    // calculate counter period (it determines pwm frequency)
+    hTim.Init.Period = COUNTER_FREQUNCY / pwmFrequency - 1;
+    hTim.Init.CounterMode = TIM_COUNTERMODE_UP;
+    hTim.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
+    hTim.Init.RepetitionCounter = 0;
+    hTim.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
+   
+    // initizialize timer
+    enableTimerClock(hTim.Instance);
+    HAL_TIM_PWM_Init(&hTim);
+   
+    // configure and initialize timer channel
+    TIM_OC_InitTypeDef channelConfig;
+   
+    // calculate pulse width of the pwm signal
+    channelConfig.Pulse = calculatePulseLen(0);
+    
+    // other settings
+    channelConfig.OCMode = TIM_OCMODE_PWM1;
+    channelConfig.OCPolarity = TIM_OCPOLARITY_HIGH;
+    channelConfig.OCNPolarity = TIM_OCPOLARITY_HIGH;
+    channelConfig.OCFastMode = TIM_OCFAST_DISABLE;
+    channelConfig.OCIdleState = TIM_OCIDLESTATE_RESET;
+    channelConfig.OCNIdleState = TIM_OCNIDLESTATE_RESET;
+    
+    // initizialize channel
+    HAL_TIM_PWM_ConfigChannel(&hTim, &channelConfig, channel);
+
+    // run timer
+    HAL_TIM_PWM_Start(&hTim, channel);
+}
+
+void SimpleServo::setAngle(float angle)
+{
+    uint32_t val = calculatePulseLen(angle);
+    setTimerChannelValue(hTim.Instance, channel, val);
+}
+```
+
+main.cpp
+```cpp
+/**
+ * This file contains example of the usage timer to control servo motor like MG90S.
+ */
+#include "stm32f3xx_hal.h"
+#include "simple_servo.h"
+#include "utils.h"
+
+// servo driver
+static SimpleServo simpleServo;
+
+int main(void)
+{
+    // Reset of all peripherals, Initializes the Flash interface and the Systick.
+    HAL_Init();
+    
+    // Configure the system clock
+    systemClockConfig();
+    
+    // initizalize leds
+    initLeds();
+    
+    // initilize PD12 pin for servo
+    enableGPIOForTimer(GPIOD, GPIO_PIN_12, GPIO_AF2_TIM4);
+    
+    // initialize servo
+    simpleServo.init(TIM4, TIM_CHANNEL_1, 50, 560, 2300);
+    while (1) {
+         for (float angle = -90.0f; angle < 90.0f; angle += 5) {
+            simpleServo.setAngle(angle);
+            setIndicatorPosition(angle);
+            HAL_Delay(100);
+        } 
+    }
+}
+```
+
+Так же перед компиляцией кода, работающего с таймерами следует проверить файл stm32f3xx_hal_conf.h и убедиться, что строчка `#define HAL_TIM_MODULE_ENABLED` раскомментированна, иначе вы получите ошибку компиляции при использовании функций работы с таймерами.
+
+При выборе таймера для геренации ШИМ стоит посмотреть докуметацию к stm32f3, т.к. таймеры могут быть подключены только к определенным пинам. Найти нужный код альтернативной функции можно в datasheet для stm32f3.
