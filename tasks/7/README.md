@@ -32,3 +32,5 @@ BigDecimal totalPrice = terminal.calculate();
 * Шаг #1: Подготовка;
 * Шаг #2: Написание тестов;
 * Шаг #3: Интеграция TravisCI.
+
+> **Warning**: Все перечисленные шаги находятся во вкладке **Issues**!

@@ -12,6 +12,8 @@
 * Шаг #5: Сервер
 * Шаг #6: Курс валют
 
+> **Warning**: Все перечисленные шаги находятся во вкладке **Issues**!
+
 [Практика основана на статье с Habrahabr](https://habrahabr.ru/post/257223/) 
 
 [Спасибо Kelheor за статью](https://habrahabr.ru/users/Kelheor/)

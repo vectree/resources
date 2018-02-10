@@ -43,6 +43,8 @@ public interface AbstractSort {
 * Шаг #4: Работа с профилировщиком;
 * Шаг #5: Стресс-тестирование.
 
+> **Warning**: Все перечисленные шаги находятся во вкладке **Issues**!
+
 [Спасибо Степанову Павлу за задания](http://stepanoff.info/)
 
 [White / Black / Grey Box-тестирование](http://qalight.com.ua/baza-znaniy/white-black-grey-box-testirovanie/)
