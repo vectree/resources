@@ -10,20 +10,20 @@
     "Видео": [
       {
         "creator": "Василий Терешков",
-        "title": "Ряды фурье",
+        "title": "Ряды Фурье",
         "url": "https://www.youtube.com/watch?v=1nGeS97cGMM",
         "isAdvised": true
       },
       {
         "creator": "Василий Терешков",
-        "title": "Быстрое преобразование фурье, вейвлет-преобразование",
+        "title": "Быстрое преобразование Фурье, вейвлет-преобразование",
         "sections": "1 и 2 часть",
         "url": "https://www.youtube.com/watch?v=1nGeS97cGMM",
         "isAdvised": true
       },
       {
         "creator": "Чип и дип",
-        "title": "Преобразование фурье",
+        "title": "Преобразование Фурье",
         "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=tU1bjw6fBLg"
       }

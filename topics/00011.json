@@ -1,0 +1,29 @@
+{
+  "topicId": 11,
+  "topicName": "SSE",
+  "questions": [
+    {
+      "question": "К какому типу архитектур по Флинну относится процессор SSE?",
+      "answers": [
+        "SISD",
+        "SIMD",
+        "MISD",
+        "MIMD"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Операции какого типа являются «неудобными» (нежелательными) для процессора SSE?",
+      "answers": [
+        "x87 floating-point операции",
+        "x86 floating-point операции",
+        "любые арифметические операции"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    }
+  ]
+}

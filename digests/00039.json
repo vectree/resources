@@ -1,0 +1,66 @@
+{
+  "topics": [
+    "SSE",
+    "MMX",
+    "SIMD",
+    "Сопроцессор"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "ChiliTomatoNoodle",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://www.youtube.com/watch?v=GwII1AJzKN4"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/274605/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/company/intel/blog/171439/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/180161/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/321744/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/company/intel/blog/245755/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/204234/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "url": "https://habrahabr.ru/post/99367/"
+      },
+      {
+        "creator": "Sgadov",
+        "title": "MMX",
+        "url": "http://old.zntu.edu.ua/base/lection/rpf/lib/sgadov-2sem/MMX.htm"
+      }
+    ]
+  }
+}
