@@ -1,0 +1,88 @@
+{
+  "topics": [
+    "Основы программирования",
+    "Новичку",
+    "Чем занимаются программисты",
+    "Мотивация",
+    "Юмор"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Яндекс",
+        "title": "Чем занимаются программисты",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=kvIFJNafsC4"
+      },
+      {
+        "creator": "Hexlet",
+        "title": "Основы программирования",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=rrRZZ_3licM&index=1&list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33",
+        "sections": "с 1 по 2 урок"
+      },
+      {
+        "creator": "CS50",
+        "title": "Основы программирования",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=SW_UCzFO7X0"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Чем занимаются программисты",
+        "url": "https://habrahabr.ru/post/155429/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Чем занимаются программисты",
+        "url": "https://habrahabr.ru/post/237133/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Чем занимаются программисты",
+        "url": "https://habrahabr.ru/company/tceh/blog/265981/"
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "ТО «420»",
+        "title": "Юмор",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=S1jSFCRIFgU"
+      },
+      {
+        "creator": "Code.org",
+        "title": "Мотивация",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=G8M4zM-lbvA&index=1&list=PLJOe7BmEsRtLXM3UnEhvEWDU3ZBe-Us9r"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Codecombat",
+        "title": "Основы программирования",
+        "isAdvised": true,
+        "url": "https://codecombat.com/"
+      },
+      {
+        "creator": "Codecademy",
+        "title": "Основы программирования",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://www.codecademy.com/"
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Hexlet",
+        "title": "Чем занимаются программисты",
+        "isAdvised": true,
+        "url": "https://ru.hexlet.io/courses/prog-life"
+      }
+    ]
+  }
+}

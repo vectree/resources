@@ -1,0 +1,99 @@
+{
+  "topics": [
+    "Английский",
+    "Грамматика",
+    "English"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "GeekBrains",
+        "title": "Английский",
+        "url": "https://www.youtube.com/watch?time_continue=3&v=8jzzmhrnl1s"
+      },
+      {
+        "creator": "Вогнистая Е.В.",
+        "title": "Английский",
+        "url": "https://www.youtube.com/user/elenavogni",
+        "isAdvised": true
+      },
+      {
+        "creator": "ENGLISH GALAXY",
+        "title": "Грамматика",
+        "url": "https://www.youtube.com/watch?v=1nHDPfECzXs&list=PL3KDFIV9zTkzKyHAKHhZSIWfRZwY6UBNX",
+        "isAdvised": true
+      },
+      {
+        "creator": "JamesESL English Lessons",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvanced": true,
+        "url": "https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw"
+      },
+      {
+        "creator": "Let's Talk",
+        "title": "Все необходимые темы",
+        "isAdvanced": true,
+        "isEnglish": true,
+        "url": "https://www.youtube.com/user/learnexmumbai"
+      },
+      {
+        "creator": "Полиглот",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/user/centerpetrov"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Learn American English Online",
+        "title": "Все необходимые темы",
+        "url": "https://learnamericanenglishonline.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "English Easy",
+        "title": "Все необходимые темы",
+        "url": "http://www.english-easy.info/#axzz2bKMKXjnA",
+        "isAdvised": true
+      },
+      {
+        "creator": "Engblog",
+        "title": "Все необходимые темы",
+        "url": "http://engblog.ru/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Cambridge",
+        "title": "Все необходимые темы",
+        "url": "https://dictionary.cambridge.org/dictionary/english/",
+        "isAdvanced": true,
+        "isEnglish": true
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Lingualeo",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "http://lingualeo.com/ru/training"
+      },
+      {
+        "creator": "Duolingo",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.duolingo.com/"
+      }
+    ],
+    "Подкасты": [
+      {
+        "creator": "Luke’s ENGLISH Podcast",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvanced": true,
+        "url": "https://teacherluke.co.uk/"
+      }
+    ]
+  }
+}
