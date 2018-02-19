@@ -1,0 +1,11 @@
+{
+  "creator": 1,
+  "subscribers": [1],
+  "title": "JavaScript Developer",
+  "header": "В разработке",
+  "img": "/img/javascript.png",
+  "complexity": 3,
+  "mentors": true,
+  "text": "Изучите один из самых популярных и используемых язык программирования, с помощью которого можно писать игры, сайты, сервера, desktop-приложения. Да, все это JavaScript! В специлизации представленны основные инструменты необходимые для FullStack-разработчика.",
+  "timelineId": 18
+}

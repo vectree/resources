@@ -1,0 +1,134 @@
+{
+  "topicId": 14,
+  "topicName": "CSS",
+  "questions": [
+    {
+      "question": "Что означает CSS?",
+      "answers": [
+        "Каскадная таблица стилей",
+        "Кросплатформенная таблица стилей",
+        "Markup таблица стилей"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какой HTML используется для подключания внешнего CSS?",
+      "answers": [
+        "<stype src=\"style.ccs\"/>",
+        "<stylesheet>style.ccs</stylesheet>",
+        "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Где должна указываться ссылка на CSS?",
+      "answers": [
+        "В секции head",
+        "В секции body",
+        "В начале документа"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Где должна указываться ссылка на CSS?",
+      "answers": [
+        "В секции head",
+        "В секции body",
+        "В начале документа"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Укажите корректный CSS-синтаксис?",
+      "answers": [
+        "div:color=white",
+        "{div:color:white;}",
+        "{div -> color : white}",
+        "div {color: white;}"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Как выглядят комментарии в CSS?",
+      "answers": [
+        "// Комментарий",
+        "/* Комментарий */",
+        "# Комментарий",
+        "/ Комментарий"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как добавить цвет все h1 элементам?",
+      "answers": [
+        "h1 {background-color:#FFFFFF;}",
+        "h1.all {background-color:#FFFFFF;}",
+        "h {background-color:#FFFFFF;}",
+        "all h1 {background-color:#FFFFFF;}"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "С помощью какого параметра можно изменить размер текста?",
+      "answers": [
+        "font-size",
+        "text-size",
+        "tsize",
+        "font-height"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Как убрать подчеркивание у ссылок?",
+      "answers": [
+        "a {font-decoration: none}",
+        "a {text-decoration: false}",
+        "a {text-decoration: 0}",
+        "a {text-decoration: none}"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Как убрать подчеркивание у ссылок?",
+      "answers": [
+        "a {font-decoration: none}",
+        "a {text-decoration: false}",
+        "a {text-decoration: 0}",
+        "a {text-decoration: none}"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Какой параметр изменяет левый краф элемента?",
+      "answers": [
+        "left-margin",
+        "margin-left",
+        "left",
+        "padding-left"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    }
+  ]
+}

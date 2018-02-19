@@ -63,7 +63,9 @@ Vectree — платформа для начинающих разработчи�
 - CUDA:
   * [Разработка на CUDA](https://vectree.ru/task/17)
   * [Преобразование Фурье](https://vectree.ru/task/18)
-
+- HTML / CSS / Bootstrap:
+  * [Резюме](https://vectree.ru/task/19)
+  
 #### Список доступных командных заданий
 - Java:
   * [Биллинговая система](https://vectree.ru/practice/0)
@@ -129,6 +131,8 @@ Vectree — платформа для начинающих разработчи�
 - [Git](https://vectree.ru/timeline/7)
 - [FreeRTOS](https://vectree.ru/timeline/15)
 - [CUDA](https://vectree.ru/timeline/9)
+- [Начинающим](https://vectree.ru/timeline/17)
+- [JavaScript](https://vectree.ru/timeline/18)
 
 #### Список отдельных дайджестов
 - [Java Code Style](https://vectree.ru/digest/18)
@@ -140,6 +144,8 @@ Vectree — платформа для начинающих разработчи�
 - [Gorilla Web Toolkit](https://vectree.ru/digest/29)
 - [Rabbit MQ](https://vectree.ru/digest/34)
 - [Микросервисы](https://vectree.ru/digest/35)
+- [Английский](https://vectree.ru/digest/41)
+- [Введение в программирование](https://vectree.ru/digest/41)
 
 [LICENSE]: ./LICENSE.md
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg

@@ -10,7 +10,7 @@
         "creator": "Юрий Ткач",
         "title": "Maven",
         "url": "https://www.youtube.com/watch?v=ouUuT2uEuiU",
-        "section": "Maven c 39 минуты",
+        "sections": "Maven c 39 минуты",
         "isAdvised": true
       },
       {
@@ -21,13 +21,13 @@
       {
         "creator": "LessonFirst",
         "title": "Java maven: Введение, урок 1",
-        "section": "Обязателен к просмотру урок 2",
+        "sections": "Обязателен к просмотру урок 2",
         "url": "https://www.youtube.com/watch?v=xpP43y__8uU"
       },
       {
         "creator": "Иван Головач",
         "title": "Maven",
-        "section": "Курс разбит на несколько частей",
+        "sections": "Курс разбит на несколько частей",
         "url": "https://www.youtube.com/watch?v=QLtk1jD6V4Y&list=PLoij6udfBnchZ36TWDdiQsPArx-ON-1GM"
       }
     ],

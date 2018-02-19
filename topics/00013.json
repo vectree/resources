@@ -1,0 +1,123 @@
+{
+  "topicId": 13,
+  "topicName": "HTML",
+  "questions": [
+    {
+      "question": "Что означает HTML?",
+      "answers": [
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Кто разрабатывает Web-стандарты?",
+      "answers": [
+        "Google",
+        "Mozilla",
+        "Microsoft",
+        "The World Wide Web Consortium"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Какой тег у самого крупного заголовка?",
+      "answers": [
+        "<h6>",
+        "<head>",
+        "<h1>",
+        "<heading>"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Какой тег у конца строки?",
+      "answers": [
+        "<br>",
+        "<lb>",
+        "<break>"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Как именить цвет элемента?",
+      "answers": [
+        "<body bg=\"yellow\">",
+        "<body style=\"background-color:yellow;\">",
+        "<background>yellow</background>"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "С помощью какого тега можно сделать текст жирным?",
+      "answers": [
+        "<important>",
+        "<i>",
+        "<b>",
+        "<strong>"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "С помощью какого HTML-кода можно вставить картинку?",
+      "answers": [
+        "<image src=\"image.jpg\" alt=\"My img\"/>",
+        "<img href=\"image.jpg\" alt=\"My img\"/>",
+        "<img src=\"image.jpg\" alt=\"My img\"/>",
+        "<img url=\"image.jpg\">"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Какой элемент добавляет поле ввода?",
+      "answers": [
+        "<input>",
+        "<text>",
+        "<in>",
+        "<textarea>"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какие теги относятся к таблицам?",
+      "answers": [
+        "<table>, <ul>, <li>",
+        "<table>, <tbody>, <thead>",
+        "<table, <tr>, <br>",
+        "<table>, <tr>, <td>"
+      ],
+      "correctAnswers": [
+        1, 3
+      ]
+    },
+    {
+      "question": "С помощью какого тега можно вывести список?",
+      "answers": [
+        "<ul>",
+        "<list>",
+        "<l>",
+        "<table>"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    }
+  ]
+}

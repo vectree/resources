@@ -1,0 +1,77 @@
+{
+  "topicId": 15,
+  "topicName": "Bootstrap",
+  "questions": [
+    {
+      "question": "Какой класс предоставляет контейрен, занимаюший широту всего viewport?",
+      "answers": [
+        "container-fluid",
+        "container-fixed",
+        "container-full-width"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какое количество колонок в Grid-системе Bootstrap?",
+      "answers": [
+        "14",
+        "6",
+        "12",
+        "9"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Какой класс делает картинку окуглой?",
+      "answers": [
+        "img-circle",
+        "img-round",
+        "img-circled",
+        "img-shape"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "С помощью какого класса можно создать группу кнопок?",
+      "answers": [
+        "g-button",
+        "button-group",
+        "btn-group",
+        "btn-grp"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Какой класс позволяет добавить иконку?",
+      "answers": [
+        "glyphicon",
+        "glyphicons",
+        "icon",
+        "i"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какой класс используется, чтобы создать компонент для привлечения внимания у пользователя?",
+      "answers": [
+        "attention",
+        "jumbotron",
+        "container",
+        "extra"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    }
+  ]
+}

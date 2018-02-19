@@ -1,0 +1,93 @@
+{
+  "topics": [
+    "html",
+    "верстка",
+    "web-разработка"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Loftblog",
+        "title": "HTML",
+        "url": "https://www.youtube.com/watch?v=8mK5aY5YOCc&list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc"
+      },
+      {
+        "creator": "Magisters",
+        "title": "HTML",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=gGYV7Gb7LTo&list=PLypd1VrGv7FN_QkwB5UIcVcP61yaj1HKc"
+      },
+      {
+        "creator": "Гоша Дударь",
+        "title": "HTML",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=Sda2kF9y9Gw&list=PL0lO_mIqDDFUpe6yMyXAlcrfT6AO0KW1a"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Элизабет Фримен, Эрик Фримен",
+        "title": "Изучаем HTML, XHTML и CSS",
+        "isAdvised": true,
+        "url": "https://www.ozon.ru/context/detail/id/22205119/"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "HtmlBook",
+        "title": "Все необходимые темы",
+        "url": "http://htmlbook.ru/samhtml",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Web-разработка",
+        "isAdvised": true,
+        "url": "https://habrahabr.ru/post/273795/"
+      }
+    ],
+    "Онлайн курсы": [
+      {
+        "creator": "Netology",
+        "title": "Все необходимые темы",
+        "url": "https://netology.ru/programs/html-css-base#/presentation"
+      },
+      {
+        "creator": "Stepik",
+        "title": "Все необходимые темы",
+        "url": "https://stepik.org/course/154/",
+        "sections": "Раздел 1.4"
+      },
+      {
+        "creator": "Hexlet",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://ru.hexlet.io/courses/html",
+        "sections": "с 1 по 4 урок"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Html Academy",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isNotFree": true,
+        "url": "https://htmlacademy.ru/"
+      },
+      {
+        "creator": "Codecademy",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.codecademy.com/en/tracks/web"
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "HtmlBook",
+        "title": "Справочник HTML",
+        "isAdvised": true,
+        "url": "http://htmlbook.ru/"
+      }
+    ]
+  }
+}

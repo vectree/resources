@@ -1,0 +1,94 @@
+
+{
+  "topics": [
+    "css",
+    "верстка"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Sorax",
+        "title": "CSS",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=IsZDtOYUWvk&list=PL026CCEB5125879C2"
+      },
+      {
+        "creator": "Гоша Дударь",
+        "title": "CSS",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=Fw679JPOo0w&list=PL0lO_mIqDDFXoN83I4uVez8rIB25O4rk0"
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Элизабет Фримен, Эрик Фримен",
+        "title": "Изучаем HTML, XHTML и CSS",
+        "isAdvised": true,
+        "url": "https://www.ozon.ru/context/detail/id/22205119/"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "HtmlBook",
+        "title": "Все необходимые темы",
+        "url": "http://htmlbook.ru/samcss",
+        "isAdvised": true
+      }
+    ],
+    "Онлайн курсы": [
+      {
+        "creator": "Netology",
+        "title": "Все необходимые темы",
+        "url": "https://netology.ru/programs/html-css-base#/presentation"
+      },
+      {
+        "creator": "Stepik",
+        "title": "Все необходимые темы",
+        "url": "https://stepik.org/course/154/",
+        "sections": "Раздел 1.5"
+      },
+      {
+        "creator": "Hexlet",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://ru.hexlet.io/courses/html",
+        "sections": "с 5 по 9 урок"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Html Academy",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isNotFree": true,
+        "url": "https://htmlacademy.ru/"
+      },
+      {
+        "creator": "Codecademy",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.codecademy.com/en/tracks/web"
+      },
+      {
+        "creator": "CSS Diner",
+        "url": "https://flukeout.github.io/",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Flexboxdefense",
+        "title": "Все необходимые темы",
+        "url": "http://www.flexboxdefense.com/"
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "HtmlBook",
+        "title": "Справочник HTML /CSS",
+        "isAdvised": true,
+        "url": "http://htmlbook.ru/"
+      }
+    ]
+  }
+}
