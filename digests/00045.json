@@ -1,0 +1,118 @@
+{
+  "topics": [
+    "javascript",
+    "массивы",
+    "функции",
+    "циклы",
+    "ООП",
+    "ajax",
+    "JSON"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Hexlet",
+        "url": "https://www.youtube.com/watch?v=rrRZZ_3licM&list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33",
+        "isAdvised": true,
+        "title": "Все необходимые темы"
+      },
+      {
+        "creator": "Sorax",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem"
+      },
+      {
+        "creator": "Гоша Дударь",
+        "url": "https://www.youtube.com/watch?v=JgIG6d3JsZs&list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b",
+        "isAdvised": true,
+        "title": "Все необходимые темы"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "w3schools",
+        "title": "Все необходимые темы",
+        "url": "https://www.w3schools.com/js/default.asp",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Marijn Haverbeke",
+        "title": "Выразительный Javascript",
+        "isAdvised": true,
+        "url": "https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru/details"
+      },
+      {
+        "creator": "Дэвид Флэнаган",
+        "title": "JavaScript. Подробное руководство",
+        "url": "https://www.ozon.ru/context/detail/id/19677670/"
+      },
+      {
+        "creator": "Стоян Стефанов",
+        "title": "JavaScript. Шаблоны",
+        "url": "https://www.ozon.ru/context/detail/id/6287517/"
+      },
+      {
+        "creator": "Илья Кантор",
+        "title": "Современный учебник Javascript",
+        "isAdvised": true,
+        "url": "https://learn.javascript.ru/"
+      }
+    ],
+    "Онлайн курсы": [
+      {
+        "creator": "Hexlet",
+        "title": "Все необходимые темы",
+        "url": "https://ru.hexlet.io/courses/javascript_101",
+        "isAdvised": true
+      },
+      {
+        "creator": "Stepic",
+        "url": "https://stepik.org/course/2223",
+        "title": "Все необходимые темы",
+        "isAdvised": true
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/challenges/comment-your-javascript-code",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Codecademy",
+        "url": "https://www.codecademy.com/learn/introduction-to-javascript",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "CodeSchool",
+        "title": "Все необходимые темы",
+        "url": "https://www.codeschool.com/learn/javascript",
+        "section": "Секция JavaScript Language",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "CodeCombat",
+        "title": "Все необходимые темы",
+        "url": "https://codecombat.com/",
+        "isAdvised": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "Mozilla",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://developer.mozilla.org/bm/docs/Web/JavaScript"
+      }
+    ]
+  }
+}

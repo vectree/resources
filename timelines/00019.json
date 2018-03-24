@@ -23,6 +23,17 @@
   },
   {
     "content": {
+      "label": "Верстка",
+      "title": "Как работают брааузеры?",
+      "text": "В данной книге представленны принципы работы современных веб-бразуеров. Советуем к прочтению!",
+      "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
+    },
+    "img": {
+      "icon": "fa fa-window-maximize"
+    }
+  },
+  {
+    "content": {
       "digestId": 44,
       "label": "Bootstrap",
       "title": "Популярный адаптивный фреймворк",

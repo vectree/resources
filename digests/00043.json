@@ -2,6 +2,7 @@
 {
   "topics": [
     "css",
+    "css 3",
     "верстка"
   ],
   "resources": {
@@ -33,6 +34,13 @@
         "title": "Все необходимые темы",
         "url": "http://htmlbook.ru/samcss",
         "isAdvised": true
+      },
+      {
+        "creator": "w3schools",
+        "title": "Все необходимые темы",
+        "url": "https://www.w3schools.com/css/default.asp",
+        "isAdvised": true,
+        "isEnglish": true
       }
     ],
     "Онлайн курсы": [
@@ -57,6 +65,12 @@
     ],
     "Интерактивные сервисы": [
       {
+        "creator": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/challenges/use-css-selectors-to-style-elements",
+        "title": "Все необходимые темы",
+        "isEnglish": true
+      },
+      {
         "creator": "Html Academy",
         "title": "Все необходимые темы",
         "isAdvised": true,
@@ -64,9 +78,18 @@
         "url": "https://htmlacademy.ru/"
       },
       {
+        "creator": "CodeSchool",
+        "title": "Все необходимые темы",
+        "sections": "Все CSS-секции",
+        "url": "https://www.codeschool.com/learn/html-css",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
         "creator": "Codecademy",
         "title": "Все необходимые темы",
         "isAdvised": true,
+        "isEnglish": true,
         "url": "https://www.codecademy.com/en/tracks/web"
       },
       {
@@ -79,7 +102,8 @@
       {
         "creator": "Flexboxdefense",
         "title": "Все необходимые темы",
-        "url": "http://www.flexboxdefense.com/"
+        "url": "http://www.flexboxdefense.com/",
+        "isEnglish": true
       }
     ],
     "Полезные ссылки": [

@@ -1,0 +1,46 @@
+
+{
+  "topics": [
+    "javascript",
+    "code style"
+  ],
+  "resources": {
+    "Книги": [
+      {
+        "creator": "Роберт Мартин",
+        "title": "Чистый код. Создание, анализ и рефакторинг",
+        "url": "https://www.ozon.ru/context/detail/id/5011068/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Стив Макконнелл",
+        "title": "Совершенный код",
+        "url": "https://www.ozon.ru/context/detail/id/138437220/",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Airbnb",
+        "title": "Airbnb JavaScript Style Guide",
+        "url": "https://github.com/airbnb/javascript",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "w3schools",
+        "title": "JavaScript Style Guide and Coding Conventions",
+        "url": "https://www.w3schools.com/js/js_conventions.asp",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Google",
+        "title": "Google JavaScript Style Guide",
+        "url": "https://google.github.io/styleguide/javascriptguide.xml",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}

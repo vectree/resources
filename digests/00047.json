@@ -1,0 +1,51 @@
+{
+  "topics": [
+    "анализаторы кода",
+    "качество javascript-кода",
+    "чистый код",
+    "jslint"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "title": "Повышение качества javascript кода. JSLint",
+        "url": "https://habrahabr.ru/post/74419/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Codacy",
+        "title": "Getting started with Codacy",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "SonarQube. Проверяем код на качество",
+        "url": "https://habrahabr.ru/post/259149/"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Контролируем качество кода с помощью платформы SonarQube",
+        "url": "https://habrahabr.ru/company/pvs-studio/blog/315422/"
+      }
+    ],
+    "Инструменты": [
+      {
+        "creator": "JSLint",
+        "title": "The JavaScript Code Quality Tool",
+        "url": "https://www.jslint.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Codacy",
+        "title": "Бесплатный для open source",
+        "url": "https://www.codacy.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}

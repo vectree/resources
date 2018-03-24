@@ -1,6 +1,7 @@
 {
   "topics": [
     "html",
+    "html 5",
     "верстка",
     "web-разработка"
   ],
@@ -44,6 +45,20 @@
         "title": "Web-разработка",
         "isAdvised": true,
         "url": "https://habrahabr.ru/post/273795/"
+      },
+      {
+        "creator": "w3schools",
+        "title": "Все необходимые темы",
+        "url": "https://www.w3schools.com/html/default.asp",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Css-tricks",
+        "title": "Flexbox",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "isAdvised": true,
+        "isEnglish": true
       }
     ],
     "Онлайн курсы": [
@@ -68,6 +83,13 @@
     ],
     "Интерактивные сервисы": [
       {
+        "creator": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
         "creator": "Html Academy",
         "title": "Все необходимые темы",
         "isAdvised": true,
@@ -75,9 +97,18 @@
         "url": "https://htmlacademy.ru/"
       },
       {
+        "creator": "CodeSchool",
+        "title": "Все необходимые темы",
+        "sections": "Все HTML-секции",
+        "url": "https://www.codeschool.com/learn/html-css",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
         "creator": "Codecademy",
         "title": "Все необходимые темы",
         "isAdvised": true,
+        "isEnglish": true,
         "url": "https://www.codecademy.com/en/tracks/web"
       }
     ],

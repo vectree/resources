@@ -55,11 +55,6 @@
     ],
     "Статьи": [
       {
-        "creator": "Devcolibri",
-        "title": "Введение",
-        "url": "http://devcolibri.com/1353"
-      },
-      {
         "creator": "Git-scm",
         "title": "Все необходимые темы",
         "sections": "раздел 1 по 2",

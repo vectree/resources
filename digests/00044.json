@@ -38,6 +38,13 @@
         "title": "Все необходимые темы",
         "url": "https://habrahabr.ru/post/211032/",
         "isAdvised": true
+      },
+      {
+        "creator": "w3schools",
+        "title": "Все необходимые темы",
+        "url": "https://www.w3schools.com/bootstrap/default.asp",
+        "isAdvised": true,
+        "isEnglish": true
       }
     ],
     "Онлайн курсы": [
@@ -46,6 +53,36 @@
         "title": "Все необходимые темы",
         "url": "https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html",
         "isEnglish": true
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containersz",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Html Academy",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isNotFree": true,
+        "url": "https://htmlacademy.ru/"
+      },
+      {
+        "creator": "CodeSchool",
+        "title": "Все необходимые темы",
+        "url": "https://www.codeschool.com/courses/blasting-off-with-bootstrap",
+        "isNotFree": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Codecademy",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://www.codecademy.com/en/tracks/web"
       }
     ],
     "Документация": [

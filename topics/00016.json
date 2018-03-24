@@ -1,0 +1,190 @@
+{
+  "topicId": 16,
+  "topicName": "JavaScript",
+  "questions": [
+    {
+      "question": "С помощью какого тега можно интегрировать файл JavaScript в HTML?",
+      "answers": [
+        "<script>",
+        "<javascript>",
+        "<jscript>",
+        "<scripter>"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Куда необходимо вставлять JS-скрипт?",
+      "answers": [
+        "<head>",
+        "<body>",
+        "<head> или <body>"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как подключить внешний скрипт?",
+      "answers": [
+        "<script name=\"ссылка\">",
+        "<script href=\"ссылка\">",
+        "<script src=\"ссылка\">"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как вывести \"Hello World\"?",
+      "answers": [
+        "box(\"Hello world\")",
+        "log(\"Hello world\")",
+        "alert(\"Hello world\")"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как создать функцию в JavaScript?",
+      "answers": [
+        "function:f()",
+        "function = f()",
+        "function f()",
+        "func f()"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как вызывать функцию f в JavaScript?",
+      "answers": [
+        "run f()",
+        "f()",
+        "call f()",
+        "f => ()"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как выглядит оператор IF в JavaScript?",
+      "answers": [
+        "if (i === 5) then",
+        "if i = 5 then",
+        "if (i == 5):",
+        "if (i == 5)"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Как выглядит оператор \"не равно\" в JavaScript?",
+      "answers": [
+        "<>",
+        "=!",
+        "-!",
+        "!="
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "question": "Как запустить цикл while в JavaScript?",
+      "answers": [
+        "while(i <= 10)",
+        "while(let i = 0; i <= 10; i++)",
+        "while i to 10"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Как запустить цикл for в JavaScript?",
+      "answers": [
+        "for(i = 0; i <= 30)",
+        "for(i from 0 to 30)",
+        "for(i = 0; i <= 30; i++)"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Как определить константу в JavaScript?",
+      "answers": [
+        "const i = 10;",
+        "final i = 10;",
+        "static i = 10;"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Как добавить комментарии в JavaScript?",
+      "answers": [
+        "// комментарий",
+        "/* комментарий */",
+        "<-- комментарий -->"
+      ],
+      "correctAnswers": [
+        0, 1
+      ]
+    },
+    {
+      "question": "Как определить массив в JavaScript?",
+      "answers": [
+        "const array = { 0: \"first\", 0: \"second\" }",
+        "const array = [ \"first\", \"second\" ]",
+        "const array = [ \"first\" \"second\" ]"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как округлить число до ближайшего целого в JavaScript?",
+      "answers": [
+        "Math.nearest(4.2)",
+        "Math.integer(4.2)",
+        "Math.round(4.2)",
+        "Integer.round(4.2)"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Какое событие происходит, когда пользователь нажимает на кнопку?",
+      "answers": [
+        "onmouseclick",
+        "click",
+        "onckick",
+        "clickon"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Как объявить локальную переменную в JavaScript?",
+      "answers": [
+        "let name;",
+        "var name;",
+        "set name;",
+        "int name;"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    }
+  ]
+}

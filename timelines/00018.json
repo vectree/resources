@@ -20,5 +20,17 @@
     "img": {
       "icon": "fa fa-window-maximize"
     }
+  },
+  {
+    "content": {
+      "timelineId": 20,
+      "label": "Язык программирования JavaScript",
+      "title": "JavaScript",
+      "text": "Хотите сделать что-то большее чем статическая страница на CSS и HTML? Тогда вам сюда. JavaScript поможет вам создать более сложные сценарии."
+    },
+    "img": {
+      "src": "/img/javascript.png"
+    }
   }
+
 ]
