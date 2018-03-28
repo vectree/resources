@@ -1,0 +1,98 @@
+{
+  "topicId": 17,
+  "topicName": "MongoDB",
+  "questions": [
+    {
+      "question": "Поддерживает ли MongoDB query join между коллекциями?",
+      "answers": [
+        "Да",
+        "Нет"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "В MongoDB данные представлены в XML-формате?",
+      "answers": [
+        "Да",
+        "Нет"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "На каком языке программирования написан MongoDB?",
+      "answers": [
+        "C#",
+        "C",
+        "C++",
+        "Java"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Какая из перечисленных команд может быть использована для вывода всех созданных баз данных в MongoDB?",
+      "answers": [
+        "show dbs",
+        "show databases",
+        "show dbs -all",
+        "ls databases"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Как выбрать все записи в коллекции users?",
+      "answers": [
+        "db.users.find()",
+        "users.db.find()",
+        "db.users.all()",
+        "db.users.search()"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Как выбрать все записи в коллекции users?",
+      "answers": [
+        "db.users.find()",
+        "users.db.find()",
+        "db.users.all()",
+        "db.users.search()"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Какой оператор используется изменения значения поля?",
+      "answers": [
+        "$push",
+        "$insert",
+        "$set",
+        "$update"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "С помощью какого метода можно вывести количество документов в коллекции?",
+      "answers": [
+        "size()",
+        "length()",
+        "count()",
+        "num()"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    }
+  ]
+}

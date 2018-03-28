@@ -24,13 +24,23 @@
   {
     "content": {
       "timelineId": 20,
-      "label": "Язык программирования JavaScript",
-      "title": "JavaScript",
+      "label": "JavaScript",
+      "title": "Язык программирования JavaScript",
       "text": "Хотите сделать что-то большее чем статическая страница на CSS и HTML? Тогда вам сюда. JavaScript поможет вам создать более сложные сценарии."
     },
     "img": {
       "src": "/img/javascript.png"
     }
+  },
+  {
+    "content": {
+      "timelineId": 21,
+      "title": "NoSQL база данных - MongoDB",
+      "label": "MongoDB",
+      "text": "По сути самая используемая база данных с NodeJS и самая известная нереляционная база данных. Попробуем ее изучить!"
+    },
+    "img": {
+      "src": "/img/mongodb.png"
+    }
   }
-
 ]

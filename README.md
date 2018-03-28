@@ -65,7 +65,10 @@ Vectree — платформа для начинающих разработчи�
   * [Преобразование Фурье](https://vectree.ru/task/18)
 - HTML / CSS / Bootstrap:
   * [Резюме](https://vectree.ru/task/19)
-  
+- JavaScript:
+  * [Создаем несколько игр и не только!](https://vectree.ru/task/19)
+  * [Пинг-понг](https://vectree.ru/task/20)
+    
 #### Список доступных командных заданий
 - Java:
   * [Биллинговая система](https://vectree.ru/practice/0)
@@ -99,6 +102,9 @@ Vectree — платформа для начинающих разработчи�
 - [FreeRTOS](https://vectree.ru/quiz/12)
 - [CUDA](https://vectree.ru/quiz/14)
 - [SSE](https://vectree.ru/quiz/13)
+- [HTML / CSS / Bootstrap](https://vectree.ru/quiz/15)
+- [JavaScript](https://vectree.ru/quiz/16)
+- [MongoDB](https://vectree.ru/quiz/17)
 
 ## Карты
 
@@ -132,7 +138,9 @@ Vectree — платформа для начинающих разработчи�
 - [FreeRTOS](https://vectree.ru/timeline/15)
 - [CUDA](https://vectree.ru/timeline/9)
 - [Начинающим](https://vectree.ru/timeline/17)
-- [JavaScript](https://vectree.ru/timeline/18)
+- [HTML / CSS / Bootstrap](https://vectree.ru/timeline/19)
+- [JavaScript](https://vectree.ru/timeline/20)
+- [MongoDB](https://vectree.ru/timeline/21)
 
 #### Список отдельных дайджестов
 - [Java Code Style](https://vectree.ru/digest/18)

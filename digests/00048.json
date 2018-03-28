@@ -1,0 +1,94 @@
+{
+  "topics": [
+    "mongodb",
+    "база данных",
+    "NoSQL"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "TheNewBoston",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=1uFY60CESlM",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "Технострим Mail.Ru Group",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=_I9vLOAsFew",
+        "isAdvised": true
+      },
+      {
+        "creator": "Alex cultofdigits",
+        "url": "https://www.youtube.com/watch?v=tgckAOyjXPI&index=1&list=PL7LoNbz_NG3lzXhCC6a1oLU4fV9RynsCH",
+        "title": "Все необходимые темы",
+        "isAdvised": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Карл Сегуин",
+        "title": "Маленькая книга о MongoDB",
+        "url": "http://www.bazhukov.net/little-mongodb-book/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Кайл Бэнкер",
+        "title": "MongoDB в действии",
+        "url": "https://www.ozon.ru/context/detail/id/8688130/",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Tutorialspoint",
+        "title": "Все необходимые темы",
+        "url": "https://www.tutorialspoint.com/mongodb/index.htm",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "url": "https://www.w3schools.com/nodejs/nodejs_mongodb.asp",
+        "creator": "w3schools",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "10gen",
+        "title": "Оффициальная документация",
+        "url": "https://docs.mongodb.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "10gen",
+        "title": "Университет MongoDB",
+        "url": "https://university.mongodb.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Coursera",
+        "url": "https://www.coursera.org/learn/introduction-mongodb",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "url": "https://www.codeschool.com/courses/the-magical-marvels-of-mongodb",
+        "creator": "CodeSchool",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}

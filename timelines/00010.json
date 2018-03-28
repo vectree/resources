@@ -12,6 +12,20 @@
   },
   {
     "content": {
+      "url": "https://codefights.com/arcade/intro/",
+      "label": "Go",
+      "title": "Задачи: Go на CodeFights",
+      "text": "Решите множество интересных задач с помощью языка программирования Go и узнайте как решают их более опытные специалисты."
+    },
+    "img": {
+      "icon": "fa fa-bars",
+      "style": {
+        "color": "#eb4e4e"
+      }
+    }
+  },
+  {
+    "content": {
       "taskId": 1,
       "label": "Go",
       "title": "Практика: Go Grabber",
@@ -21,6 +35,20 @@
       "icon": "fa fa-github",
       "style": {
         "color": "#333"
+      }
+    }
+  },
+  {
+    "content": {
+      "url": "https://www.codewars.com/kata/search/go?q=&beta=false",
+      "label": "Go",
+      "title": "Задачи: Go на CodeWars",
+      "text": "Решите множество интересных ката с помощью языка программирования Go и узнайте как решают их более опытные специалисты."
+    },
+    "img": {
+      "icon": "fa fa-bars",
+      "style": {
+        "color": "#eb4e4e"
       }
     }
   },
