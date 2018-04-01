@@ -24,7 +24,7 @@
   {
     "content": {
       "label": "Верстка",
-      "title": "Как работают брааузеры?",
+      "title": "Как работают браузеры?",
       "text": "В данной книге представленны принципы работы современных веб-бразуеров. Советуем к прочтению!",
       "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
     },

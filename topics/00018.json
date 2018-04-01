@@ -1,0 +1,78 @@
+{
+  "topicId": 18,
+  "topicName": "NPM",
+  "questions": [
+    {
+      "question": "Что такое NPM?",
+      "answers": [
+        "Менеджер пакетов",
+        "Пакет менеджеров",
+        "IOC-контейнер",
+        "Контейнер приложений"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Где хранятся настройки npm в проекте?",
+      "answers": [
+        "В папке node_modules",
+        "В файле package.json",
+        "В файле packages.json",
+        "В файле package.js"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как инициализировать npm в проекте?",
+      "answers": [
+        "npm initialize",
+        "npm install",
+        "npm create",
+        "npm init"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "Как установить библиотеку bower?",
+      "answers": [
+        "npm install bower --save",
+        "npm create bower --save",
+        "npm add bower",
+        "npm setup bower"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "question": "Где хранятся настройки npm в проекте?",
+      "answers": [
+        "В папке node_modules",
+        "В файле package.json",
+        "В файле packages.json",
+        "В файле package.js"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "Как загрузить пакеты, указанные в package.json?",
+      "answers": [
+        "npm init",
+        "npm install",
+        "npm package.json",
+        "npm package"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    }
+  ]
+}

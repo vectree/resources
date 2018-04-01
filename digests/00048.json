@@ -87,7 +87,8 @@
         "creator": "CodeSchool",
         "title": "Все необходимые темы",
         "isEnglish": true,
-        "isAdvised": true
+        "isAdvised": true,
+        "isNotFree": true
       }
     ]
   }

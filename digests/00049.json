@@ -1,0 +1,81 @@
+{
+  "topics": [
+    "npm",
+    "пакетный менеджер",
+    "javascript"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Дмитрий Лаврик",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=2e0hbjtUT-4",
+        "isAdvised": true
+      },
+      {
+        "creator": "Илья Кантор",
+        "title": "Все необходимые темы",
+        "url": "https://www.youtube.com/watch?v=fhwtUW9dXrA",
+        "isAdvised": true
+      },
+      {
+        "creator": "Loftblog",
+        "url": "https://www.youtube.com/watch?v=G4HmqOR0b8Q",
+        "title": "Все необходимые темы"
+      },
+      {
+        "creator": "GetInstance",
+        "url": "https://www.youtube.com/watch?v=OZ0D3irUT20",
+        "title": "Все необходимые темы"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Андрей Мелихов",
+        "title": "Все необходимые темы",
+        "url": "https://medium.com/devschacht/node-hero-chapter-2-f04fec8182f0",
+        "isAdvised": true
+      },
+      {
+        "url": "https://ru.hexlet.io/courses/js-setup-environment/lessons/npm/theory_unit",
+        "creator": "Hexlet",
+        "title": "Все необходимые темы",
+        "isAdvised": true
+      },
+      {
+        "url": "https://habrahabr.ru/post/243335/",
+        "creator": "Habrahabr",
+        "title": "Все необходимые темы",
+        "isAdvised": true
+      },
+      {
+        "url": "https://www.w3schools.com/nodejs/nodejs_npm.asp",
+        "creator": "w3schools",
+        "title": "Все необходимые темы",
+        "isEnglish": true
+      },
+      {
+        "url": "https://www.tutorialspoint.com/nodejs/nodejs_npm.htm",
+        "creator": "Tutorialspoint",
+        "title": "Все необходимые темы",
+        "isEnglish": true
+      }
+    ],
+    "Документация": [
+      {
+        "creator": "NPM",
+        "title": "Оффициальная документация",
+        "url": "https://docs.npmjs.com/",
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "NPM",
+        "url": "https://docs.npmjs.com/getting-started/what-is-npm",
+        "title": "Оффициальная документация",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}
