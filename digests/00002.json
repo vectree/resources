@@ -57,8 +57,8 @@
       },
       {
         "creator": "JavaRush",
-        "sections": "Раздел: Java Core и Java Syntax",
-        "title": "ООП, исключения, ввод-вывод, строки",
+        "sections": "Раздел: Java Core и Java Collections",
+        "title": "Collections, generics, сериализация",
         "url": "https://javarush.ru/quests/",
         "isNotFree": true
       }
