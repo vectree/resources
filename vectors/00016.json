@@ -1,0 +1,18 @@
+{
+  "creator": 6,
+  "subscribers": [6],
+  "title": "Golang Developer",
+  "header": "Стажировка",
+  "period": "2 месяца",
+  "text": "Labrika.ru - все необходимые online инструменты для продвижения сайта. Самый подробный аудит сайтов, seo анализ, технический аудит, подбор и кластеризация ключевых слов.",
+  "salary": "до 10000 руб.",
+  "location": "Санкт-Петербург",
+  "practicePeriod": 14,
+  "complexity": 4,
+  "mentors": true,
+  "timelineId": 8,
+  "quizId": 10,
+  "practiceId": 1,
+  "interview": true,
+  "practiceSize": 3
+}

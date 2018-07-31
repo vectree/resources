@@ -1,0 +1,16 @@
+{
+  "creator": 6,
+  "subscribers": [6],
+  "title": "JavaScript Developer",
+  "header": "Стажировка",
+  "period": "2 месяца",
+  "text": "Labrika.ru - все необходимые online инструменты для продвижения сайта. Самый подробный аудит сайтов, seo анализ, технический аудит, подбор и кластеризация ключевых слов.",
+  "salary": "до 5000 руб.",
+  "location": "Санкт-Петербург",
+  "practicePeriod": 14,
+  "complexity": 2,
+  "mentors": true,
+  "timelineId": 25,
+  "interview": true,
+  "practiceSize": 3
+}

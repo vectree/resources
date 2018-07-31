@@ -1,0 +1,15 @@
+{
+  "creator": 14,
+  "subscribers": [14],
+  "title": "React Developer",
+  "header": "Стажировка",
+  "period": "2 недели",
+  "text": "Tokenstarter - первая в мире краудинвестиционная платформа основанная на токен опционах. Инфраструктурное решение для Safe Token Investments, делающее инвестиции в криптоактивы менее рискованными для инвесторов, основанное на смартконтрактах и технологии блокчейн.",
+  "salary": "до 15000 руб.",
+  "location": "Санкт-Петербург",
+  "practicePeriod": 14,
+  "complexity": 3,
+  "mentors": true,
+  "timelineId": 18,
+  "practiceSize": 3
+}
