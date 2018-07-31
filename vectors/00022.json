@@ -1,0 +1,18 @@
+{
+  "creator": 7,
+  "subscribers": [7],
+  "title": "Java Developer",
+  "typeId": 22,
+  "type": "internship",
+  "header": "Стажировка",
+  "period": "1 месяц",
+  "text": "Pre-Interview – самый эффективный метод отбора при подборе и найме персонала. HR программа подбора персонала путем видеоанкетирования соискателей, разработанная специально для руководителей и HR-специалистов.",
+  "salary": "до 10000 руб.",
+  "location": "Москва",
+  "practicePeriod": 14,
+  "complexity": 3,
+  "mentors": true,
+  "timelineId": 0,
+  "interview": true,
+  "practiceSize": 3
+}

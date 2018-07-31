@@ -1,6 +1,8 @@
 {
   "creator": 0,
   "subscribers": [0],
+  "type": "internship",
+  "typeId": 0,
   "title": "Java Developer",
   "header": "Стажировка",
   "period": "3 месяца",

@@ -1,0 +1,18 @@
+{
+  "creator": 4,
+  "subscribers": [4],
+  "title": "PHP Developer",
+  "typeId": 21,
+  "type": "internship",
+  "header": "Стажировка",
+  "period": "1 месяц",
+  "text": "KidsWay — сервис профессионального сопровождения детей в школы, детские сады и на дополнительные занятия. Безопасно и с комфортом доставим вашего ребёнка.",
+  "salary": "до 20000 руб.",
+  "location": "Москва",
+  "practicePeriod": 14,
+  "complexity": 3,
+  "mentors": true,
+  "timelineId": 23,
+  "interview": true,
+  "practiceSize": 3
+}
