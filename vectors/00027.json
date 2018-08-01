@@ -1,0 +1,18 @@
+{
+  "creator": 11,
+  "subscribers": [11],
+  "title": "JavaScript Developer",
+  "typeId": 27,
+  "type": "internship",
+  "header": "Стажировка",
+  "period": "1 месяц",
+  "text": "Мы помогаем нашим клиентам в управлении предприятиями с применением методов Enterprise Architecture Management. Речь идет об инженерном подходе в менеджменте для решения сложных задач, связанных с необходимостью постоянного развития в нестабильной среде.",
+  "salary": "до 10000 руб.",
+  "location": "Санкт-Петербург",
+  "practicePeriod": 14,
+  "complexity": 3,
+  "mentors": true,
+  "timelineId": 18,
+  "interview": true,
+  "practiceSize": 3
+}

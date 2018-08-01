@@ -1,0 +1,18 @@
+{
+  "creator": 8,
+  "subscribers": [8],
+  "title": "PHP Developer",
+  "typeId": 26,
+  "type": "internship",
+  "header": "Стажировка",
+  "period": "1 месяц",
+  "text": "Проверим кредитную историю, социальные данные, выявим и устраним причины отказов. Подберем подходящие предложения банков для вашего рейтинга. Снизим риск отказа, ставку и платеж по кредиту.",
+  "salary": "до 5000 руб.",
+  "location": "Москва",
+  "practicePeriod": 14,
+  "complexity": 3,
+  "mentors": true,
+  "timelineId": 23,
+  "interview": true,
+  "practiceSize": 3
+}
