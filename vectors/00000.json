@@ -1,6 +1,8 @@
 {
   "creator": 0,
-  "subscribers": [0],
+  "subscribers": [
+    0
+  ],
   "type": "internship",
   "typeId": 0,
   "title": "Java Developer",
@@ -16,5 +18,12 @@
   "quizId": 0,
   "practiceId": 0,
   "interview": true,
-  "practiceSize": 3
+  "practiceSize": 3,
+  "stages": [
+    0,
+    [
+      0,
+      1
+    ]
+  ]
 }
