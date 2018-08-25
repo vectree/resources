@@ -1,17 +1,26 @@
 {
   "creator": 1,
-  "subscribers": [2, 1, 0],
-  "title": "Java Developer",
-  "header": "Специализация",
-  "img": "/img/java-icon.png",
-  "salary": "от 20000 руб.",
+  "subscribers": [1, 9],
+  "title": "React Developer",
+  "header": "В разработке",
+  "img": "/img/react.png",
+  "text": "React - бибилотека для разработки пользовательских интерфейсов, созданная при поддержке Facebook, Instagram. Является одной из самых популярных библиотек в мире фронтенда. В данной специализации будет рассмотрен также Redux, Router и другие библиотеки.",
+  "salary": "до 20000 руб.",
+  "location": "Санкт-Петербург",
   "practicePeriod": 14,
-  "complexity": 4,
+  "complexity": 3,
   "mentors": true,
-  "text": "Основная задача данной специализации обучить основным навыкам, необходимым для Junior Java-Разработчика, предоставить возможность разработать проект в команде и провести реальной интервью с ментором. По окончанию этапа тестирования, вы должны разобраться с Java, Java EE, Spring, Postgres SQL, Junit, Git.",
-  "timelineId": 0,
-  "quizId": 0,
   "interview": true,
-  "practiceId": 0,
-  "practiceSize": 3
+  "practiceSize": 3,
+  "stages": [
+    0,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    11,
+    12
+  ]
 }

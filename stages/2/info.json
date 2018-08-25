@@ -1,0 +1,78 @@
+{
+  "topics": [
+    "collections",
+    "generics",
+    "многопоточность",
+    "advanced java"
+  ],
+  "title": "Язык программирования Java",
+  "category": "Java",
+  "name": "Advanced Java",
+  "quizId": 1,
+  "smallText": "На данном этапе представлен список ресурсов, которые помогут изучить более продвинутый материал.",
+  "text": "На предыдущем этапе были изучены основы языка программирования Java. В рамках данного будут изучены темы Advanced уровня, необходимые для работы над крупными проектами: коллекции, многопоточность, стримы и другие.",
+  "img": {
+    "src": "/img/java-icon.png"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "digest",
+        "label": "Java",
+        "id": 2,
+        "category": "Дайджест",
+        "title": "Advanced Java: Часть 1",
+        "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить более продвинутый материал: collections, streams, generics, сериализация."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "digest",
+        "id": 3,
+        "category": "Дайджест",
+        "label": "Java",
+        "title": "Advanced Java: Часть 2",
+        "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить более продвинутый материал: многопоточность, byte-code, аннотации, reflection, регулярные выражения, сеть."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "task",
+        "id": 5,
+        "label": "Java",
+        "category": "Практика",
+        "title": "Арбитражный бот",
+        "text": "В данной практике мы создадим арбитражного бота на криптовалютной бирже Poloniex."
+      },
+      "img": {
+        "icon": "fa fa-github",
+        "style": {
+          "color": "#efefef"
+        }
+      }
+    },
+    {
+      "content": {
+        "type": "external",
+        "id": 1,
+        "url": "https://www.codewars.com/kata/search/java?q=&beta=false",
+        "label": "Java",
+        "category": "Задача",
+        "title": "Java на CodeWars",
+        "text": "Решите множество интересных ката с помощью языка программирования Java и узнайте как решают их более опытные специалисты."
+      },
+      "img": {
+        "icon": "fa fa-bars",
+        "style": {
+          "color": "#eb4e4e"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "topics": [
+    "Kotlin"
+  ],
+  "category": "Kotlin",
+  "title": "Язык программирования Kotlin",
+  "text": "Быстроразвивающийся язык программирования от JetBrains, который является официальным инструментом разработки Android.",
+  "img": {
+    "src": "/img/kotlin.png"
+  },
+  "tasks": [
+  ]
+}

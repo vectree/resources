@@ -36,44 +36,44 @@ Vectree — платформа для начинающих разработчи�
 
 #### Список доступных заданий
 - Java:
-  * [Conway's Game of Life](https://box.vectree.ru/task/0)
-  * [Арбитражный бот](https://box.vectree.ru/task/5)
+  * [Conway's Game of Life](https://box.vectree.ru/task/0/0)
+  * [Арбитражный бот](https://box.vectree.ru/task/0/5)
 - JUnit:
-  * [Тестирование алгоритмов сортировки](https://box.vectree.ru/task/6)
-  * [Тестируем терминал продуктового магазина](https://box.vectree.ru/task/7)
+  * [Тестирование алгоритмов сортировки](https://box.vectree.ru/task/0/6)
+  * [Тестируем терминал продуктового магазина](https://box.vectree.ru/task/0/7)
 - Maven:
-  * [Youtube Trends](https://box.vectree.ru/task/8)
+  * [Youtube Trends](https://box.vectree.ru/task/0/8)
 - Spring:
-  * [Курс валют](https://box.vectree.ru/task/9)
-  * [Pomodoro](https://box.vectree.ru/task/10)
+  * [Курс валют](https://box.vectree.ru/task/0/9)
+  * [Pomodoro](https://box.vectree.ru/task/0/10)
 - Go:
-  * [Go Grabber](https://box.vectree.ru/task/1)
-  * [Go Web App](https://box.vectree.ru/task/2)
-  * [Go Skimmer](https://box.vectree.ru/task/3)
+  * [Go Grabber](https://box.vectree.ru/task/0/1)
+  * [Go Web App](https://box.vectree.ru/task/0/2)
+  * [Go Skimmer](https://box.vectree.ru/task/0/3)
 - Docker:
-  * [Кластер на AWS](https://box.vectree.ru/task/4)
+  * [Кластер на AWS](https://box.vectree.ru/task/0/4)
 - STM:
-  * [Знакомство](https://box.vectree.ru/task/11)
-  * [Работа с портами ввода / вывода](https://box.vectree.ru/task/12)
-  * [Прерывания](https://box.vectree.ru/task/13)
-  * [Таймеры](https://box.vectree.ru/task/14)
-  * [FreeRTOS на STM32](https://box.vectree.ru/task/15)
+  * [Знакомство](https://box.vectree.ru/task/0/11)
+  * [Работа с портами ввода / вывода](https://box.vectree.ru/task/0/12)
+  * [Прерывания](https://box.vectree.ru/task/0/13)
+  * [Таймеры](https://box.vectree.ru/task/0/14)
+  * [FreeRTOS на STM32](https://box.vectree.ru/task/0/15)
 - SSE:
-  * [Векторные операции с SSE](https://box.vectree.ru/task/16)
+  * [Векторные операции с SSE](https://box.vectree.ru/task/0/16)
 - CUDA:
-  * [Разработка на CUDA](https://box.vectree.ru/task/17)
-  * [Преобразование Фурье](https://box.vectree.ru/task/18)
+  * [Разработка на CUDA](https://box.vectree.ru/task/0/17)
+  * [Преобразование Фурье](https://box.vectree.ru/task/0/18)
 - HTML / CSS / Bootstrap:
-  * [Резюме](https://box.vectree.ru/task/19)
+  * [Резюме](https://box.vectree.ru/task/0/19)
 - JavaScript:
-  * [Создаем несколько игр и не только!](https://box.vectree.ru/task/19)
-  * [Пинг-понг](https://box.vectree.ru/task/20)
+  * [Создаем несколько игр и не только!](https://box.vectree.ru/task/0/19)
+  * [Пинг-понг](https://box.vectree.ru/task/0/20)
     
 #### Список доступных командных заданий
 - Java:
-  * [Биллинговая система](https://box.vectree.ru/practice/0)
+  * [Биллинговая система](https://box.vectree.ru/practice/0/0)
 - Go:
-  * [Интерфейс управления Docker-контейнерами](https://box.vectree.ru/practice/1)
+  * [Интерфейс управления Docker-контейнерами](https://box.vectree.ru/practice/0/1)
 
 ## Тесты
 #### Оформление Quiz
@@ -89,26 +89,26 @@ Vectree — платформа для начинающих разработчи�
 - **questions** - массив объектов, каждый из которых содержит вопрос, варианты ответов и номер правильных ответов
 
 #### Список доступных тестов
-- [Java](https://box.vectree.ru/quiz/1)
-- [JUnit](https://box.vectree.ru/quiz/5)
-- [Maven](https://box.vectree.ru/quiz/3)
-- [Spring](https://box.vectree.ru/quiz/6)
-- [J2EE](https://box.vectree.ru/quiz/7)
-- [Go](https://box.vectree.ru/quiz/8)
-- [Docker](https://box.vectree.ru/quiz/9)
-- [PostgresSQL](https://box.vectree.ru/quiz/2)
-- [STM](https://box.vectree.ru/quiz/11)
-- [Git](https://box.vectree.ru/quiz/4)
-- [FreeRTOS](https://box.vectree.ru/quiz/12)
-- [CUDA](https://box.vectree.ru/quiz/14)
-- [SSE](https://box.vectree.ru/quiz/13)
-- [HTML / CSS / Bootstrap](https://box.vectree.ru/quiz/15)
-- [JavaScript](https://box.vectree.ru/quiz/16)
-- [MongoDB](https://box.vectree.ru/quiz/17)
+- [Java](https://box.vectree.ru/quiz/0/1)
+- [JUnit](https://box.vectree.ru/quiz/0/5)
+- [Maven](https://box.vectree.ru/quiz/0/3)
+- [Spring](https://box.vectree.ru/quiz/0/6)
+- [J2EE](https://box.vectree.ru/quiz/0/7)
+- [Go](https://box.vectree.ru/quiz/0/8)
+- [Docker](https://box.vectree.ru/quiz/0/9)
+- [PostgresSQL](https://box.vectree.ru/quiz/0/2)
+- [STM](https://box.vectree.ru/quiz/0/11)
+- [Git](https://box.vectree.ru/quiz/0/4)
+- [FreeRTOS](https://box.vectree.ru/quiz/0/12)
+- [CUDA](https://box.vectree.ru/quiz/0/14)
+- [SSE](https://box.vectree.ru/quiz/0/13)
+- [HTML / CSS / Bootstrap](https://box.vectree.ru/quiz/0/15)
+- [JavaScript](https://box.vectree.ru/quiz/0/16)
+- [MongoDB](https://box.vectree.ru/quiz/0/17)
 
 ## Карты
 
-#### Оформление Digest / Timeline
+#### Оформление Digest
 - Блоки выравнивать
 - В title пишем темы, которые рассматриваются на карте
 - В одном блоке стараемся хранить от 2-5 ссылок
@@ -124,36 +124,18 @@ Vectree — платформа для начинающих разработчи�
 - Орфография!!! 
 - Сравнивайте свою картру с другими картами
 
-#### Список доступных карт
-- [Java](https://box.vectree.ru/timeline/1)
-- [JUnit](https://vectree.ru/timeline/5)
-- [Maven](https://vectree.ru/timeline/4)
-- [Spring](https://vectree.ru/timeline/3)
-- [J2EE](https://vectree.ru/timeline/2)
-- [Go](https://vectree.ru/timeline/10)
-- [Docker](https://vectree.ru/timeline/14)
-- [PostgresSQL](https://vectree.ru/timeline/6)
-- [STM](https://vectree.ru/timeline/13)
-- [Git](https://vectree.ru/timeline/7)
-- [FreeRTOS](https://vectree.ru/timeline/15)
-- [CUDA](https://vectree.ru/timeline/9)
-- [Начинающим](https://vectree.ru/timeline/17)
-- [HTML / CSS / Bootstrap](https://vectree.ru/timeline/19)
-- [JavaScript](https://vectree.ru/timeline/20)
-- [MongoDB](https://vectree.ru/timeline/21)
-
 #### Список отдельных дайджестов
-- [Java Code Style](https://vectree.ru/digest/18)
-- [Инструменты анализа кода Java](https://vectree.ru/digest/22)
-- [Инструменты анализа кода Go](https://vectree.ru/digest/27)
-- [Bash-терминал](https://vectree.ru/digest/19)
-- [Travis CI](https://vectree.ru/digest/21)
-- [Циклы разработки](https://vectree.ru/digest/23)
-- [Gorilla Web Toolkit](https://vectree.ru/digest/29)
-- [Rabbit MQ](https://vectree.ru/digest/34)
-- [Микросервисы](https://vectree.ru/digest/35)
-- [Английский](https://vectree.ru/digest/41)
-- [Введение в программирование](https://vectree.ru/digest/41)
+- [Java Code Style](https://box.vectree.ru/digest/0/18)
+- [Инструменты анализа кода Java](https://box.vectree.ru/digest/0/22)
+- [Инструменты анализа кода Go](https://box.vectree.ru/digest/0/27)
+- [Bash-терминал](https://box.vectree.ru/digest/0/19)
+- [Travis CI](https://box.vectree.ru/digest/0/21)
+- [Циклы разработки](https://box.vectree.ru/digest/0/23)
+- [Gorilla Web Toolkit](https://box.vectree.ru/digest/0/29)
+- [Rabbit MQ](https://box.vectree.ru/digest/0/34)
+- [Микросервисы](https://box.vectree.ru/digest/0/35)
+- [Английский](https://box.vectree.ru/digest/0/41)
+- [Введение в программирование](https://box.vectree.ru/digest/0/41)
 
 [LICENSE]: ./LICENSE.md
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
