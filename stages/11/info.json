@@ -1,0 +1,17 @@
+{
+  "topics": [
+    "nodejs",
+    "backend",
+    "express"
+  ],
+  "title": "Backend на JavaScript",
+  "category": "NodeJS",
+  "smallText": "Начните писать backend на JavaScript, используя NodeJS, написанный на основе движка V8.",
+  "text": "Знаете JavaScript и хотите заняться разработкой серверной части? NodeJS - инструмент для написания backend на JavaScript, построенный на движке V8 от Google и библиотеке libuv.",
+  "img": {
+    "src": "/img/nodejs.png"
+  },
+  "tasks": [
+
+  ]
+}

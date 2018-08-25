@@ -1,0 +1,101 @@
+{
+  "topics": [
+    "HTML",
+    "CSS",
+    "Bootstrap"
+  ],
+  "title": "Верстка веб-страниц",
+  "category": "Верстка",
+  "quizId": 15,
+  "text": "Хотите сделать свой первый сайт? Но без знания HTML и CSS это затруднительно. В этом дереве представлено все необходимое для знакомства с инструментами верстки веб-сайтов.",
+  "img": {
+    "icon": "fa fa-window-maximize"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "digest",
+        "id": 42,
+        "label": "HTML",
+        "title": "Язык разметки HTML",
+        "text": "В данном дайджесте вы научитесь создавать структуру вашего сайта."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "digest",
+        "id": 43,
+        "label": "CSS",
+        "title": "Каскадные таблицы стилей",
+        "text": "В данном дайджесте вы научитесь оформлять внешний вид вашего сайта."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "external",
+        "id": 4,
+        "category": "Материал",
+        "label": "Браузеры",
+        "title": "Как работают браузеры?",
+        "text": "В данной книге представленны принципы работы современных веб-бразуеров. Советуем к прочтению!",
+        "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
+      },
+      "img": {
+        "icon": "fa fa-bars",
+        "style": {
+          "color": "#eb4e4e"
+        }
+      }
+    },
+    {
+      "content": {
+        "type": "digest",
+        "id": 44,
+        "label": "Bootstrap",
+        "title": "Фреймворк Bootstrap",
+        "text": "В данном дайджесте вы изучите один их самых популярных HTML, CSS, и JS фреймворков для разработки адаптивных и мобильных web-проектов. Упростите себе верстку!"
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "task",
+        "id": 19,
+        "taskId": 19,
+        "title": "Резюме",
+        "label": "Верстка",
+        "text": "В рамках данной практики будет создан сайт-резюме на технологиях HTML / CSS / Bootstrap. Также вы сможете выложить свое резюме на Github Pages."
+      },
+      "img": {
+        "icon": "fa fa-github",
+        "style": {
+          "color": "#efefef"
+        }
+      }
+    },
+    {
+      "content": {
+        "type": "quiz",
+        "id": 15,
+        "label": "Верстка",
+        "title": "Тестирование по Верстке",
+        "text": "Проверьте свои знания, ответив на несколько вопросов."
+      },
+      "img": {
+        "icon": "fa fa-check",
+        "style": {
+          "color": "#eb4e4e"
+        }
+      }
+    }
+  ]
+
+}

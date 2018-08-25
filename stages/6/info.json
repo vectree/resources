@@ -1,0 +1,62 @@
+{
+  "topics": [
+    "Spring",
+    "Spring MVC",
+    "IOC",
+    "DI"
+  ],
+  "title": "Фреймворк Spring",
+  "category": "Spring",
+  "quizId": 6,
+  "name": "Основы Spring",
+  "smallText": "На данном этапе вы изучите основы фреймворка Spring.",
+  "text": "Spring Framework - один из самых популярных фреймворков на Java. Позволяет решить множество проблем, возникающих при разработке: работа с базой данных, безопасность, DI, IOC и многое другое.\n\nЗайдите на hh и вы увидите, что 80% вакансий Java требуют данный фреймворк.",
+  "img": {
+    "src": "/img/spring-icon.svg"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "digest",
+        "label": "Spring",
+        "category": "Дайджест",
+        "id": 7,
+        "title": "Введение в Spring",
+        "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить: базовые принципы создание проектов и основные возможности фреймворка Spring."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "digest",
+        "id": 36,
+        "category": "Дайджест",
+        "label": "Spring",
+        "title": "Реализация архитектуры MVC в Spring",
+        "text": "В данном дайджесте вы изучите Spring MVC и разберетесь с архитектурой Model - View - Controller."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "task",
+        "category": "Практика",
+        "label": "Spring",
+        "id": 9,
+        "title": "Курс валют",
+        "text": "В данной практике вы создадите шаблон Spring-проекта и на его основе сделаете сервис курсов валют."
+      },
+      "img": {
+        "icon": "fa fa-github",
+        "style": {
+          "color": "#efefef"
+        }
+      }
+    }
+  ]
+
+}
