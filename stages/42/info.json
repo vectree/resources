@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "Dagger 2",
+    "DI",
+    "Android"
+  ],
+  "category": "Dagger 2",
+  "title": "Библиотека внедрения зависимостей",
+  "text": "Библиотека внедрения зависимостей для Android во время компиляции.",
+  "img": {
+    "src": "/img/dagger.png"
+  },
+  "tasks": [
+  ]
+}

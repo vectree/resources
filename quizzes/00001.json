@@ -1,6 +1,6 @@
 {
   "quizId": 1,
-  "minPercent": 60,
-  "limit": 3,
+  "limit": 15,
+  "minPercent": 55,
   "topics": [0]
 }

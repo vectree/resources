@@ -1,0 +1,89 @@
+{
+  "topics": [
+    "Advanced Go",
+    "Многопоточность",
+    "Интерфейсы"
+  ],
+  "title": "Язык программирования Go",
+  "category": "Go",
+  "quizId": 8,
+  "name": "Advanced Go",
+  "smallText": "На данной карте вы изучите язык программирования Go и примените полученные знания на практике.",
+  "text": "Одна из самых сильных сторон Go - многопоточность. В рамках данного этапа мы рассмотрим concurrency-инструменты и многое другое.",
+  "img": {
+    "src": "/img/golang.png"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "digest",
+        "id": 26,
+        "label": "Go",
+        "title": "Advanced Go",
+        "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить более продвинутый материал."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "url": "https://www.codewars.com/kata/search/go?q=&beta=false",
+        "label": "Go",
+        "type": "external",
+        "id": 3,
+        "category": "Задача",
+        "title": "Задачи: Go на CodeWars",
+        "text": "Решите множество интересных ката с помощью языка программирования Go и узнайте как решают их более опытные специалисты."
+      },
+      "img": {
+        "icon": "fa fa-bars",
+        "style": {
+          "color": "#eb4e4e"
+        }
+      }
+    },
+    {
+      "content": {
+        "type": "task",
+        "id": 2,
+        "label": "Go",
+        "title": "Go Web App",
+        "text": "В данной практике мы создадим простое web-приложение."
+      },
+      "img": {
+        "icon": "fa fa-github",
+        "style": {
+          "color": "#efefef"
+        }
+      }
+    },
+    {
+      "content": {
+        "type": "digest",
+        "id": 28,
+        "label": "Go",
+        "title": "Менеджер зависимостей в Go",
+        "text": "В данном дайджесте представлен список ресурсов, которые помогут изучить менеджеры зависимостей языка Go."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "task",
+        "id": 3,
+        "label": "Go",
+        "title": "Go Skimmer",
+        "text": "В данной практике мы создадим сборщик запросов."
+      },
+      "img": {
+        "icon": "fa fa-github",
+        "style": {
+          "color": "#efefef"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "content": {
+      "type": "timeline",
+      "id": 7,
+      "label": "Git",
+      "title": "Система версионного контроля",
+      "text": "На данной карте вы разберетесь в инструменте, позволяющем работать в команде."
+    },
+    "img": {
+      "src": "/img/git-icon.png"
+    }
+  },
+  {
+    "content": {
+      "type": "timeline",
+      "id": 19,
+      "label": "Верстка",
+      "title": "Верстка веб-страниц",
+      "text": "Хотите сделать свой первый сайт? Но без знания HTML и CSS это затруднительно. В этом дереве представлено все необходимое для знакомства с инструментами верстки веб-сайтов."
+    },
+    "img": {
+      "icon": "fa fa-window-maximize"
+    }
+  },
+  {
+    "content": {
+      "type": "timeline",
+      "id": 20,
+      "label": "JavaScript",
+      "title": "Язык программирования JavaScript",
+      "text": "Хотите сделать что-то большее чем статическая страница на CSS и HTML? Тогда вам сюда. JavaScript поможет вам создать более сложные сценарии."
+    },
+    "img": {
+      "src": "/img/javascript.png"
+    }
+  },
+  {
+    "content": {
+      "type": "timeline",
+      "id": 22,
+      "title": "Пакетный менеджер",
+      "label": "NPM",
+      "text": "Хотите подключить js-библиотеку? Пакетный менеджер NPM поможет вам с установкой в одну команду!"
+    },
+    "img": {
+      "src": "/img/npm.png"
+    }
+  },
+  {
+    "content": {
+      "title": "Разработка пользовательских интерфейсов",
+      "label": "React",
+      "text": "Популярнейшая библиотека для разработки пользовательских интерфейсов от Facebook, активно развиваемая комьюнити JavaScript."
+    },
+    "img": {
+      "src": "/img/react.png"
+    }
+  },
+  {
+    "content": {
+      "title": "Предсказуемый контейнер состояния",
+      "label": "Redux",
+      "text": "Реализация идеи Flux для управления потоком данных в React, созданная Данилом Абрамовым."
+    },
+    "img": {
+      "src": "/img/redux.png"
+    }
+  },
+  {
+    "content": {
+      "title": "Роутинг на React",
+      "label": "React-Router",
+      "text": "Библиотека, позволяющая настроить роутинг в вашем React-приложении."
+    },
+    "img": {
+      "src": "/img/react-router.png"
+    }
+  },
+  {
+    "content": {
+      "title": "Сборка приложения React",
+      "label": "Webpack",
+      "text": "Один из самых мощных, гибких инструментов для сборки fronted-проектов."
+    },
+    "img": {
+      "src": "/img/webpack.png"
+    }
+  },
+  {
+    "content": {
+      "title": "Backend на JavaScript",
+      "label": "NodeJS",
+      "text": "Начните писать backend на JavaScript, используя NodeJS, написанный на основе движка V8."
+    },
+    "img": {
+      "src": "/img/nodejs.png"
+    }
+  },
+  {
+    "content": {
+      "type": "timeline",
+      "id": 21,
+      "title": "NoSQL база данных - MongoDB",
+      "label": "MongoDB",
+      "text": "По сути самая используемая база данных с NodeJS и самая известная нереляционная база данных. Попробуем ее изучить!"
+    },
+    "img": {
+      "src": "/img/mongodb.png"
+    }
+  }
+]

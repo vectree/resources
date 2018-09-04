@@ -1,0 +1,29 @@
+{
+  "topics": [
+    "gorilla web toolkit",
+    "gorilla mux",
+    "gorilla websocket",
+    "мультиплексор"
+  ],
+  "title": "Фреймворк Gorilla",
+  "category": "Gorilla",
+  "smallText": "На данном этапе вы изучите отдельные модули набора Gorilla Web Toolkit.",
+  "text": "Gorilla Web Toolkit - это набор инструментов для языка программирования Go, в который входят: mux, websocket, sessions и другие.",
+  "img": {
+    "src": "/img/gorilla.png"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "digest",
+        "id": 29,
+        "label": "Gorilla",
+        "title": "Gorilla Web Toolkit",
+        "text": "На данной карте вы изучите отдельные модули набора Gorilla Web Toolkit."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    }
+  ]
+}
