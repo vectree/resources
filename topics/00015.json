@@ -3,7 +3,7 @@
   "topicName": "Bootstrap",
   "questions": [
     {
-      "question": "Какой класс предоставляет контейрен, занимаюший широту всего viewport?",
+      "question": "Какой класс предоставляет контейнер, занимаюший широту всего viewport?",
       "answers": [
         "container-fluid",
         "container-fixed",

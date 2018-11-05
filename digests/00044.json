@@ -9,19 +9,29 @@
       {
         "creator": "Гоша Дударь",
         "title": "Все необходимые темы",
-        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=TZSY6rDUDrE&t=1s"
       },
       {
         "creator": "Magisters",
         "title": "Все необходимые темы",
-        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq"
       },
       {
         "creator": "MakeWeb.me",
         "title": "Все необходимые темы",
         "url": "https://www.youtube.com/watch?v=9N88P_CMQh0"
+      },
+      {
+        "creator": "Web Developer Blog",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/playlist?list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB",
+        "title": "Bootstrap 4"
+      },
+      {
+        "creator": "Creade",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=8_NIlwQfBic&list=PLZ1WcToklkGYBmF27krNbZzbaW0_TXN73",
+        "title": "Bootstrap 4"
       }
     ],
     "Книги": [
