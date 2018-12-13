@@ -7,11 +7,9 @@
   "img": "/img/vue.png",
   "text": "Популярнейшая библиотека для разработки пользовательских интерфейсов, активно развиваемая комьюнити JavaScript. Фреймворк является чем-то средним между React и Angular. По мнению многих разработчиков порог входа в Vue намного ниже чем в React, Angular.",
   "salary": "до 20000 руб.",
-  "practicePeriod": 14,
   "complexity": 2,
   "mentors": true,
   "interview": true,
-  "practiceSize": 3,
   "stages": [
     0,
     8,
