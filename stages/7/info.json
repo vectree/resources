@@ -49,11 +49,8 @@
         "label": "Spring",
         "text": "В данной практике вы создадите, реализуете технику управления временем \"Помидор\" с помощью Spring."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

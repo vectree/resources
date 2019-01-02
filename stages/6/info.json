@@ -50,11 +50,8 @@
         "title": "Курс валют",
         "text": "В данной практике вы создадите шаблон Spring-проекта и на его основе сделаете сервис курсов валют."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     }
   ]

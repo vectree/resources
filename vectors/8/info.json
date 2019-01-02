@@ -1,0 +1,23 @@
+{
+  "creator": 1,
+  "title": "Разработчик Angular",
+  "header": "В разработке",
+  "img": "/img/angular.png",
+  "text": "В данной специализации будет рассмотрена платформа Angular, разрабатываемая при поддержке Google, которая позволяет писать Single Page Application. Интересным моментом является то, что Angular написана на TypeScript",
+  "salary": "до 20000 руб.",
+  "complexity": 4,
+  "mentors": true,
+  "ignore": true,
+  "type": "spec",
+  "time": "4 месяца",
+  "stages": [
+    0,
+    8,
+    9,
+    10,
+    36,
+    37,
+    11,
+    12
+  ]
+}

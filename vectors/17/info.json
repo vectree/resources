@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик Vue",
+  "creator": 4,
+  "type": "internship",
+  "remote": true,
+  "header": "Frontend",
+  "img": "/img/kidsway.png",
+  "mentors": true,
+  "workload": "40 часов",
+  "salary": "до 20000 руб.",
+  "recommendations": [ 6, 9 ],
+  "interview": true
+}

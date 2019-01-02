@@ -33,11 +33,8 @@
         "title": "Векторные операции с SSE",
         "text": "В рамках данной практики вы выполните векторные операции с помощью SSE."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

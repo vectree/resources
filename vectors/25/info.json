@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик JavaScript",
+  "creator": 10,
+  "type": "internship",
+  "location": "Мосвка",
+  "header": "Frontend",
+  "mentors": true,
+  "workload": "от 20 часов",
+  "img": "/img/cera.png",
+  "salary": "до 15000 руб.",
+  "recommendations": [ 5, 6 ],
+  "interview": true
+}

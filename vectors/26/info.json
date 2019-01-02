@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик Android",
+  "creator": 12,
+  "type": "internship",
+  "remote": true,
+  "header": "Mobile",
+  "mentors": true,
+  "workload": "от 20 часов",
+  "img": "/img/tusion.png",
+  "salary": "до 15000 руб.",
+  "recommendations": [ 5, 10 ],
+  "interview": true
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Разработчик PHP",
+  "creator": 8,
+  "type": "internship",
+  "location": "Москва",
+  "header": "Backend",
+  "workload": "от 15 часов",
+  "img": "/img/progresscard.png",
+  "salary": "до 5000 руб.",
+  "recommendations": [ 5, 7 ],
+  "interview": true
+}

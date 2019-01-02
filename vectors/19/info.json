@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик Go",
+  "creator": 6,
+  "type": "internship",
+  "remote": true,
+  "header": "Backend",
+  "img": "/img/labrika.jpg",
+  "mentors": true,
+  "workload": "20 часов",
+  "salary": "до 10000 руб.",
+  "recommendations": [ 5, 2, 12 ],
+  "interview": true
+}

@@ -31,11 +31,8 @@
         "title": "FreeRTOS на STM32",
         "text": "В рамках данной практики вы запустите операционную систему FreeRTOS на STM32 и попробуете поработать с мьютексами, семафорами и т.д."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

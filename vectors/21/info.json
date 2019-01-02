@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик JavaScript",
+  "creator": 11,
+  "type": "internship",
+  "remote": true,
+  "header": "Frontend",
+  "img": "/img/sa.png",
+  "mentors": true,
+  "workload": "20 часов",
+  "salary": "до 10000 руб.",
+  "recommendations": [ 6, 5 ],
+  "interview": true
+}
