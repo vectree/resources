@@ -71,9 +71,9 @@ Vectree — платформа для начинающих разработчи�
     
 #### Список доступных командных заданий
 - Java:
-  * [Биллинговая система](https://box.vectree.ru/practice/0/0)
+  * [Биллинговая система](https://box.vectree.ru/task/0/22)
 - Go:
-  * [Интерфейс управления Docker-контейнерами](https://box.vectree.ru/practice/0/1)
+  * [Интерфейс управления Docker-контейнерами](https://box.vectree.ru/task/0/23)
 
 ## Тесты
 #### Оформление Quiz
@@ -96,7 +96,7 @@ Vectree — платформа для начинающих разработчи�
 - [J2EE](https://box.vectree.ru/quiz/0/7)
 - [Go](https://box.vectree.ru/quiz/0/8)
 - [Docker](https://box.vectree.ru/quiz/0/9)
-- [PostgresSQL](https://box.vectree.ru/quiz/0/2)
+- [PostgreSQL](https://box.vectree.ru/quiz/0/2)
 - [STM](https://box.vectree.ru/quiz/0/11)
 - [Git](https://box.vectree.ru/quiz/0/4)
 - [FreeRTOS](https://box.vectree.ru/quiz/0/12)

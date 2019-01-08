@@ -45,11 +45,8 @@
         "title": "Знакомство",
         "text": "В рамках данной практики вы разработаете свою первую программу и разберетесь со средой разработки."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {
@@ -60,11 +57,8 @@
         "title": "Практика: Работа с портами ввода / вывода",
         "text": "В рамках данной практики вы разберетесь с портами ввода / вывода в STM."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {
@@ -75,11 +69,8 @@
         "title": "Прерывания",
         "text": "В рамках данной практики вы разберетесь с прерываниями."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {
@@ -90,11 +81,8 @@
         "title": "Таймеры",
         "text": "В рамках данной практики вы разберетесь с таймерами."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

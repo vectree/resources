@@ -36,11 +36,8 @@
         "title": "Youtube Trends",
         "text": "В рамках данной практики вы реализуете Telegram бота, который будет анализировать YouTube Trends. Проект будет собран с помощью Maven."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

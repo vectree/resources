@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик Angular",
+  "creator": 3,
+  "type": "internship",
+  "location": "Cанкт-Петербург",
+  "img": "/img/getlooky.png",
+  "header": "Frontend",
+  "mentors": true,
+  "workload": "от 20 часов",
+  "salary": "до 15000 руб.",
+  "recommendations": [ 6, 8 ],
+  "interview": true
+}

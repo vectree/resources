@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик PHP",
+  "creator": 4,
+  "type": "internship",
+  "remote": true,
+  "header": "Backend",
+  "img": "/img/kidsway.png",
+  "mentors": true,
+  "workload": "40 часов",
+  "salary": "до 20000 руб.",
+  "recommendations": [ 5, 7 ],
+  "interview": true
+}

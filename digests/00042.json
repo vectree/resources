@@ -109,7 +109,13 @@
         "title": "Все необходимые темы",
         "isAdvised": true,
         "isEnglish": true,
-        "url": "https://www.codecademy.com/en/tracks/web"
+        "url": "https://www.codecademy.com/learn/learn-html"
+      },
+      {
+        "creator": "WebReference",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://webref.ru/course"
       }
     ],
     "Полезные ссылки": [

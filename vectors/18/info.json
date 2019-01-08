@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик Android",
+  "creator": 5,
+  "type": "internship",
+  "location": "Санкт-Петербург",
+  "header": "Mobile",
+  "img": "/img/kpro.png",
+  "mentors": true,
+  "workload": "20 часов",
+  "salary": "до 15000 руб.",
+  "recommendations": [ 5, 10 ],
+  "interview": true
+}

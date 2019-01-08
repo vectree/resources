@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик React",
+  "creator": 9,
+  "type": "internship",
+  "remote": true,
+  "header": "Frontend",
+  "mentors": true,
+  "workload": "от 20 часов",
+  "img": "/img/tokenstarter.png",
+  "salary": "до 20000 руб.",
+  "recommendations": [ 6, 1 ],
+  "interview": true
+}

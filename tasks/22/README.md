@@ -46,4 +46,4 @@
 * Slf4j
 * JUnit
 * Mockito
-* PostgresSQL
+* PostgreSQL

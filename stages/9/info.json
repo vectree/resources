@@ -32,11 +32,8 @@
         "title": "Создаем несколько игр и не только!",
         "text": "В рамках данной практики вам будет предоставлены на выбор 8 практических заданий на языке программирования JavaScript."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {
@@ -47,11 +44,8 @@
         "title": "Пинг-Понг",
         "text": "Создаем самостоятельно с нуля игру пинг-понг на JavaScript."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

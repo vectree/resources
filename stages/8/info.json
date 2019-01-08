@@ -75,11 +75,8 @@
         "label": "Верстка",
         "text": "В рамках данной практики будет создан сайт-резюме на технологиях HTML / CSS / Bootstrap. Также вы сможете выложить свое резюме на Github Pages."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {

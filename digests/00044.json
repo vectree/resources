@@ -74,33 +74,24 @@
         "isEnglish": true
       },
       {
-        "creator": "Html Academy",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "isNotFree": true,
-        "url": "https://htmlacademy.ru/"
-      },
-      {
         "creator": "CodeSchool",
         "title": "Все необходимые темы",
         "url": "https://www.codeschool.com/courses/blasting-off-with-bootstrap",
         "isNotFree": true,
         "isEnglish": true
-      },
-      {
-        "creator": "Codecademy",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "isEnglish": true,
-        "url": "https://www.codecademy.com/en/tracks/web"
       }
     ],
     "Документация": [
       {
-        "creator": "Getbootstrap",
+        "creator": "Bootstrap 4",
         "title": "Все необходимые темы",
         "isAdvised": true,
-        "url": "http://getbootstrap.ru/docs/v4-alpha/"
+        "url": "http://bootstrap-4.ru/"
+      },
+      {
+        "url": "https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/",
+        "creator": "Шпаргалка по документации",
+        "title": "Все необходимые темы"
       }
     ]
   }

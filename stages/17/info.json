@@ -51,11 +51,8 @@
         "title": "Go Web App",
         "text": "В данной практике мы создадим простое web-приложение."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     },
     {
@@ -78,11 +75,8 @@
         "title": "Go Skimmer",
         "text": "В данной практике мы создадим сборщик запросов."
       },
-      "img": {
-        "icon": "fa fa-github",
-        "style": {
-          "color": "#efefef"
-        }
+     "img": {
+        "icon": "fa fa-code text-warning"
       }
     }
   ]

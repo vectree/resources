@@ -1,0 +1,13 @@
+{
+  "title": "Разработчик Java",
+  "creator": 0,
+  "type": "internship",
+  "location": "Cанкт-Петербург",
+  "header": "Backend",
+  "img": "https://3bet.pro/resources/img/logo.png",
+  "mentors": true,
+  "workload": "от 20 часов",
+  "salary": "до 25000 руб.",
+  "recommendations": [ 5, 0, 11 ],
+  "interview": true
+}
