@@ -8,6 +8,9 @@
   "workload": "от 20 часов",
   "img": "/img/tokenstarter.png",
   "salary": "до 20000 руб.",
-  "recommendations": [ 6, 1 ],
+  "recommendations": [
+    6,
+    1
+  ],
   "interview": true
 }

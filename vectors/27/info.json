@@ -8,6 +8,9 @@
   "workload": "от 20 часов",
   "img": "/img/dbeaver.png",
   "salary": "до 15000 руб.",
-  "recommendations": [ 5, 0 ],
+  "recommendations": [
+    5,
+    0
+  ],
   "interview": true
 }

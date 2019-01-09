@@ -8,7 +8,10 @@
   "complexity": 5,
   "mentors": true,
   "time": "3 месяца",
-  "recommendations": [5, 0],
+  "recommendations": [
+    5,
+    0
+  ],
   "stages": [
     43
   ]
