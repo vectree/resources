@@ -12,7 +12,10 @@
   "complexity": 2,
   "mentors": true,
   "stages": [
-    0,
+    [
+      0,
+      45
+    ],
     29,
     30,
     31,

@@ -7,6 +7,9 @@
   "workload": "от 15 часов",
   "img": "/img/progresscard.png",
   "salary": "до 5000 руб.",
-  "recommendations": [ 5, 7 ],
+  "recommendations": [
+    5,
+    7
+  ],
   "interview": true
 }

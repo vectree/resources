@@ -8,6 +8,9 @@
   "mentors": true,
   "workload": "20 часов",
   "salary": "до 10000 руб.",
-  "recommendations": [ 5, 6 ],
+  "recommendations": [
+    5,
+    6
+  ],
   "interview": true
 }

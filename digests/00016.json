@@ -11,7 +11,7 @@
     "Видео": [
       {
         "creator": "Devcolibri",
-        "sections": "с 0 по 8 урок",
+        "sections": "Первый урок",
         "title": "Все необходимые темы",
         "url": "https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR",
         "isAdvised": true
@@ -43,13 +43,13 @@
       {
         "creator": "Бен Линн",
         "title": "Магия Git",
-        "sections": "с 1 по 3 раздел",
+        "sections": "с 1 по 2 раздел",
         "url": "https://web.archive.org/web/20141226210730/https://dl.dropboxusercontent.com/u/281916/delete/book.pdf"
       },
       {
         "creator": "Скотт Шакон",
         "title": "Pro Git",
-        "sections": "раздел 1 по 2",
+        "sections": "раздел 1",
         "url": "https://github.s3.amazonaws.com/downloads/GArik/progit/progit.ru.pdf"
       }
     ],
@@ -57,7 +57,8 @@
       {
         "creator": "Git-scm",
         "title": "Все необходимые темы",
-        "sections": "раздел 1 по 2",
+        "sections": "раздел 1",
+        "isAdvised": true,
         "url": "https://git-scm.com/book/ru/v2"
       },
       {
