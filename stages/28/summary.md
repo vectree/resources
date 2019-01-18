@@ -1,0 +1,71 @@
+## Ресурсы для изучения Английского Языка
+
+Перечислим ссылки и книги для обучения с нашего последнего стрима. Вы их также можете найти на платформе: https://box.vectree.ru/vector/5/28.
+
+### Книги
+- Н.А. Бонк – Английский шаг за шагом (3 учебника)
+
+- Учебники от изд-ва “Cambridge University Press”
+
+### Словари
+- https://dictionary.cambridge.org
+
+- https://www.macmillandictionary.com 
+
+- https://www.urbandictionary.com
+
+### Youtube
+- Eat Sleep Dream English
+
+- Real English With Real Teachers
+
+- Learn English with Papa Teach Me
+
+- English Like A Native
+
+- English Galaxy
+
+- To Fluency
+
+### Блоги
+- http://engblog.ru/
+
+- Joel and Lia
+
+- FunForLouis
+
+- Erik Conover
+
+- Dylan Magaster
+
+- Refinery29
+
+### Подкасты
+- https://teacherluke.co.uk/
+
+- https://rocknrollenglish.com/
+
+- https://www.bbc.co.uk/podcasts
+
+### Общение
+- Discord
+
+- https://www.free4talk.com/ 
+
+- http://gospeaky.com/
+
+### Просмотр видео в компании
+- https://www.rabb.it/
+
+- https://www.watch2gether.com/
+
+### Telegram каналы
+- https://t.me/slangbang
+
+- https://t.me/dailyeng
+
+- https://t.me/Brejestovski
+
+### Новости
+- https://www.newsinlevels.com
+

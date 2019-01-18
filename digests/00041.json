@@ -7,15 +7,9 @@
   "resources": {
     "Видео": [
       {
-        "creator": "GeekBrains",
-        "title": "Английский",
-        "url": "https://www.youtube.com/watch?time_continue=3&v=8jzzmhrnl1s"
-      },
-      {
         "creator": "Вогнистая Е.В.",
         "title": "Английский",
-        "url": "https://www.youtube.com/user/elenavogni",
-        "isAdvised": true
+        "url": "https://www.youtube.com/user/elenavogni"
       },
       {
         "creator": "ENGLISH GALAXY",
@@ -36,12 +30,38 @@
         "isAdvanced": true,
         "isEnglish": true,
         "url": "https://www.youtube.com/user/learnexmumbai"
+      }
+    ],
+    "Сервисы общения": [
+      {
+        "creator": "Free 4 Talk",
+        "title": "Все необходимые темы",
+        "url": "https://www.free4talk.com/",
+        "isAdvised": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Н.А. Бонк",
+        "title": "Английский шаг за шагом",
+        "isAdvised": true,
+        "sections": "3 книги",
+        "url": "https://www.ozon.ru/context/detail/id/29684814/"
       },
       {
-        "creator": "Полиглот",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "url": "https://www.youtube.com/user/centerpetrov"
+        "creator": "Cambridge University Press",
+        "title": "Essential Grammar In Use",
+        "url": "https://www.ozon.ru/context/detail/id/33773142/",
+        "sections": "3 книги",
+        "isAdvised": true
+      },
+      {
+        "creator": "Cambridge University Press",
+        "title": "English Collocations In Use",
+        "url": "https://www.ozon.ru/context/detail/id/3836618/",
+        "sections": "2 книги",
+        "isAdvanced": true,
+        "isAdvised": true
       }
     ],
     "Статьи": [
@@ -49,14 +69,12 @@
         "creator": "Learn American English Online",
         "title": "Все необходимые темы",
         "url": "https://learnamericanenglishonline.com/",
-        "isEnglish": true,
-        "isAdvised": true
+        "isEnglish": true
       },
       {
         "creator": "English Easy",
         "title": "Все необходимые темы",
-        "url": "http://www.english-easy.info/#axzz2bKMKXjnA",
-        "isAdvised": true
+        "url": "http://www.english-easy.info/#axzz2bKMKXjnA"
       },
       {
         "creator": "Engblog",
@@ -65,10 +83,30 @@
         "isAdvised": true
       },
       {
+        "creator": "News In Levels",
+        "title": "Все необходимые темы",
+        "url": "https://www.newsinlevels.com/",
+        "isAdvised": true
+      }
+    ],
+    "Словари": [
+      {
         "creator": "Cambridge",
         "title": "Все необходимые темы",
         "url": "https://dictionary.cambridge.org/dictionary/english/",
-        "isAdvanced": true,
+        "isEnglish": true,
+        "isAdvised": true
+      },
+      {
+        "creator": "Macmilland Dictionary",
+        "title": "Все необходимые темы",
+        "url": "https://www.macmillandictionary.com/",
+        "isEnglish": true
+      },
+      {
+        "creator": "Urban Dictionary",
+        "title": "Все необходимые темы",
+        "url": "https://www.urbandictionary.com",
         "isEnglish": true
       }
     ],
@@ -76,7 +114,6 @@
       {
         "creator": "Lingualeo",
         "title": "Все необходимые темы",
-        "isAdvised": true,
         "url": "http://lingualeo.com/ru/training"
       },
       {
@@ -91,8 +128,23 @@
         "creator": "Luke’s ENGLISH Podcast",
         "title": "Все необходимые темы",
         "isEnglish": true,
+        "isAdvised": true,
         "isAdvanced": true,
         "url": "https://teacherluke.co.uk/"
+      },
+      {
+        "creator": "BBC",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvanced": true,
+        "url": "https://www.bbc.co.uk/podcasts"
+      },
+      {
+        "creator": "Rock & Roll English",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvanced": true,
+        "url": "https://rocknrollenglish.com/"
       }
     ]
   }
