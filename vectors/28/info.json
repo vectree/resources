@@ -1,0 +1,17 @@
+{
+  "title": "Платформа обучения",
+  "creator": 1,
+  "type": "case",
+  "img": "/img/react.png",
+  "header": "React",
+  "complexity": 4,
+  "time": "2 месяца",
+  "mentors": true,
+  "recommendations": [
+    1,
+    6
+  ],
+  "stages": [
+    47
+  ]
+}
