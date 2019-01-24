@@ -52,6 +52,7 @@
         "creator": "Git-scm",
         "title": "Все необходимые темы",
         "sections": "3 раздел",
+        "isAdvised": true,
         "url": "https://git-scm.com/book/ru/v2"
       },
       {

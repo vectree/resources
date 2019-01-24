@@ -1,0 +1,68 @@
+## Ветвление на github
+
+> Советуем вам пройти данную практику в команде!
+> Каждая ветка для одного члена команды.
+
+Вам необходимо создать три ветви: **master**, **images**, **src**.
+
+#### master
+
+В основной ветви (**master**) вам необходимо создать файл `index.html` со следующим кодом:
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Мой первый HTML!</title>
+</head>
+<body>
+    <h1>Мой первый заголовок!</h1>
+    <p>Мой первый параграф!</p>
+</body> 
+</html>
+```
+
+#### images
+
+В ветви **images** необходимо добавить любую картинку с именем `image.jpg` и изменить код `index.html` на следующий:
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Мой первый HTML!</title>
+</head>
+<body>
+    <h1>Мой первый заголовок!</h1>
+    <p>Мой первый параграф!</p>
+    <img alt="Моя первая картинка" src="image.jpg" />
+</body> 
+</html>
+```
+
+#### src
+
+В ветви **src** необходимо добавить папку `src`, в которой расположить файл `index.js` со следующим кодом:
+
+```javascript
+console.log("Привет JavaScript!");
+```
+
+И не забудьте изменить `index.html`:
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Мой первый HTML!</title>
+</head>
+<body>
+    <h1>Мой первый заголовок!</h1>
+    <p>Мой первый параграф!</p>
+    <img alt="Моя первая картинка" src="image.jpg" />
+    <script src="index.js"/>
+</body> 
+</html>
+```
+
+Весь код выложите на **github**.
