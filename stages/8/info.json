@@ -7,11 +7,11 @@
   ],
   "title": "Основы HTML",
   "category": "Верстка",
-  "videoId": "C-n5rvf9Vgc",
+  "videoId": "PTbD-zRhEJg",
   "name": "Основы HTML",
   "quizId": 15,
   "img": {
-    "icon": "fa fa-window-maximize"
+    "src": "/img/html.png"
   },
   "tasks": [
     {
@@ -19,7 +19,8 @@
         "type": "code-task",
         "id": 1,
         "title": "Структура и элементы HTML",
-        "label": "Пример",
+        "category": "Пример",
+        "label": "HTML",
         "text": "Пример структуры HTML и использования различных тегов."
       },
       "img": {
@@ -36,6 +37,18 @@
       },
       "img": {
         "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "code-task",
+        "id": 2,
+        "title": "Блог успехов в изучении",
+        "label": "HTML",
+        "text": "Реализуем простенький блог на html, в котором опишем успехи в изучении программирования."
+      },
+      "img": {
+        "icon": "fa fa-code text-warning"
       }
     }
   ]

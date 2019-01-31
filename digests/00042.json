@@ -35,12 +35,6 @@
     ],
     "Статьи": [
       {
-        "creator": "HtmlBook",
-        "title": "Все необходимые темы",
-        "url": "http://htmlbook.ru/samhtml",
-        "isAdvised": true
-      },
-      {
         "creator": "Habrahabr",
         "title": "Web-разработка",
         "isAdvised": true,
@@ -50,13 +44,6 @@
         "creator": "w3schools",
         "title": "Все необходимые темы",
         "url": "https://www.w3schools.com/html/default.asp",
-        "isAdvised": true,
-        "isEnglish": true
-      },
-      {
-        "creator": "Css-tricks",
-        "title": "Flexbox",
-        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
         "isAdvised": true,
         "isEnglish": true
       }
@@ -92,7 +79,6 @@
       {
         "creator": "Html Academy",
         "title": "Все необходимые темы",
-        "isAdvised": true,
         "isNotFree": true,
         "url": "https://htmlacademy.ru/"
       },

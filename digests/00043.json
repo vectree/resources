@@ -41,6 +41,13 @@
         "url": "https://www.w3schools.com/css/default.asp",
         "isAdvised": true,
         "isEnglish": true
+      },
+      {
+        "creator": "Css-tricks",
+        "title": "Flexbox",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "isAdvised": true,
+        "isEnglish": true
       }
     ],
     "Онлайн курсы": [
