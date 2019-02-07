@@ -1,0 +1,8 @@
+{
+  "category": "HTML",
+  "title": "Структура и элементы HTML",
+  "topics": ["HTML", "Теги"],
+  "img": {
+    "src": "/img/html.png"
+  }
+}

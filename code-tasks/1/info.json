@@ -1,9 +1,9 @@
 {
-  "category": "HTML / CSS",
-  "title": "Задача о том-то",
-  "topics": ["HTML", "CSS", "JavaScript"],
-  "text": "Сделайте то-то то-то",
+  "category": "HTML",
+  "title": "Структура и элементы HTML",
+  "topics": ["HTML", "Теги"],
+  "text": "Пример структуры HTML и использования различных тегов. Перейдите на вкладку Html в редакторе кода.",
   "img": {
-    "src": "/img/android.png"
+    "src": "/img/html.png"
   }
 }

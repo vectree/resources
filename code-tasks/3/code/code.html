@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Наша первая форма</title>
+</head>
+<body>
+<form action="/example" method="GET">
+    <h1>Наша первая форма</h1>
+    <fieldset>
+        <legend>Основная информация</legend>
+        <input type="text" name="username" placeholder="Введите свое имя"/>
+        <hr/>
+        <input type="number" name="phone" placeholder="Введите свой номер телефона"/>
+    </fieldset>
+    <fieldset>
+        <legend>Дополнительная информация</legend>
+        <label for="race">Введите свою расу:</label>
+        <input type="text" id="race" name="race" value="Человек"/>
+        <hr/>
+        <label for="password">Введите пароль:</label>
+        <input type="password" id="password" name="password"/>
+        <hr/>
+        <label for="city">Выберите свой город:</label>
+        <select id="city" name="city">
+            <option value="Moscow">Москва</option>
+            <option value="Saint-Petersburg">Санкт-Петербург</option>
+            <option value="Kaliningrad">Калининград</option>
+            <option value="Omsk">Омск</option>
+            <option value="Kazan">Казань</option>
+        </select>
+        <hr/>
+        <label for="checkbox">Да?</label>
+        <input type="checkbox" id="checkbox" name="checkbox">
+        <hr/>
+        <input type="radio" name="radio" id="radio1" value="1"/>
+        <label for="radio1">Да</label>
+        <input type="radio" name="radio" id="radio2" value="0" checked/>
+        <label for="radio2">Нет</label>
+    </fieldset>
+    <button type="submit">Отправить</button>
+</form>
+</body>
+</html>
