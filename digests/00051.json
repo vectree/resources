@@ -1,0 +1,33 @@
+{
+  "topics": [
+    "Форма",
+    "Form",
+    "Html"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Html5book",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://html5book.ru/html5-forms/"
+      },
+      {
+        "creator": "Webref",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://webref.ru/course/html5-form"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Codecademy",
+        "title": "Все необходимые темы",
+        "url": "https://www.codecademy.com/learn/learn-html",
+        "section": "Learn HTML: Forms",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}
