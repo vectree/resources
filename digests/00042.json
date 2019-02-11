@@ -46,6 +46,23 @@
         "url": "https://www.w3schools.com/html/default.asp",
         "isAdvised": true,
         "isEnglish": true
+      },
+      {
+        "creator": "MDN",
+        "title": "Все необходимые темы",
+        "url": "https://developer.mozilla.org/ru/docs/Learn/HTML",
+        "isAdvised": true
+      },
+      {
+        "creator": "Html5Book",
+        "title": "Все необходимые темы",
+        "url": "https://html5book.ru/",
+        "isAdvised": true
+      },
+      {
+        "creator": "HtmlBook",
+        "title": "Справочник HTML",
+        "url": "http://htmlbook.ru/"
       }
     ],
     "Онлайн курсы": [
@@ -102,14 +119,6 @@
         "title": "Все необходимые темы",
         "isAdvised": true,
         "url": "https://webref.ru/course"
-      }
-    ],
-    "Полезные ссылки": [
-      {
-        "creator": "HtmlBook",
-        "title": "Справочник HTML",
-        "isAdvised": true,
-        "url": "http://htmlbook.ru/"
       }
     ]
   }

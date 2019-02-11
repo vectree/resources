@@ -1,0 +1,55 @@
+{
+  "topics": [
+    "HTML",
+    "Форма",
+    "Form"
+  ],
+  "title": "Формы HTML",
+  "category": "Верстка",
+  "videoId": "kkZycSrR9nQ",
+  "name": "Формы HTML",
+  "quizId": 15,
+  "img": {
+    "src": "/img/html.png"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "code-task",
+        "id": 3,
+        "title": "Структура форм",
+        "category": "Пример",
+        "label": "HTML",
+        "text": "Пример структуры форм в HTML и использования различных тегов."
+      },
+      "img": {
+        "icon": "fa fa-code text-warning"
+      }
+    },
+    {
+      "content": {
+        "type": "digest",
+        "id": 51,
+        "label": "HTML",
+        "title": "Формы в HTML",
+        "text": "В данном дайджесте представлены дополнительные материалы для изучения Форм в HTML."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "code-task",
+        "id": 4,
+        "title": "Блог успехов в изучении",
+        "label": "HTML",
+        "text": "Реализуем простенький блог на html, в котором опишем успехи в изучении программирования."
+      },
+      "img": {
+        "icon": "fa fa-code text-warning"
+      }
+    }
+  ]
+
+}
