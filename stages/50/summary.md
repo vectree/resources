@@ -24,9 +24,17 @@
 
 ```html
 <form action="/example" method="GET">
-   <h1>Наша первая форма</h1> 
+   <h6>Наша первая форма</h6> 
 </form>
 ```
+
+Результат:
+
+<div class="html">
+    <form action="/example" method="GET">
+       <h6>Наша первая форма</h6> 
+    </form>
+</div>
 
 Атрибут `action` указывает `url`, по которому будет выполняться обработка запроса.
 `method` указывает способ передачи данных. 
@@ -44,16 +52,27 @@
 
 ```html
 <form action="/example" method="GET">
-   <h1>Наша первая форма</h1> 
+   <h6>Наша первая форма</h6> 
    <input type="text" name="username" placeholder="Введите свое имя"/>
    <input type="number" name="phone" placeholder="Введите свой номер телефона"/>
    <input type="text" name="race" value="Человек"/>
 </form>
 ```
 
+Результат:
+
+<div class="html">
+    <form action="/example" method="GET">
+       <h6>Наша первая форма</h6> 
+       <input class="form-control" type="text" name="username" placeholder="Введите свое имя"/>
+       <input class="form-control" type="number" name="phone" placeholder="Введите свой номер телефона"/>
+       <input class="form-control" type="text" name="race" value="Человек"/>
+    </form>
+</div>
+
 Атрибут `type` используется для указания типа вводимых данных. В нашем примере - это текст (text) и число (number).
 
-> Кроме `text` и `number` сушествуют следующие типы:
+> Кроме `text` и `number` существуют следующие типы:
 > * password - используется для ввода пароля,
 > * url - для ввода url,
 > * email - для ввода email,
@@ -81,7 +100,7 @@
 
 ```html
 <form action="/example" method="GET">
-   <h1>Наша первая форма</h1> 
+   <h6>Наша первая форма</h6> 
    <fieldset>
        <legend>Основная информация</legend>
        <input type="text" name="username" placeholder="Введите свое имя"/>
@@ -94,6 +113,24 @@
    </fieldset>
 </form>
 ```
+
+Результат:
+
+<div class="html">
+    <form action="/example" method="GET">
+       <h6>Наша первая форма</h6> 
+       <fieldset>
+           <legend>Основная информация</legend>
+           <input class="form-control" type="text" name="username" placeholder="Введите свое имя"/>
+           <hr />
+           <input class="form-control" type="number" name="phone" placeholder="Введите свой номер телефона"/>
+       </fieldset>
+       <fieldset>
+          <label for="race">Введите свою расу</label>
+          <input class="form-control" type="text" id="race" name="race" value="Человек"/>
+       </fieldset>
+    </form>
+</div>
 
 Атрибут `for` указывает к какому `input` привязана данная надпись по `id`.
 
@@ -118,6 +155,22 @@
 </form>
 ```
 
+Результат:
+
+<div class="html">
+    <form>
+      <label for="city">Выберите свой город:</label>
+      <select id="city" name="city">
+        <option value="Moscow">Москва</option>
+        <option value="Saint-Petersburg">Санкт-Петербург</option>
+        <option value="Kaliningrad">Калининград</option>
+        <option value="Omsk">Омск</option>
+        <option value="Kazan">Казань</option>
+      </select>
+    </form>
+</div>
+
+
 ### button
 
 Мы создали свою форму, но как отправить данные к обработчику?
@@ -128,7 +181,7 @@
 
 ```html
 <form action="/example" method="GET">
-   <h1>Наша первая форма</h1> 
+   <h6>Наша первая форма</h6> 
    <input type="text" name="username" placeholder="Введите свое имя"/>
    <input type="number" name="phone" placeholder="Введите свой номер телефона"/>
    <label for="race">Введите свою расу</label>
@@ -136,6 +189,19 @@
    <button type="submit">Отправить заявку!</button>
 </form>
 ```
+
+Результат:
+
+<div class="html">
+    <form action="/example" method="GET">
+       <h6>Наша первая форма</h6> 
+       <input class="form-control" type="text" name="username" placeholder="Введите свое имя"/>
+       <input class="form-control" type="number" name="phone" placeholder="Введите свой номер телефона"/>
+       <label for="race">Введите свою расу</label>
+       <input class="form-control" type="text" id="race" name="race" value="Человек"/>
+       <button class="btn btn-success" type="submit">Отправить заявку!</button>
+    </form>
+</div>
 
 Не забудьте указать `type="submit"`. `submit` указывает, что при нажатии на данную кнопку, произойдет отправка к обработчику.
 

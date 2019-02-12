@@ -1,0 +1,38 @@
+{
+  "topics": [
+    "Таблица",
+    "table",
+    "Html"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Html5book",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://html5book.ru/html-table/"
+      },
+      {
+        "creator": "Webref",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://webref.ru/html/table"
+      },
+      {
+        "creator": "Htmlbook",
+        "title": "Все необходимые темы",
+        "url": "http://htmlbook.ru/html/table"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Codecademy",
+        "title": "Все необходимые темы",
+        "url": "https://www.codecademy.com/learn/learn-html",
+        "section": "Learn HTML: Forms",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}
