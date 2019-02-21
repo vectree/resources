@@ -4,10 +4,10 @@
     "Форма",
     "Form"
   ],
-  "title": "Формы HTML",
+  "title": "Формы",
   "category": "Верстка",
   "videoId": "kkZycSrR9nQ",
-  "name": "Формы HTML",
+  "name": "Формы",
   "quizId": 15,
   "img": {
     "src": "/img/html.png"
@@ -17,13 +17,13 @@
       "content": {
         "type": "code-task",
         "id": 3,
-        "title": "Структура форм",
-        "category": "Пример",
+        "title": "Конспект урока",
+        "category": "Конспект",
         "label": "HTML",
-        "text": "Пример структуры форм в HTML и использования различных тегов."
+        "text": "Нет времени смотреть урок? Изучите конспект и переходите к практическим заданиям."
       },
       "img": {
-        "icon": "fa fa-code text-warning"
+        "icon": "fa fa-align-left text-success"
       }
     },
     {
@@ -42,9 +42,9 @@
       "content": {
         "type": "code-task",
         "id": 4,
-        "title": "Блог успехов в изучении",
+        "title": "Отправим данные на почту",
         "label": "HTML",
-        "text": "Реализуем простенький блог на html, в котором опишем успехи в изучении программирования."
+        "text": "Создадим форму для отправки данных на почту."
       },
       "img": {
         "icon": "fa fa-code text-warning"
