@@ -4,5 +4,9 @@
   "topics": ["HTML", "Форма", "Form"],
   "img": {
     "src": "/img/html.png"
-  }
+  },
+  "ignoreSources": [
+    "styles.css",
+    "scripts.js"
+  ]
 }

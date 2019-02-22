@@ -4,15 +4,28 @@
     "Таблицы",
     "table"
   ],
-  "title": "Таблицы HTML",
+  "title": "Таблицы",
   "category": "Верстка",
   "videoId": "k-Y14PP59hI",
-  "name": "Таблицы HTML",
+  "name": "Таблицы",
   "quizId": 15,
   "img": {
     "src": "/img/html.png"
   },
   "tasks": [
+    {
+      "content": {
+        "type": "code-task",
+        "id": 5,
+        "title": "Конспект урока",
+        "category": "Конспект",
+        "label": "HTML",
+        "text": "Нет времени смотреть урок? Изучите конспект и переходите к практическим заданиям."
+      },
+      "img": {
+        "icon": "fa fa-align-left text-success"
+      }
+    },
     {
       "content": {
         "type": "code-task",
