@@ -1,0 +1,41 @@
+{
+  "topics": [
+    "HTML",
+    "HTML5"
+  ],
+  "title": "Что нового в HTML5?",
+  "category": "HTML",
+  "videoId": "1YictPT3kuc",
+  "name": "Что нового в HTML5?",
+  "quizId": 13,
+  "img": {
+    "src": "/img/html.png"
+  },
+  "tasks": [
+    {
+      "content": {
+        "type": "digest",
+        "id": 53,
+        "label": "HTML",
+        "title": "Что нового в HTML5",
+        "text": "В данном дайджесте представлены дополнительные материалы для изучения HTML5."
+      },
+      "img": {
+        "icon": "fa fa-reply"
+      }
+    },
+    {
+      "content": {
+        "type": "code-task",
+        "id": 6,
+        "title": "Влетаем в HTML5",
+        "label": "HTML",
+        "text": "Воспользуйтесь тегами HTML5 для создания более понятной и логичной структры сайта."
+      },
+      "img": {
+        "icon": "fa fa-code text-warning"
+      }
+    }
+  ]
+
+}

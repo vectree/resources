@@ -5,10 +5,10 @@
     "table"
   ],
   "title": "Таблицы",
-  "category": "Верстка",
+  "category": "HTML",
   "videoId": "k-Y14PP59hI",
   "name": "Таблицы",
-  "quizId": 15,
+  "quizId": 13,
   "img": {
     "src": "/img/html.png"
   },
@@ -24,19 +24,6 @@
       },
       "img": {
         "icon": "fa fa-align-left text-success"
-      }
-    },
-    {
-      "content": {
-        "type": "code-task",
-        "id": 5,
-        "title": "Структура таблиц",
-        "category": "Пример",
-        "label": "HTML",
-        "text": "Пример структуры таблицы в HTML и использования различных тегов."
-      },
-      "img": {
-        "icon": "fa fa-code text-warning"
       }
     },
     {
