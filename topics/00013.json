@@ -118,6 +118,53 @@
       "correctAnswers": [
         0
       ]
+    },
+    {
+      "question": "Что определяет DOCTYPE?",
+      "answers": [
+        "Тип документа",
+        "Версию HTML",
+        "Тип редактора"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "question": "С помощью какоо элемента отображается контент на странице?",
+      "answers": [
+        "head",
+        "xhtml",
+        "body",
+        "content"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "question": "Основная цель тега select?",
+      "answers": [
+        "Вывод марикрованного списка",
+        "Вывод нумированного списка",
+        "Вывод SQL-контента",
+        "Вывод раскрывающегося списка"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "question": "С помощью какого атрибута можно объединить две ячейки по горизонтали?",
+      "answers": [
+        "rowspan",
+        "colspan",
+        "spancol",
+        "spanrow"
+      ],
+      "correctAnswers": [
+        1
+      ]
     }
   ]
 }

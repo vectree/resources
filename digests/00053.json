@@ -1,0 +1,37 @@
+{
+  "topics": [
+    "HTML",
+    "HTML5"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "freeCodeCamp",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=DPnqb74Smug"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Html5book",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://html5book.ru/html5-semantic-elements/"
+      },
+      {
+        "creator": "Webref",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://webref.ru/tech/html5"
+      },
+      {
+        "creator": "Htmlbook",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://www.w3schools.com/html/html5_intro.asp"
+      }
+    ]
+  }
+}
