@@ -1,17 +1,13 @@
 {
-  "title": "Разработчик Go",
-  "creator": 6,
-  "type": "internship",
-  "remote": true,
-  "header": "Backend",
-  "img": "/img/labrika.jpg",
-  "mentors": true,
-  "workload": "20 часов",
-  "salary": "до 10000 руб.",
-  "recommendations": [
-    5,
-    2,
-    12
+  "topics": [
+    "RabbitMQ",
+    "Организация очередей",
+    "AMQP",
+    "Отложенные сообщения"
   ],
-  "interview": true
+  "category": "Организация очередей",
+  "name": "RabbitMQ",
+  "type": "vector",
+  "img": "/img/rabbitmq.png",
+  "smallText": "В данном векторе вы разбретесь с платформой RabbitMQ, основная задача которой организация обменом сообщениями с помощью очередей на основе стандарта AMQP."
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Основы Spring",
+  "steps": [
+    {
+      "name": "Введение в Spring",
+      "type": "digest",
+      "id": 7
+    },
+    {
+      "name": "MVC в Spring",
+      "type": "digest",
+      "id": 36
+    }
+  ]
+}

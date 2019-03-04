@@ -1,16 +1,15 @@
 {
-  "title": "Разработчик JavaScript",
-  "creator": 6,
-  "type": "internship",
-  "remote": true,
-  "header": "Frontend",
-  "img": "/img/labrika.jpg",
-  "mentors": true,
-  "workload": "20 часов",
-  "salary": "до 10000 руб.",
-  "recommendations": [
-    5,
-    6
+  "topics": [
+    "CUDA",
+    "Параллельные вычисления",
+    "GPU",
+    "SSE",
+    "MMX",
+    "SIMD"
   ],
-  "interview": true
+  "category": "Параллельные вычисления",
+  "name": "Введение в CUDA",
+  "type": "vector",
+  "img": "/img/cuda.png",
+  "smallText": "В данном векторе вы разбретесь с параллельными вычислениями на CUDA и SSE."
 }

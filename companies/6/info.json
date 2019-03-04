@@ -1,5 +1,7 @@
 {
   "name": "Labrika",
   "url": "https://labrika.ru",
-  "img": "/img/labrika.jpg"
+  "img": "/img/labrika.jpg",
+  "subscribes": [38,39],
+  "smallText": "Labrika.ru - все необходимые online инструменты для продвижения сайта."
 }

@@ -1,16 +1,11 @@
 {
-  "title": "Разработчик Java",
-  "creator": 13,
-  "type": "internship",
-  "location": "Санкт-Петербург",
-  "header": "Backend",
-  "mentors": true,
-  "workload": "от 20 часов",
-  "img": "/img/dbeaver.png",
-  "salary": "до 15000 руб.",
-  "recommendations": [
-    5,
-    0
+  "topics": [
+    "Vue",
+    "UI"
   ],
-  "interview": true
+  "type": "vector",
+  "img": "/img/vue.png",
+  "category": "Разработка UI",
+  "name": "Vue",
+  "text": "Популярнейшая библиотека для разработки пользовательских интерфейсов, активно развиваемая комьюнити JavaScript. Фреймворк является чем-то средним между React и Angular."
 }

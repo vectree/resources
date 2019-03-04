@@ -1,5 +1,7 @@
 {
   "name": "3Bet",
   "url": "http://3bet.pro",
-  "img": "https://3bet.pro/resources/img/logo.png"
+  "img": "https://3bet.pro/resources/img/logo.png",
+  "subscribes": [36, 37],
+  "smallText": "Наша команда предлагает комплексные решения для увеличения вашей прибыли на спортивных ставках."
 }

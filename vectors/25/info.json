@@ -1,16 +1,12 @@
 {
-  "title": "Разработчик JavaScript",
-  "creator": 10,
-  "type": "internship",
-  "location": "Мосвка",
-  "header": "Frontend",
-  "mentors": true,
-  "workload": "от 20 часов",
-  "img": "/img/cera.png",
-  "salary": "до 15000 руб.",
-  "recommendations": [
-    5,
-    6
+  "topics": [
+    "Composer",
+    "Управление зависимостями"
   ],
-  "interview": true
+  "type": "vector",
+  "category": "Пакетный менеджер",
+  "name": "Composer",
+  "img": "/img/composer.png",
+  "whiteImg": true,
+  "text": "Изучите один из основных средств управления зависимостями в мире PHP."
 }

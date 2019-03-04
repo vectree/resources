@@ -1,5 +1,7 @@
 {
   "name": "Vectree",
   "url": "http://vectree.ru",
-  "img": "/img/vectree-logo-5.svg"
+  "img": "/img/vectree-logo-5.svg",
+  "subscribes": [36,37,38,39],
+  "smallText": "Vectree — платформа для начинающих разработчиков, помогающая приобрести ключевые навыки для трудоустройства в IT."
 }

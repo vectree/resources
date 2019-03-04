@@ -1,11 +1,4 @@
 {
-  "category": "HTML",
-  "title": "Создадим свой блог",
-  "topics": ["HTML", "Теги"],
-  "text": "В рамках данного задания вам необходимо создать простенький блог на HTML.",
-  "img": {
-    "src": "/img/html.png"
-  },
   "ignoreSources": [
     "styles.css",
     "scripts.js"

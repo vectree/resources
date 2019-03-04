@@ -1,0 +1,15 @@
+{
+  "name": "Введение в Go",
+  "steps": [
+    {
+      "name": "Доп. материалы",
+      "type": "digest",
+      "id": 24
+    },
+    {
+      "name": "Go на CodeFights",
+      "type": "external",
+      "url": "https://codefights.com/arcade/intro/"
+    }
+  ]
+}

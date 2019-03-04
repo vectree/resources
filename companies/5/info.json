@@ -1,5 +1,12 @@
 {
   "name": "KPro",
   "url": "https://www.kpro.tech/",
-  "img": "/img/kpro.png"
+  "img": "/img/kpro.png",
+  "subscribes": [36],
+  "photos": [
+    "https://static.tildacdn.com/tild6330-3963-4061-a236-626565663161/2.jpg",
+    "https://static.tildacdn.com/tild3233-3932-4238-b133-383163373863/3.jpg",
+    "https://static.tildacdn.com/tild3039-3931-4730-b739-643138366161/5.jpg"
+  ],
+  "smallText": "Компания 4BLIND объединяетинновационные технические решениядля слепоглухих, слепых и слабовидящих людей."
 }

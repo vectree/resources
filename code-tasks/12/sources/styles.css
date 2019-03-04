@@ -1,0 +1,13 @@
+body {
+	color: #fff;
+}
+
+table {
+	text-align: center;
+}
+
+table td,
+table th {
+	padding: 10px;
+	border: 2px solid black;
+}

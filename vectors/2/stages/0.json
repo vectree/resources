@@ -1,0 +1,25 @@
+{
+    "name": "Основы HTML",
+    "steps": [
+        {
+            "name": "Видео",
+            "type": "video",
+            "id": "C-n5rvf9Vgc"
+        },
+        {
+            "name": "CSS",
+            "type": "digest",
+            "id": 43
+        },
+        {
+            "name": "Как работают браузеры?",
+            "type": "external",
+            "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
+        },
+        {
+            "name": "Bootstrap",
+            "type": "digest",
+            "id": 44
+        }
+    ]
+}

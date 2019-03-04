@@ -1,11 +1,4 @@
 {
-  "category": "HTML",
-  "title": "Таблицы в HTML",
-  "topics": ["table", "Таблицы", "HTML"],
-  "text": "Не хотите смотреть видео? Используйте данный конспект с практикой!",
-  "img": {
-    "src": "/img/html.png"
-  },
   "ignoreSources": [
     "styles.css",
     "scripts.js"

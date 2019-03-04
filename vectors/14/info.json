@@ -1,16 +1,8 @@
 {
-  "title": "Разработчик PHP",
-  "creator": 3,
-  "type": "internship",
-  "location": "Cанкт-Петербург",
-  "img": "/img/getlooky.png",
-  "header": "Frontend",
-  "workload": "от 20 часов",
-  "mentors": true,
-  "salary": "до 15000 руб.",
-  "recommendations": [
-    5,
-    7
-  ],
-  "interview": true
+  "topics": ["Spring", "Spring MVC", "IOC", "DI"],
+  "category": "Фреймворк",
+  "name": "Spring",
+  "type": "vector",
+  "img": "/img/spring-icon.svg",
+  "smallText": "На данном этапе вы изучите основы фреймворка Spring."
 }

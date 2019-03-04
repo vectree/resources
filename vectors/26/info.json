@@ -1,16 +1,12 @@
 {
-  "title": "Разработчик Android",
-  "creator": 12,
-  "type": "internship",
-  "remote": true,
-  "header": "Mobile",
-  "mentors": true,
-  "workload": "от 20 часов",
-  "img": "/img/tusion.png",
-  "salary": "до 15000 руб.",
-  "recommendations": [
-    5,
-    10
+  "topics": [
+    "Yii2",
+    "Каркасный фреймворк"
   ],
-  "interview": true
+  "type": "vector",
+  "img": "/img/yii2.png",
+  "whiteImg": true,
+  "category": "Фреймворк",
+  "name": "Yii2",
+  "text": "На данном этапе вы изучите основы фреймворка Yii2."
 }
