@@ -1,0 +1,12 @@
+{
+  "topics": [
+    "Dagger 2",
+    "DI",
+    "Android"
+  ],
+  "type": "vector",
+  "name": "Dagger 2",
+  "category": "Библиотека DI",
+  "text": "Библиотека внедрения зависимостей для Android во время компиляции.",
+  "img": "/img/dagger.png"
+}

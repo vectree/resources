@@ -1,10 +1,4 @@
 {
-  "category": "HTML",
-  "title": "Влетаем в HTML5",
-  "topics": ["HTML", "HTML5"],
-  "img": {
-    "src": "/img/html.png"
-  },
   "ignoreSources": [
     "styles.css",
     "scripts.js"

@@ -1,0 +1,11 @@
+body {
+	color: #fff;
+}
+
+.form-container {
+	background: #4eceb0;
+	min-height: 50vh;
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+}

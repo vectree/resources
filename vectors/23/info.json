@@ -1,15 +1,11 @@
 {
-  "title": "Разработчик PHP",
-  "creator": 8,
-  "type": "internship",
-  "location": "Москва",
-  "header": "Backend",
-  "workload": "от 15 часов",
-  "img": "/img/progresscard.png",
-  "salary": "до 5000 руб.",
-  "recommendations": [
-    5,
-    7
+  "topics": [
+    "PHP",
+    "Синтаксис"
   ],
-  "interview": true
+  "type": "vector",
+  "category": "Язык программирования",
+  "name": "PHP",
+  "img": "/img/php.png",
+  "text": "На данном этапе вы изучите язык программирования PHP и примените полученные знания на практике."
 }

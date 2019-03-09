@@ -1,5 +1,8 @@
 {
   "name": "Цера Маркетинг",
   "url": "http://ceramarketing.com/",
-  "img": "/img/cera.png"
+  "img": "/img/cera.png",
+  "whiteImg": true,
+  "subscribes": [39],
+  "smallText": "Имея большой опыт – детекции и распознавание образов на видео (видеоаналитика), Cera-Marketing создаёт продукты для торговых сетей, которые позволяют повысить их эффективность."
 }

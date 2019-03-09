@@ -1,16 +1,12 @@
 {
-  "title": "Разработчик Android",
-  "creator": 5,
-  "type": "internship",
-  "location": "Санкт-Петербург",
-  "header": "Mobile",
-  "img": "/img/kpro.png",
-  "mentors": true,
-  "workload": "20 часов",
-  "salary": "до 15000 руб.",
-  "recommendations": [
-    5,
-    10
+  "topics": [
+    "Микросервисы",
+    "SAO",
+    "Архитектура"
   ],
-  "interview": true
+  "category": "Архитектура",
+  "name": "Микросервисы",
+  "type": "vector",
+  "icon": "fa fa-sitemap",
+  "smallText": "В рамках данного вектора мы рассмотрим SOA архитектуру, используемую для создания распределенных систем."
 }

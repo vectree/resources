@@ -1,0 +1,20 @@
+{
+  "name": "Введение в Java",
+  "steps": [
+    {
+      "name": "Введение: Часть 1",
+      "type": "digest",
+      "id": 0
+    },
+    {
+      "name": "Задачи",
+      "type": "external",
+      "url": "https://codefights.com/arcade/intro/"
+    },
+    {
+      "name": "Введение: Часть 2",
+      "type": "digest",
+      "id": 1
+    }
+  ]
+}

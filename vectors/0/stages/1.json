@@ -1,0 +1,25 @@
+{
+    "name": "Основы Git",
+    "steps": [
+        {
+            "name": "Видео",
+            "type": "video",
+            "id": "_A1NIRcHW9Q"
+        },
+        {
+            "name": "Конспект урока",
+            "type": "text",
+            "id": 2
+        },
+        {
+            "name": "Доп. материалы",
+            "type": "digest",
+            "id": 50
+        },
+        {
+            "name": "Задание",
+            "type": "text",
+            "id": 3
+        }
+    ]
+}

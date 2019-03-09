@@ -3,8 +3,8 @@
     "Spring Beans",
     "Spring Context",
     "Spring Expression",
-    "Dependency Injection",
-    "Inversion of Control"
+    "DI",
+    "IOC"
   ],
   "resources": {
     "Видео": [

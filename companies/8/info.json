@@ -1,5 +1,7 @@
 {
   "name": "Progresscard",
   "url": "https://progresscard.ru/",
-  "img": "/img/progresscard.png"
+  "img": "/img/progresscard.png",
+  "subscribes": [39],
+  "smallText": "Progresscard - сервис анализа и улучшения кредитной истории."
 }
