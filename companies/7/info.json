@@ -1,5 +1,7 @@
 {
   "name": "Pre-interview",
   "url": "https://preint.ru/",
-  "img": "/img/preint.png"
+  "img": "/img/preint.png",
+  "subscribes": [36],
+  "smallText": "Pre-interview - HR программа подбора персонала путем видеоанкетирования соискателей."
 }

@@ -1,0 +1,20 @@
+{
+  "name": "Advanced Spring",
+  "steps": [
+    {
+      "name": "Spring AOP",
+      "type": "digest",
+      "id": 8
+    },
+    {
+      "name": "Базы данных в Spring",
+      "type": "digest",
+      "id": 9
+    },
+    {
+      "name": "Реактивность в Spring",
+      "type": "digest",
+      "id": 37
+    }
+  ]
+}

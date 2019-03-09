@@ -1,0 +1,11 @@
+{
+  "topics": [
+    "Android",
+    "Jetpack"
+  ],
+  "type": "vector",
+  "name": "Android Jetpack",
+  "category": "Разработка под Android",
+  "text": "Набор библиотек и инструментов для разработки под Android, тестирования и много всего прочего.",
+  "img": "/img/jetpack.png"
+}

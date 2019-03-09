@@ -1,0 +1,25 @@
+{
+    "name": "Что нового в HTML5?",
+    "steps": [
+        {
+            "name": "Видео",
+            "type": "video",
+            "id": "1YictPT3kuc"
+        },
+        {
+            "name": "Конспект урока",
+            "type": "text",
+            "id": 6
+        },
+        {
+            "name": "Доп. материалы",
+            "type": "digest",
+            "id": 53
+        },
+        {
+            "name": "Задание",
+            "type": "code-task",
+            "id": 6
+        }
+    ]
+}

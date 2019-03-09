@@ -127,8 +127,8 @@ Vectree — платформа для начинающих разработчи�
 #### Список отдельных дайджестов
 - [Java Code Style](https://vectree.ru/digest/0/18)
 - [Инструменты анализа кода Java](https://vectree.ru/digest/0/22)
-- [Инструменты анализа кода Go](https://vectree.ru/digest/0/27)
-- [Bash-терминал](https://vectree.ru/digest/0/19)
+- [Инструменты анализа кода Go](https://vectree.ru/digest/22/1/0)
+- [Bash-терминал](https://vectree.ru/digest/22/1/0)
 - [Travis CI](https://vectree.ru/digest/0/21)
 - [Циклы разработки](https://vectree.ru/digest/0/23)
 - [Gorilla Web Toolkit](https://vectree.ru/digest/0/29)

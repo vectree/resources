@@ -1,6 +1,13 @@
 {
   "name": "Tokenstarter",
   "url": "https://www.tokenstarter.io/",
-  "img": "/img/tokenstarter.png"
+  "img": "/img/tokenstarter.png",
+  "photos": [
+    "https://static.tildacdn.com/tild6330-3963-4061-a236-626565663161/2.jpg",
+    "https://static.tildacdn.com/tild3233-3932-4238-b133-383163373863/3.jpg",
+    "https://static.tildacdn.com/tild3039-3931-4730-b739-643138366161/5.jpg"
+  ],
+  "subscribes": [37, 39],
+  "smallText": "Tokenstarter - первая в мире краудинвестиционная платформа основанная на токен опционах."
 }
 

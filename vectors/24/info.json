@@ -1,16 +1,13 @@
 {
-  "title": "Разработчик React",
-  "creator": 9,
-  "type": "internship",
-  "remote": true,
-  "header": "Frontend",
-  "mentors": true,
-  "workload": "от 20 часов",
-  "img": "/img/tokenstarter.png",
-  "salary": "до 20000 руб.",
-  "recommendations": [
-    6,
-    1
+  "topics": [
+    "SQL",
+    "Базы данных",
+    "MySQL"
   ],
-  "interview": true
+  "type": "vector",
+  "category": "База данных",
+  "name": "MySQL",
+  "img": "/img/mysql.png",
+  "whiteImg": true,
+  "text": "На данном этапе вы изучите понятие базы данных и язык запросов SQL на примере MySQL."
 }

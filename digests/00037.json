@@ -1,9 +1,8 @@
 {
   "topics": [
     "реактивное программирование",
-    "введение в spring webflux",
     "spring webflux",
-    "примеры работы с Spring Webflux"
+    "Примеры"
   ],
   "resources": {
     "Видео": [

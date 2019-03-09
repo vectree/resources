@@ -1,0 +1,20 @@
+{
+  "name": "Advanced Go",
+  "steps": [
+    {
+      "name": "Доп. материалы",
+      "type": "digest",
+      "id": 26
+    },
+    {
+      "name": "Задачи: Go на CodeWars",
+      "type": "external",
+      "url": "https://www.codewars.com/kata/search/go?q=&beta=false"
+    },
+    {
+      "name": "Менеджер зависимостей",
+      "type": "digest",
+      "id": 28
+    }
+  ]
+}

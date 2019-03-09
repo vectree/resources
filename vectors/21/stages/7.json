@@ -1,0 +1,50 @@
+{
+  "name": "Практика: Concurrency",
+  "steps": [
+    {
+      "name": "FreeRTOS на STM32",
+      "type": "task",
+      "id": 96
+    },
+    {
+      "name": "STM32F4 и SAM3N",
+      "type": "task",
+      "id": 97
+    },
+    {
+      "name": "LED",
+      "type": "task",
+      "id": 98
+    },
+    {
+      "name": "Очереди",
+      "type": "task",
+      "id": 99
+    },
+    {
+      "name": "Семафоры",
+      "type": "task",
+      "id": 100
+    },
+    {
+      "name": "Мьютексы",
+      "type": "task",
+      "id": 101
+    },
+    {
+      "name": "Сопрограмма",
+      "type": "task",
+      "id": 102
+    },
+    {
+      "name": "Таймер",
+      "type": "task",
+      "id": 103
+    },
+    {
+      "name": "Сигналы",
+      "type": "task",
+      "id": 104
+    }
+  ]
+}

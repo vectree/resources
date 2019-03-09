@@ -1,0 +1,11 @@
+{
+  "topics": [
+    "Angular",
+    "UI"
+  ],
+  "type": "vector",
+  "img": "/img/angular.png",
+  "category": "Платформа",
+  "name": "Angular",
+  "text": "Платформа для создания веб и мобильных приложений на TypeScript."
+}

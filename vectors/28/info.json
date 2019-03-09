@@ -1,18 +1,12 @@
 {
-  "title": "Платформа обучения",
-  "creator": 1,
-  "type": "case",
-  "img": "/img/react.png",
-  "header": "React",
-  "complexity": 4,
-  "time": "2 месяца",
-  "mentors": true,
-  "recommendations": [
-    1,
-    6
+  "topics": [
+    "Vuex",
+    "Flux",
+    "State Management"
   ],
-  "stages": [
-    47,
-    49
-  ]
+  "type": "vector",
+  "img": "/img/vuex.png",
+  "category": "Контейнер состояния",
+  "name": "Vue",
+  "text": "Библиотека, позволяющая настроить роутинг в вашем Vue-приложении."
 }

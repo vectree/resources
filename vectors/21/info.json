@@ -1,16 +1,12 @@
 {
-  "title": "Разработчик JavaScript",
-  "creator": 11,
-  "type": "internship",
-  "remote": true,
-  "header": "Frontend",
-  "img": "/img/sa.png",
-  "mentors": true,
-  "workload": "20 часов",
-  "salary": "до 10000 руб.",
-  "recommendations": [
-    6,
-    5
+  "topics": [
+    "STM32",
+    "FREERTOS",
+    "OCPB"
   ],
-  "interview": true
+  "category": "Микроконтроллеры",
+  "name": "Введение в STM32",
+  "type": "vector",
+  "img": "/img/stm32.png",
+  "smallText": "В данном векторе вы рассмотрите STM32 и FreeRTOS."
 }
