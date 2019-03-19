@@ -1,15 +1,25 @@
 {
-    "name": "Практика: Резюме",
+    "name": "Вся информация о CSS",
     "steps": [
         {
-            "name": "Подготовка",
-            "type": "task",
-            "id": 0
+            "name": "Видео",
+            "type": "video",
+            "id": "C-n5rvf9Vgc"
         },
         {
-            "name": "Описание",
-            "type": "task",
-            "id": 1
+            "name": "CSS",
+            "type": "digest",
+            "id": 43
+        },
+        {
+            "name": "Как работают браузеры?",
+            "type": "external",
+            "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
+        },
+        {
+            "name": "Bootstrap",
+            "type": "digest",
+            "id": 44
         }
     ]
 }
