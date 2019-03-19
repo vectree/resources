@@ -31,4 +31,4 @@ Vectree — платформа для начинающих разработчи�
 Материал распространяется под [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md).
 
 [LICENSE]: ./LICENSE.md
-[license-badge]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[license-badge]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png
