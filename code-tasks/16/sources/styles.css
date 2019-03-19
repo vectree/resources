@@ -1,0 +1,17 @@
+a {
+	color: #eb4e4e;
+}
+
+body {
+	color: #fff;
+}
+
+.article {
+	font-size: 14px;
+}
+
+.main {
+	/* Добавим рамку в 1px с красным цветом */
+	border: 1px solid #eb4e4e;
+	border-radius: 4px;
+}

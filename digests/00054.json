@@ -1,0 +1,38 @@
+{
+  "topics": [
+    "Основы CSS",
+    "CSS"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Sorax",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=IsZDtOYUWvk"
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Html5book",
+        "title": "Все необходимые темы",
+        "section": "Раздел 2.1",
+        "isAdvised": true,
+        "url": "https://html5book.ru/css-css3/"
+      },
+      {
+        "creator": "Webref",
+        "title": "Все необходимые темы",
+        "isAdvised": true,
+        "url": "https://webref.ru/tech/css3"
+      },
+      {
+        "creator": "FreeCodeCamp",
+        "title": "Все необходимые темы",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://learn.freecodecamp.org/responsive-web-design/basic-css/"
+      }
+    ]
+  }
+}

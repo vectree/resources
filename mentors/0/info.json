@@ -1,0 +1,16 @@
+{
+  "firstName": "Влад",
+  "secondName": "Скуришин",
+  "groupHourPrice": 7,
+  "personalHourPrice": 16,
+  "vectors": [36, 37, 38, 39],
+  "socialNetworks": [
+    { "link": "https://github.com/vladthelittleone", "icon": "fa fa-github" },
+    {
+      "link": "https://linkedin.com/in/vladislav-skurishin-57068092/",
+      "icon": "fa fa-linkedin"
+    }
+  ],
+  "technologies": ["Go", "JavaScript", "React", "Java", "Spring", "Node"],
+  "avatarURL": "https://user-images.githubusercontent.com/4215285/54316583-2f54ce80-45f2-11e9-9979-e28f12ae1359.png"
+}

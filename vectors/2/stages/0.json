@@ -1,25 +1,40 @@
 {
-    "name": "Основы HTML",
+    "name": "Основы CSS",
     "steps": [
         {
-            "name": "Видео",
-            "type": "video",
-            "id": "C-n5rvf9Vgc"
+            "name": "Введение в CSS",
+            "type": "text",
+            "id": 9
         },
         {
-            "name": "CSS",
+            "name": "Практика: Визитка",
+            "type": "code-task",
+            "id": 16
+        },
+        {
+            "name": "Приоритет правил",
+            "type": "text",
+            "id": 10
+        },
+        {
+            "name": "Практика: Другие приоритеты",
+            "type": "code-task",
+            "id": 17
+        },
+        {
+            "name": "Цепочка селекторов",
+            "type": "text",
+            "id": 11
+        },
+        {
+            "name": "Практика: Светофор",
+            "type": "code-task",
+            "id": 18
+        },
+        {
+            "name": "Доп. материалы",
             "type": "digest",
-            "id": 43
-        },
-        {
-            "name": "Как работают браузеры?",
-            "type": "external",
-            "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
-        },
-        {
-            "name": "Bootstrap",
-            "type": "digest",
-            "id": 44
+            "id": 54
         }
     ]
 }

@@ -1,0 +1,12 @@
+{
+  "firstName": "Олег",
+  "secondName": "Александров",
+  "groupHourPrice": 7,
+  "personalHourPrice": 16,
+  "vectors": [36, 39],
+  "socialNetworks": [
+    { "link": "https://github.com/olegthelilfix", "icon": "fa fa-github" }
+  ],
+  "technologies": ["JavaScript", "Java", "Spring", "PostgreSQL"],
+  "avatarURL": "https://user-images.githubusercontent.com/4215285/54648060-edc29880-4ab5-11e9-8a81-322b43639134.png"
+}
