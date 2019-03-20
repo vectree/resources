@@ -26,7 +26,7 @@
        <input class="form-control" type="number" name="phone" placeholder="Введите свой номер телефона"/>
        <label for="race">Введите свою расу</label>
        <input class="form-control" type="text" id="race" name="race" value="Человек"/>
-       <button class="btn btn-success" type="submit">Отправить заявку!</button>
+       <button class="btn btn-success btn-fill" type="submit">Отправить заявку!</button>
     </form>
 </div>
 

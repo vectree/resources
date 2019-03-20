@@ -1,4 +1,5 @@
 {
+  "separately": true,
   "ignoreSources": [
     "scripts.js"
   ]
