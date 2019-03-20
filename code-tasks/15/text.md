@@ -5,18 +5,18 @@
 
 <div class="html reset">
     <table>
-        <tr>
-            <td>
-                <div>
-                    <img height="40" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
-                    <div>ФИО</div>
-                    <div>CSS-разработчик</div>
-                </div>
-            </td>
-            <td>
-                88005553535
-            </td>
-        </tr>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                        <img height="40" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
+                        <div>ФИО</div>
+                        <div>CSS-разработчик</div>
+                    </div>
+                </td>
+                <td>88005553535</td>
+            </tr>
+        </tbody>
     </table>
 <div>
 
@@ -24,18 +24,18 @@
 
 <div class="html reset">
     <table style="background: #fff; border-radius: 4px;">
-        <tr>
-            <td>
-                <div>
-                    <img height="40" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
-                    <div>ФИО</div>
-                    <div>Суперразработчик</div>
-                </div>
-            </td>
-            <td>
-                88005553535
-            </td>
-        </tr>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                        <img height="40" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
+                        <div>ФИО</div>
+                        <div>Суперразработчик</div>
+                    </div>
+                </td>
+                <td>88005553535</td>
+            </tr>
+        </tbody>
     </table>
 <div>
 
@@ -43,18 +43,18 @@
 
 <div class="html reset">
     <table style="background: #fff; border-radius: 4px;">
-        <tr>
-            <td>
-                <div>
-                    <img style="border-radius: 50%" height="40" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
-                    <div>ФИО</div>
-                    <div>Суперразработчик</div>
-                </div>
-            </td>
-            <td>
-                88005553535
-            </td>
-        </tr>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                        <img style="border-radius: 50%" height="40" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
+                        <div>ФИО</div>
+                        <div>Суперразработчик</div>
+                    </div>
+                </td>
+                <td>88005553535</td>
+            </tr>
+        </tbody>
     </table>
 <div>
 
@@ -65,18 +65,18 @@
 
 <div class="html reset">
     <table style="border-radius: 4px; background: #fff; padding: 10px;">
-        <tr>
-            <td>
-                <div>
-                    <img height="40" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
-                    <div style="color: #000;">ФИО</div>
-                    <div style="color: #555; font-weight: bold; font-size: 12px;">Суперразработчик</div>
-                </div>
-            </td>
-            <td>
-                88005553535
-            </td>
-        </tr>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                        <img height="40" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
+                        <div style="color: #000;">ФИО</div>
+                        <div style="color: #555; font-weight: bold; font-size: 12px;">Суперразработчик</div>
+                    </div>
+                </td>
+                <td>88005553535</td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -90,18 +90,18 @@
 
 <div class="html reset">
     <table style="border-radius: 4px; background: #fff; padding: 10px;">
-        <tr>
-            <td>
-                <div>
-                    <img height="40" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
-                    <div style="color: #000;">Влад Скуришин</div>
-                    <div style="color: #555; font-weight: bold; font-size: 12px;">CSS-разработчик</div>
-                </div>
-            </td>
-            <td style="color: #000; background: #eee; border-radius: 4px; font-size: 20px;">
-                88005553535
-            </td>
-        </tr>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                        <img height="40" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/4215285?v=4">
+                        <div style="color: #000;">Влад Скуришин</div>
+                        <div style="color: #555; font-weight: bold; font-size: 12px;">CSS-разработчик</div>
+                    </div>
+                </td>
+                <td style="color: #000; background: #eee; border-radius: 4px; font-size: 20px;">88005553535</td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
