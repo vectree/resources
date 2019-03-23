@@ -1,0 +1,30 @@
+{
+  "topicId": 19,
+  "topicName": "Introduction to Java",
+  "questions": [
+    {
+      "question": "Какие типы данных являются целочисленными?",
+      "answers": [
+        "boolean",
+        "char",
+        "long",
+        "int"
+      ],
+      "correctAnswers": [
+        1, 2, 3
+      ]
+    },
+    {
+      "question": "Как в языке програмированния Java объявляются переменные",
+      "answers": [
+        "Имя_переменной : Тип;",
+        "Тип Имя_переменной;",
+        "let Имя_переменной;",
+        "Имя_переменной;"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    }
+  ]
+}
