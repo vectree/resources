@@ -3,10 +3,21 @@
   "secondName": "Лаврентьев",
   "groupHourPrice": 7,
   "personalHourPrice": 16,
-  "vectors": [38],
-  "socialNetworks": [
-    { "link": "http://github.com/xthelavr", "icon": "fa fa-github" }
+  "vectors": [
+    38
   ],
-  "technologies": ["Go", "JavaScript", "React", "Node"],
+  "socialNetworks": [
+    {
+      "link": "http://github.com/xthelavr/",
+      "icon": "fa fa-github"
+    }
+  ],
+  "technologies": [
+    "Go",
+    "Docker",
+    "Kubernetes",
+    "NoSQL",
+    "Blockchain"
+  ],
   "avatarURL": "https://user-images.githubusercontent.com/4215285/54647977-9b817780-4ab5-11e9-8bd7-07ca41f045d0.png"
 }
