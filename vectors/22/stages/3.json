@@ -1,5 +1,20 @@
 {
   "name": "Английский",
-  "type": "text",
-  "id": 18
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 18
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "KSQKd7W6xJ0"
+    },
+    {
+      "name": "Доп. материалы",
+      "type": "digest",
+      "id": 41
+    }
+  ]
 }
