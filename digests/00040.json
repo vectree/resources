@@ -12,19 +12,6 @@
         "title": "Чем занимаются программисты",
         "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=kvIFJNafsC4"
-      },
-      {
-        "creator": "Hexlet",
-        "title": "Основы программирования",
-        "isAdvised": true,
-        "url": "https://www.youtube.com/watch?v=rrRZZ_3licM&index=1&list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33",
-        "sections": "с 1 по 2 урок"
-      },
-      {
-        "creator": "CS50",
-        "title": "Основы программирования",
-        "isAdvised": true,
-        "url": "https://www.youtube.com/watch?v=SW_UCzFO7X0"
       }
     ],
     "Статьи": [
@@ -58,21 +45,6 @@
         "title": "Мотивация",
         "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=G8M4zM-lbvA&index=1&list=PLJOe7BmEsRtLXM3UnEhvEWDU3ZBe-Us9r"
-      }
-    ],
-    "Интерактивные сервисы": [
-      {
-        "creator": "Codecombat",
-        "title": "Основы программирования",
-        "isAdvised": true,
-        "url": "https://codecombat.com/"
-      },
-      {
-        "creator": "Codecademy",
-        "title": "Основы программирования",
-        "isAdvised": true,
-        "isEnglish": true,
-        "url": "https://www.codecademy.com/"
       }
     ],
     "Онлайн-курсы": [
