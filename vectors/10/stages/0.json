@@ -2,7 +2,17 @@
   "name": "Введение в Java",
   "steps": [
     {
-      "name": "Введение: Часть 1",
+      "name": "Введение",
+      "type": "text",
+      "id": 21
+    },
+    {
+      "name": "Переменные и типы",
+      "type": "text",
+      "id": 22
+    },
+    {
+      "name": "Доп. материалы",
       "type": "digest",
       "id": 0
     },
@@ -12,7 +22,7 @@
       "url": "https://codefights.com/arcade/intro/"
     },
     {
-      "name": "Введение: Часть 2",
+      "name": "Доп. материалы",
       "type": "digest",
       "id": 1
     }
