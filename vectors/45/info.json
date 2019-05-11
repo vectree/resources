@@ -6,9 +6,9 @@
     "Developer Tools",
     "DevTools"
   ],
-  "category": "Frontend",
+  "category": "Веб-разработка",
   "type": "vector",
   "icon": "fas fa-file-code text-primary",
-  "name": "Веб-разработка",
+  "name": "Фронтенд",
   "smallText": "В этом разделе вы потратите время на знакомство с основными клиентскими (используемыми в браузерах) технолониями, такими как HTML, CSS и Javascript."
 }

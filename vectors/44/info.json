@@ -5,9 +5,9 @@
     "VCS",
     "Контроль версий"
   ],
-  "category": "Основы Git",
+  "category": "Веб-разработка",
   "type": "vector",
   "icon": "fab fa-github-alt text-success",
-  "name": "Веб-разработка",
+  "name": "Основы Git",
   "smallText": "В данном векторе вы изучите основы Git и то, каким образом вы можете загрузить ваши проекты на Github."
 }
