@@ -1,0 +1,14 @@
+{
+  "topics": [
+    "Frontend",
+    "HTML",
+    "CSS",
+    "Developer Tools",
+    "DevTools"
+  ],
+  "category": "Frontend",
+  "type": "vector",
+  "icon": "fas fa-file-code text-primary",
+  "name": "Веб-разработка",
+  "smallText": "В этом разделе вы потратите время на знакомство с основными клиентскими (используемыми в браузерах) технолониями, такими как HTML, CSS и Javascript."
+}
