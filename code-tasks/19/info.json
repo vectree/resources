@@ -1,0 +1,7 @@
+{
+  "separately": true,
+  "checks": [],
+  "ignoreSources": [
+    "scripts.js"
+  ]
+}
