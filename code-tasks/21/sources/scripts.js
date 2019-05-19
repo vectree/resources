@@ -5,7 +5,7 @@ function run () {
     const firstName = "Иван";
     const lastName = "Петров";
     
-    const greeting = "Привет! Меня зовут" + firstName + " " + lastName + " и мне " + (thisYear - birthYear) + " лет.";
+    const greeting = "Привет! Меня зовут " + firstName + " " + lastName + " и мне " + (thisYear - birthYear) + " лет.";
     
     return greeting; // возвращаем приветствие.
 }
