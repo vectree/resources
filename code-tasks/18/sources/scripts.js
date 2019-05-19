@@ -1,4 +1,5 @@
-const a = 1;
-const b = 1;
-
-console.log("a" + "b");
+// функция run с параметрами a, b
+function run (a, b) {
+    // возвращает значение
+    return "a" + "b";
+}

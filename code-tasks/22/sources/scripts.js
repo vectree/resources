@@ -1,3 +1,6 @@
-let number = prompt('Какое ваше любимое число?');
-
-console.log(number);
+// number - количество баллов
+function run (number) {
+    // возвращаем оценку,
+    // вам нужно изменить данный код
+    return number;
+}

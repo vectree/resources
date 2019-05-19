@@ -1,7 +1,10 @@
-const number = prompt("Введите число");
-
-if (number == 6) {
-  console.log('true');
-} else {
-  console.log('false');
+// получаем число на вход - number
+function run (number) {
+  if (number == 6) {
+    // возвращаем true из функции
+    return true;
+  } else {
+    // возвращаем false из функции
+    return false;
+  }
 }

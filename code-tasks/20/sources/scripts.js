@@ -1,7 +1,10 @@
-const a =
-const b =
-const c =
-const d =
-const e =
+// в функцию ничего не передается
+function run () {
+    const a =
+    const b =
+    const c =
+    const d =
+    const e =
 
-console.log({a, b, c, d, e});
+    return {a, b, c, d, e}; // возвращаем результат
+}

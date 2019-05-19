@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "JavaScript",
+    "JS",
+    "DOM",
+    "Основы",
+    "Язык программирования",
+    "Чистый код",
+    "DevTools"
+  ],
+  "category": "Веб-разработка",
+  "type": "vector",
+  "icon": "fab fa-js-square text-danger",
+  "name": "Основы JavaScript"
+}
