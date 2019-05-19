@@ -1,0 +1,7 @@
+{
+  "separately": true,
+  "checks": [{"output": { "a": 9, "b": 66, "c": 1, "d": -8, "e": "68"}}],
+  "ignoreSources": [
+    "scripts.js"
+  ]
+}

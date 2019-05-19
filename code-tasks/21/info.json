@@ -1,0 +1,7 @@
+{
+  "separately": true,
+  "checks": [{ "output": "Привет! Меня зовут Иван Петров и мне 17 лет."}],
+  "ignoreSources": [
+    "scripts.js"
+  ]
+}
