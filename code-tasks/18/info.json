@@ -3,6 +3,5 @@
   "checks": [
     { "output": 2, "input": [1, 1], "multiply": true },
     { "output": 5, "input": [3, 2], "multiply": true }
-  ],
-  "ignoreSources": ["scripts.js"]
+  ]
 }
