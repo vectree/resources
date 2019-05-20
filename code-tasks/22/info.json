@@ -1,4 +1,4 @@
 {
   "separately": true,
-  "checks": [{ "output": 50, "input": 13 }, { "input": 25, "output": 74 }]
+  "checks": [{ "output": 74, "input": 13 }, { "input": 25, "output": 50 }]
 }
