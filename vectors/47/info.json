@@ -1,5 +1,14 @@
 {
-  "topics": ["JavaScript", "Ruby", "Начало", "Новичку", "Старт", "HTML", "CSS", "Rails"],
+  "topics": [
+    "JavaScript",
+    "Ruby",
+    "Начало",
+    "Новичку",
+    "Старт",
+    "HTML",
+    "CSS",
+    "Rails"
+  ],
   "type": "path",
   "name": "Веб-Разработка",
   "icon": "fas fa-code text-success",
@@ -9,11 +18,5 @@
   "complexity": 1,
   "mentors": true,
   "time": "1 месяц",
-  "vectors": [
-    22,
-    43,
-    44,
-    45,
-    46
-  ]
+  "vectors": [22, 43, 44, 45, 46, 48]
 }

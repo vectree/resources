@@ -1,0 +1,40 @@
+{
+  "name": "Основы",
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 32
+    },
+    {
+      "name": "Задача 1",
+      "type": "code-task",
+      "id": 18
+    },
+    {
+      "name": "Задача 2",
+      "type": "code-task",
+      "id": 19
+    },
+    {
+      "name": "Задача 3",
+      "type": "code-task",
+      "id": 20
+    },
+    {
+      "name": "Задача 4",
+      "type": "code-task",
+      "id": 21
+    },
+    {
+      "name": "Задача 5",
+      "type": "code-task",
+      "id": 22
+    },
+    {
+      "name": "Задача 6",
+      "type": "code-task",
+      "id": 23
+    }
+  ]
+}
