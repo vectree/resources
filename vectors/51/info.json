@@ -1,0 +1,20 @@
+{
+  "topics": [
+    "Ruby",
+    "Backend",
+    "ООП",
+    "Структуры данных",
+    "Git",
+    "Бэкенд",
+    "Сервер"
+  ],
+  "type": "path",
+  "name": "Разработчик Ruby",
+  "icon": "fas fa-gem text-danger",
+  "category": "В разработке",
+  "salary": "до 10000 руб.",
+  "complexity": 1,
+  "mentors": true,
+  "time": "1 месяц",
+  "vectors": [50]
+}
