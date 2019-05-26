@@ -1,0 +1,14 @@
+{
+  "topics": [
+    "TDD",
+    "Test Driven Development",
+    "RSpec",
+    "Тестирование",
+    "Unit-тестирование"
+  ],
+  "category": "Ruby",
+  "type": "vector",
+  "icon": "fas fa-check text-success",
+  "name": "Тестирование",
+  "smallText": "В данном векторе поговорим о тестировании и разберемся почему оно чрезвычайно полезно."
+}
