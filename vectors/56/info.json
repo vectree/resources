@@ -1,8 +1,8 @@
 {
-  "topics": ["Git", "Github", "VCS", "Контроль версий"],
+  "topics": ["Git", "Ruby", "Заключение", "Финальный проект"],
   "category": "Ruby",
   "type": "vector",
-  "icon": "fab fa-github-alt text-danger",
-  "name": "Git",
+  "icon": "fas fa-medal text-warning",
+  "name": "Заключение",
   "smallText": "Вы сделали огромный скачок, теперь остается вопрос объединения всего этого в единое целое для создания чего-то более существенного."
 }
