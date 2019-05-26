@@ -13,7 +13,7 @@
   "icon": "fas fa-gem text-danger",
   "category": "В разработке",
   "salary": "до 10000 руб.",
-  "complexity": 1,
+  "complexity": 2,
   "mentors": true,
   "time": "1 месяц",
   "vectors": [50, 52, 53, 54, 55]
