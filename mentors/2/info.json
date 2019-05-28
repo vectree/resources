@@ -1,8 +1,6 @@
 {
   "firstName": "Олег",
   "secondName": "Александров",
-  "groupHourPrice": 7,
-  "personalHourPrice": 16,
   "vectors": [36, 39],
   "socialNetworks": [
     { "link": "https://github.com/olegthelilfix", "icon": "fa fa-github" }
