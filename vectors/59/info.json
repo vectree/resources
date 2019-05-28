@@ -1,0 +1,7 @@
+{
+  "topics": ["Финал", "Конец", "Основы"],
+  "category": "Веб-разработка",
+  "type": "vector",
+  "icon": "fas fa-award text-warning",
+  "name": "Заключение"
+}
