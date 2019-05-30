@@ -1,0 +1,7 @@
+{
+  "topics": ["Rails", "Ruby", "Фреймворк", "База данных", "Active Record"],
+  "category": "Rails",
+  "type": "vector",
+  "img": "/img/rails.png",
+  "name": "Active Record"
+}
