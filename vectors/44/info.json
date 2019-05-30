@@ -1,13 +1,7 @@
 {
-  "topics": [
-    "Git",
-    "Github",
-    "VCS",
-    "Контроль версий"
-  ],
+  "topics": ["Git", "Github", "VCS", "Контроль версий"],
   "category": "Веб-разработка",
   "type": "vector",
   "icon": "fab fa-github-alt text-success",
-  "name": "Основы Git",
-  "smallText": "В данном векторе вы изучите основы Git и то, каким образом вы можете загрузить ваши проекты на Github."
+  "name": "Основы Git"
 }
