@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "Rails",
+    "Ruby",
+    "Фреймворк",
+    "Представление",
+    "Контроллер",
+    "MVC",
+    "Основы"
+  ],
+  "category": "Rails",
+  "type": "vector",
+  "img": "/img/rails.png",
+  "name": "Основы"
+}
