@@ -2,19 +2,19 @@
   "topics": [
     "Ruby",
     "Backend",
-    "ООП",
-    "Структуры данных",
-    "Git",
+    "Rails",
+    "Фреймворк",
+    "MVC",
     "Бэкенд",
     "Сервер"
   ],
   "type": "path",
-  "name": "Ruby",
-  "icon": "fas fa-gem text-danger",
+  "name": "Ruby on Rails",
+  "img": "/img/rails.png",
   "category": "В разработке",
-  "salary": "до 10000 руб.",
+  "salary": "до 15000 руб.",
   "complexity": 2,
   "mentors": true,
   "time": "1 месяц",
-  "vectors": [50, 52, 53, 54, 55, 56]
+  "vectors": [60, 61]
 }

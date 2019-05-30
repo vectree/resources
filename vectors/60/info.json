@@ -1,0 +1,7 @@
+{
+  "topics": ["Rails", "Ruby", "Фреймворк", "MVC", "Старт"],
+  "category": "Rails",
+  "type": "vector",
+  "icon": "fas fa-flag text-success",
+  "name": "Что впереди?"
+}

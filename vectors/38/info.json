@@ -1,6 +1,6 @@
 {
   "topics": ["Go", "Backend", "Язык программирования"],
-  "name": "Разработчик Go",
+  "name": "Go",
   "img": "/img/golang.png",
   "salary": "от 15000 руб.",
   "complexity": 2,

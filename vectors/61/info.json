@@ -1,0 +1,7 @@
+{
+  "topics": ["Rails", "Ruby", "Фреймворк", "MVC", "Введение"],
+  "category": "Rails",
+  "type": "vector",
+  "img": "/img/rails.png",
+  "name": "Введение"
+}
