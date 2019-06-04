@@ -1,0 +1,7 @@
+{
+  "topics": ["Rails", "Ruby", "Аутентификация", "Формы", "Сессия"],
+  "category": "Rails",
+  "type": "vector",
+  "icon": "fas fa-lock text-info",
+  "name": "Формы и Аутентификация"
+}
