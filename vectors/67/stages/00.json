@@ -1,0 +1,20 @@
+{
+  "name": "API",
+  "steps": [
+    {
+      "name": "Основы",
+      "type": "text",
+      "id": 74
+    },
+    {
+      "name": "Внешний API",
+      "type": "text",
+      "id": 75
+    },
+    {
+      "name": "Проект",
+      "type": "task",
+      "id": 141
+    }
+  ]
+}
