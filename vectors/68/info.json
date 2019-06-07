@@ -2,6 +2,7 @@
   "topics": [
     "HTML",
     "CSS",
+    "Bootstrap",
     "Верстка",
     "Дизайн",
     "UX",
@@ -16,5 +17,5 @@
   "complexity": 1,
   "mentors": true,
   "time": "1 месяц",
-  "vectors": [69, 70, 71, 72]
+  "vectors": [69, 70, 71, 72, 73]
 }
