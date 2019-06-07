@@ -1,0 +1,7 @@
+{
+  "topics": ["HTML", "CSS", "Ввод", "Верстка", "Вывод"],
+  "category": "HTML и CSS",
+  "type": "vector",
+  "img": "/img/html.png",
+  "name": "Вывод / Ввод"
+}
