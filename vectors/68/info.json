@@ -10,11 +10,11 @@
   ],
   "type": "path",
   "name": "HTML и CSS",
-  "icon": "fas fa-file-code text-success",
+  "icon": "fas fa-file-code text-info",
   "category": "В разработке",
   "salary": "до 10000 руб.",
   "complexity": 1,
   "mentors": true,
   "time": "1 месяц",
-  "vectors": [69, 70]
+  "vectors": [69, 70, 71]
 }

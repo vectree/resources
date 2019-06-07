@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "HTML",
+    "CSS",
+    "Блочная модель",
+    "Основы",
+    "Градиент",
+    "Фон",
+    "Позиционирование"
+  ],
+  "category": "HTML и CSS",
+  "type": "vector",
+  "img": "/img/css.png",
+  "name": "CSS"
+}
