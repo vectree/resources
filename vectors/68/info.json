@@ -1,0 +1,20 @@
+{
+  "topics": [
+    "HTML",
+    "CSS",
+    "Верстка",
+    "Дизайн",
+    "UX",
+    "Responsive",
+    "Адаптивная"
+  ],
+  "type": "path",
+  "name": "HTML и CSS",
+  "icon": "fas fa-file-code text-success",
+  "category": "В разработке",
+  "salary": "до 10000 руб.",
+  "complexity": 1,
+  "mentors": true,
+  "time": "1 месяц",
+  "vectors": [69]
+}
