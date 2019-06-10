@@ -1,5 +1,5 @@
 {
-  "topics": ["HTML", "CSS", "Ввод", "Верстка", "Вывод"],
+  "topics": ["HTML", "Ввод", "Верстка", "Вывод"],
   "category": "HTML и CSS",
   "type": "vector",
   "img": "/img/html.png",
