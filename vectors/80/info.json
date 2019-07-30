@@ -1,0 +1,7 @@
+{
+  "topics": ["Объекты", "Паттерны", "Классы", "Модули", "Принципы ООП"],
+  "category": "JavaScript",
+  "img": "/img/javascript.png",
+  "type": "vector",
+  "name": "Организация"
+}

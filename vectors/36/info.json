@@ -3,7 +3,7 @@
   "type": "path",
   "name": "Java",
   "img": "/img/java-icon.png",
-  "category": "Backend",
+  "category": "Vectree",
   "text": "Основная задача данной специализации обучить основным навыкам, необходимым для Junior Java-Разработчика, предоставить возможность разработать проект в команде и провести реальной интервью с ментором. \nПо окончанию этапа тестирования, вы должны разобраться с Java, Java EE, Spring, Postgres SQL, Junit, Git.",
   "salary": "до 30000 руб.",
   "complexity": 3,

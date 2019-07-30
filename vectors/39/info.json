@@ -1,7 +1,7 @@
 {
   "topics": ["JavaScript", "Frontend", "Язык программирования"],
   "name": "JavaScript",
-  "category": "Frontend",
+  "category": "Vectree",
   "img": "/img/javascript.png",
   "salary": "до 20000 руб.",
   "complexity": 1,

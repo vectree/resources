@@ -11,7 +11,7 @@
   "type": "path",
   "name": "Ruby",
   "icon": "fas fa-gem text-danger",
-  "category": "В разработке",
+  "category": "The Odin Project",
   "salary": "до 10000 руб.",
   "complexity": 2,
   "mentors": true,

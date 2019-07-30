@@ -11,7 +11,7 @@
   "type": "path",
   "name": "Ищем работу",
   "icon": "fas fa-briefcase text-warning",
-  "category": "В разработке",
+  "category": "The Odin Project",
   "salary": "до 20000 руб.",
   "complexity": 1,
   "mentors": true,
