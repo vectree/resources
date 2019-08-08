@@ -18,14 +18,54 @@
       {
         "creator": "Habrahabr",
         "title": "Чем занимаются программисты",
-        "url": "https://habrahabr.ru/post/155429/",
-        "isAdvised": true
+        "url": "https://habrahabr.ru/post/155429/"
+      },
+      {
+        "creator": "Quora",
+        "title": "How can I Become a Really Good Web Developer?",
+        "url": "http://www.quora.com/Computer-Programming/How-can-I-become-a-really-good-Web-Developer-starting-from-now-at-age-20-before-age-25",
+        "isEnglish": true
+      },
+      {
+        "creator": "Quora",
+        "title": "What makes a great web developer?",
+        "url": "http://www.quora.com/What-makes-a-great-web-developer",
+        "isEnglish": true
+      },
+      {
+        "creator":"Jared the Nerd",
+        "url": "http://jaredthenerd.com/2013/05/What-Makes-A-Good-Developer/",
+        "title": "Jared the Nerd: What makes a good web developer?",
+        "isEnglish": true
+      },
+      {
+        "creator": "Medium",
+        "url": "https://medium.com/learning-to-code/565fc9dcb329",
+        "title": "Things I Wish Someone Had Told Me When I Was Learning How To Code",
+        "isEnglish": true
+      },
+      {
+        "creator": "Code Quizzes",
+        "url": "https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/",
+        "title": "Deliberate Programming Practice",
+        "isEnglish": true
       },
       {
         "creator": "Habrahabr",
         "title": "Чем занимаются программисты",
-        "url": "https://habrahabr.ru/post/237133/",
+        "url": "https://habrahabr.ru/post/237133/"
+      },
+      {
+        "url": "https://habr.com/ru/post/203574/",
+        "creator": "Habrahabr",
+        "title": "Что делает хорошего программиста хорошим?",
         "isAdvised": true
+      },
+      {
+        "url": "https://ain.ua/2015/05/22/ne-verte-tem-kto-govorit-chto-nauchitsya-programmirovat-legko-priznaniya-insajdera/",
+        "creator": "ain",
+        "isAdvised": true,
+        "title": "Не верьте тем, кто говорит, что научиться программировать легко"
       },
       {
         "creator": "Habrahabr",
@@ -37,13 +77,11 @@
       {
         "creator": "ТО \"420\"",
         "title": "Юмор",
-        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=S1jSFCRIFgU"
       },
       {
         "creator": "Code.org",
         "title": "Мотивация",
-        "isAdvised": true,
         "url": "https://www.youtube.com/watch?v=G8M4zM-lbvA&index=1&list=PLJOe7BmEsRtLXM3UnEhvEWDU3ZBe-Us9r"
       }
     ],
