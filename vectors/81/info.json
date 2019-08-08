@@ -1,0 +1,19 @@
+{
+  "topics": [
+    "JavaScript",
+    "HTML",
+    "Ruby",
+    "Rails",
+    "CSS",
+    "Поиск работы"
+  ],
+  "type": "path",
+  "name": "Ruby Full Stack",
+  "img": "/img/tor.svg",
+  "category": "The Odin Project",
+  "salary": "до 40000 руб.",
+  "complexity": 3,
+  "mentors": true,
+  "time": "6 месяцев",
+  "vectors": [47, 51, 62, 68, 78, 75]
+}
