@@ -1,15 +1,20 @@
 {
-  "name": "Введение в Go",
+  "name": "Advanced Go",
   "steps": [
     {
       "name": "Доп. материалы",
       "type": "digest",
-      "id": 24
+      "id": 26
     },
     {
-      "name": "Go на CodeFights",
+      "name": "Задачи: Go на CodeWars",
       "type": "external",
-      "url": "https://codefights.com/arcade/intro/"
+      "url": "https://www.codewars.com/kata/search/go?q=&beta=false"
+    },
+    {
+      "name": "Менеджер зависимостей",
+      "type": "digest",
+      "id": 28
     }
   ]
 }

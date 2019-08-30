@@ -1,0 +1,7 @@
+{
+  "topics": ["Go", "Указатели", "Синтаксис", "Основы", "Введение"],
+  "category": "Go",
+  "name": "Введение в Go",
+  "type": "vector",
+  "img": "/img/golang.png"
+}
