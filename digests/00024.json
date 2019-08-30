@@ -37,12 +37,6 @@
     ],
     "Статьи": [
       {
-        "creator": "Golang-book",
-        "title": "Все необходимые темы",
-        "url": "http://golang-book.ru/",
-        "isAdvised": true
-      },
-      {
         "creator": "Habrahabr",
         "title": "Все необходимые темы",
         "isAdvised": true,
