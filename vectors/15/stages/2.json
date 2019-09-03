@@ -1,20 +1,55 @@
 {
-  "name": "Advanced Go",
+  "name": "Практика: Go Skimmer",
   "steps": [
     {
-      "name": "Доп. материалы",
-      "type": "digest",
-      "id": 26
+      "name": "Подготовка",
+      "type": "task",
+      "id": 51
     },
     {
-      "name": "Задачи: Go на CodeWars",
-      "type": "external",
-      "url": "https://www.codewars.com/kata/search/go?q=&beta=false"
+      "name": "Описание",
+      "type": "task",
+      "id": 52
     },
     {
-      "name": "Менеджер зависимостей",
-      "type": "digest",
-      "id": 28
+      "name": "Martini",
+      "type": "task",
+      "id": 53
+    },
+    {
+      "name": "Модель",
+      "type": "task",
+      "id": 54
+    },
+    {
+      "name": "Хранилище",
+      "type": "task",
+      "id": 55
+    },
+    {
+      "name": "Тесты",
+      "type": "task",
+      "id": 56
+    },
+    {
+      "name": "Интерфейс",
+      "type": "task",
+      "id": 57
+    },
+    {
+      "name": "Приватность",
+      "type": "task",
+      "id": 58
+    },
+    {
+      "name": "Чистка",
+      "type": "task",
+      "id": 59
+    },
+    {
+      "name": "Redis",
+      "type": "task",
+      "id": 60
     }
   ]
 }
