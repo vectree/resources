@@ -1,0 +1,52 @@
+{
+  "topics": [
+    "Мотивация",
+    "Подготовка",
+    "Учеба",
+    "Процесс"
+  ],
+  "resources": {
+    "Статьи": [
+      {
+        "creator": "Mark Manson",
+        "title": "Контроль вдохновения и мотивации",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://markmanson.net/do-something"
+      },
+      {
+        "creator": "FreeCodeCamp",
+        "title": "Изучение программирования, когда стемнеет",
+        "isAdvised": true,
+        "isEnglish": true,
+        "url": "https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje"
+      },
+      {
+        "creator": "VikingCodeSchool",
+        "title": "Почему изучение программирования, так сложно",
+        "isEnglish": true,
+        "isAdvised": true,
+        "url": "https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard"
+      },
+      {
+        "creator": "Tproger",
+        "title": "Почему так тяжело учиться программировать",
+        "isAdvised": true,
+        "url": "https://tproger.ru/translations/why-programming-is-hard/"
+      },
+      {
+        "creator": "Hexlet",
+        "title": "Как учиться программировать.",
+        "isAdvised": true,
+        "url": "https://ru.hexlet.io/blog/posts/kak-uchitsya-programmirovat-6-veschei-kotorie-ya-ponyal-uchas-na-hexlet"
+      }
+    ],
+    "Дополнительно": [
+      {
+        "url": "http://klava.org/",
+        "title": "Тренажер набора текста",
+        "section": "Рекомендуем уделять 5 минут каждый день после запуска компьютера тем, у кого низкая скорость набора текста"
+      }
+    ]
+  }
+}

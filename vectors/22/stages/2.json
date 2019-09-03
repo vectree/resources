@@ -1,5 +1,20 @@
 {
   "name": "Мотивация",
-  "type": "text",
-  "id": 14
+  "steps": [
+    {
+      "type": "video",
+      "id": "MmoVDbSyx14",
+      "name": "Видео"
+    },
+    {
+      "type": "text",
+      "id": 14,
+      "name": "Конспект"
+    },
+    {
+      "type": "digest",
+      "id": 55,
+      "name": "Доп. ресурсы"
+    }
+  ]
 }
