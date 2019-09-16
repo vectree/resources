@@ -1,0 +1,7 @@
+{
+  "topics": ["Асинхронность", "API", "async", "promise", "await", "json"],
+  "category": "JavaScript",
+  "img": "/img/javascript.png",
+  "type": "vector",
+  "name": "Асинхронность и API"
+}
