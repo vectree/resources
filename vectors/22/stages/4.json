@@ -1,5 +1,15 @@
 {
   "name": "Сообщество",
-  "type": "text",
-  "id": 15
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 15
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "t05Hkrb98e0"
+    }
+  ]
 }
