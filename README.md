@@ -1,4 +1,4 @@
-# [vectree](http://vectree.ru/)
+# [Vectree - платформа будущего программиста](http://vectree.ru/)
 
 [![license][license-badge]][LICENSE] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/96071bdddd4548eba86b955593671ec4)](https://www.codacy.com/app/vectree/resources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vectree/resources&amp;utm_campaign=Badge_Grade) 
 ![Join the chat at https://gitter.im/vectree-chat/Lobby](https://img.shields.io/discord/436599210427547658?color=%23eb4e4e&label=discord&logo=discord&logoColor=white)
