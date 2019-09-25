@@ -1,0 +1,60 @@
+{
+  "topics": [
+    "Интернет",
+    "DNS",
+    "Пакеты",
+    "Клиент",
+    "Сервер"
+  ],
+  "resources": {
+    "Видео":[
+      {
+        "creator": "World Science Festival",
+        "url": "https://www.youtube.com/watch?v=ewrBalT_eBM&feature",
+        "title": "A Packet's Tale. How Does the Internet Work?",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "CS50",
+        "url": "https://javarush.ru/quests/lectures/questharvardcs50.level06.lecture01",
+        "title": "Лекция наикрутейшего курса о веб-программировании, HTTP, TCP/IP.",
+        "isAdvised": true,
+      }
+    ],
+    "Книги":[
+      {
+        "creator": "LaunchSchool",
+        "url": "https://launchschool.com/books/http",
+        "title": "Introduction to HTTP",
+        "isAdvised": true,
+        "section": "Данная книга также рассматривает вопросы, с которыми мы встретимся далее в траектории, например, инструменты разработчика и безопасность. Дополнительно вы сможете изучить HTTP-инструменты, которые будут полезны в будущем.",
+        "isEnglish": true
+      },
+      {
+        "creator": "Andrew Blum",
+        "url": "https://www.amazon.co.uk/dp/B007TB5SKA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+        "title": "Tubes: Behind the Scenes at the Internet",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Подкасты": [
+      {
+        "creator": "Security Now: Часть 1",
+        "url": "https://twit.tv/shows/security-now/episodes/25?autostart=false",
+        "title": "How the web works",
+        "isAdvised": true,
+        "section": "Начинается с 8:30",
+        "isEnglish": true
+      },
+      {
+        "creator": "Security Now: Часть 2",
+        "url": "https://twit.tv/shows/security-now/episodes/26?autostart=false",
+        "title": "How the web works",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}

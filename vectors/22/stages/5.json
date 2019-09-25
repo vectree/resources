@@ -10,6 +10,11 @@
       "name": "Видео",
       "type": "video",
       "id": "gYLhDJq0EFM"
+    },
+    {
+      "name": "Доп. материалы",
+      "type": "digest",
+      "id": 56
     }
   ]
 }
