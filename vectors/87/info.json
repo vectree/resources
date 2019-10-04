@@ -1,0 +1,12 @@
+{
+  "topics": ["jQuery", "JavaScript", "NodeJS", "Ajax", "Jasmine"],
+  "type": "path",
+  "name": "JavaScript и jQuery",
+  "img": "/img/jquery.png",
+  "category": "The Odin Project",
+  "salary": "до 20000 руб.",
+  "complexity": 3,
+  "mentors": true,
+  "time": "3 месяца",
+  "vectors": [88]
+}
