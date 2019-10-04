@@ -1,6 +1,6 @@
 {
   "topics": ["JavaScript", "Ajax", "jQuery", "Формы", "Валидация"],
-  "category": "JavaScript и jQuery",
+  "category": "jQuery",
   "img": "/img/jquery.png",
   "type": "vector",
   "name": "Ajax, jQuery и формы"

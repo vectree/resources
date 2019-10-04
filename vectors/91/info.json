@@ -1,6 +1,6 @@
 {
   "topics": ["JavaScript", "Canvas", "Callback", "Обратные вызовы", "Браузер"],
-  "category": "JavaScript и jQuery",
+  "category": "jQuery",
   "img": "/img/jquery.png",
   "type": "vector",
   "name": "Работа браузера"
