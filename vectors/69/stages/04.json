@@ -1,5 +1,14 @@
 {
   "name": "Проект: Youtube",
-  "type": "task",
-  "id": 144
+  "steps": [
+    {
+      "type": "task",
+      "id": 144,
+      "name": "Задание"
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }

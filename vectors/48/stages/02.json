@@ -1,5 +1,14 @@
 {
   "name": "Проект: Ruby",
-  "type": "task",
-  "id": 119
+  "steps": [
+    {
+      "type": "task",
+      "id": 119,
+      "name": "Задание"
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }

@@ -1,5 +1,14 @@
 {
   "name": "Проект: jQuery и DOM",
-  "type": "task",
-  "id": 163
+  "steps": [
+    {
+      "type": "task",
+      "id": 163,
+      "name": "Задание"
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }

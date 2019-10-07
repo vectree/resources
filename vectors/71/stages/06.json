@@ -1,5 +1,14 @@
 {
   "name": "Проект: Apple",
-  "type": "task",
-  "id": 147
+  "steps": [
+    {
+      "type": "task",
+      "id": 147,
+      "name": "Задание"
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }
