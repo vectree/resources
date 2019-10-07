@@ -1,5 +1,14 @@
 {
   "name": "Шахматы",
-  "type": "task",
-  "id": 129
+  "steps": [
+    {
+      "name": "Задание",
+      "type": "task",
+      "id": 129
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }

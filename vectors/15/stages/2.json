@@ -50,6 +50,10 @@
       "name": "Redis",
       "type": "task",
       "id": 60
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
     }
   ]
 }
