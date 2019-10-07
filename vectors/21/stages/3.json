@@ -15,6 +15,10 @@
       "name": "C++",
       "type": "task",
       "id": 91
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
     }
   ]
 }

@@ -20,6 +20,10 @@
       "name": "Интеграция TravisCI",
       "type": "task",
       "id": 20
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
     }
   ]
 }

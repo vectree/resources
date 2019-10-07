@@ -1,5 +1,14 @@
 {
   "name": "Проект",
-  "type": "task",
-  "id": 135
+  "steps": [
+    {
+      "type": "task",
+      "id": 135,
+      "name": "Задание"
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }
