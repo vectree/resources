@@ -1,0 +1,7 @@
+{
+  "topics": ["NodeJS", "Асинхронность", "Event Driven", "JavaScript", "Backend", "Бэкенд"],
+  "category": "NodeJS",
+  "img": "/img/nodejs.png",
+  "type": "vector",
+  "name": "Введение в NodeJS"
+}
