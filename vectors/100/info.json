@@ -1,0 +1,12 @@
+{
+  "topics": ["Authentication", "Express", "NodeJS", "API", "Testing", "Тесты", "Аутентификация"],
+  "type": "path",
+  "name": "NodeJS",
+  "img": "/img/nodejs.png",
+  "category": "The Odin Project",
+  "salary": "до 25000 руб.",
+  "complexity": 2,
+  "mentors": true,
+  "time": "1 месяц",
+  "vectors": [98, 99]
+}
