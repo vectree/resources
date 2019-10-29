@@ -2,14 +2,14 @@
   "name": "Редактор кода",
   "steps": [
     {
-      "name": "Видео",
-      "type": "video",
-      "id": "OmGX3zZZD78"
-    },
-    {
       "name": "Конспект",
       "type": "text",
       "id": 24
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "OmGX3zZZD78"
     }
   ]
 }
