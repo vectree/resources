@@ -1,5 +1,15 @@
 {
   "name": "Подготовка",
-  "type": "text",
-  "id": 20
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 20
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "2kGPtnHCUtY"
+    }
+  ]
 }

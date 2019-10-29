@@ -1,5 +1,15 @@
 {
   "name": "Редактор кода",
-  "type": "text",
-  "id": 24
+  "steps": [
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "OmGX3zZZD78"
+    },
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 24
+    }
+  ]
 }
