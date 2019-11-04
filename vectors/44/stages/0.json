@@ -1,5 +1,15 @@
 {
   "name": "Введение в Git",
-  "type": "text",
-  "id": 26
+  "steps": [
+    {
+      "type": "text",
+      "id": 26,
+      "text": "Конспект"
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "EW5pfDLP9b4"
+    }
+  ]
 }
