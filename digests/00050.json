@@ -40,6 +40,20 @@
     ],
     "Книги": [
       {
+        "creator": "RyPress",
+        "title": "Ry's Git Tutorial",
+        "sections": "Легко читаемое, прагматичное руководство Git",
+        "url": "https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC",
+        "isEnglish": true
+      },
+      {
+        "creator": "Michael Hartl",
+        "title": "Learn Enough Git to Be Dangerous",
+        "url": "https://www.learnenough.com/git-tutorial/getting_started",
+        "isEnglish": true,
+        "isNotFree": true
+      },
+      {
         "creator": "Бен Линн",
         "title": "Магия Git",
         "sections": "с 1 по 2 раздел",
@@ -87,9 +101,16 @@
         "url": "https://git.wiki.kernel.org/index.php/Main_Page"
       },
       {
+        "creator": "GitHub",
+        "title": "Git Cheat Sheet",
+        "sections": "Список основных команд Git",
+        "url": "https://education.github.com/git-cheat-sheet-education.pdf",
+        "isEnglish": true
+      },
+      {
         "creator": "Atlassian",
         "title": "Изучение git с bitbucket",
-        "url": "https://www.atlassian.com/git",
+        "url": "https://www.atlassian.com/git/tutorials/what-is-version-control",
         "isEnglish": true
       }
     ],

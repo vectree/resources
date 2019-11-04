@@ -45,6 +45,12 @@
     ],
     "Статьи": [
       {
+        "creator": "Red Badger",
+        "title": "Git и Github на простом английском",
+        "url": "https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english",
+        "isEnglish": true
+      },
+      {
         "creator": "Git-scm",
         "title": "Все необходимые темы",
         "sections": "Первый раздел",
