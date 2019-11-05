@@ -4,13 +4,19 @@
     {
       "type": "text",
       "id": 27,
-      "name": "Конспект"
+      "name": "Введение"
     },
     {
       "name": "Видео",
       "type": "video",
       "id": "_A1NIRcHW9Q"
-    }, {
+    },
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 2
+    },
+    {
       "name": "Доп. материалы",
       "type": "digest",
       "id": 50

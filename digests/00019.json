@@ -62,6 +62,13 @@
         "title": "Advanced Bash-Scripting Guide",
         "url": "http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html",
         "isAdvanced": true
+      },
+      {
+        "creator": "Michael Hartl",
+        "title": "Learn Enough Command Line to Be Dangerous",
+        "url": "https://www.learnenough.com/command-line-tutorial",
+        "sections": "достаточно 1 главы",
+        "isEnglish": true
       }
     ],
     "Документация": [
@@ -79,6 +86,14 @@
         "title": "Bash: Основы командной строки",
         "url": "https://ru.hexlet.io/courses/bash",
         "isAdvised": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "ExplainShell.com",
+        "title": "Справочник команд терминала",
+        "url": "http://explainshell.com/",
+        "isEnglish": true
       }
     ]
   }
