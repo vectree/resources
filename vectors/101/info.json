@@ -1,0 +1,7 @@
+{
+  "topics": ["NodeJS", "Express", "Passport.js", "Аутентификация", "Session", "Cookie"],
+  "category": "NodeJS",
+  "img": "/img/nodejs.png",
+  "type": "vector",
+  "name": "Аутентификация"
+}
