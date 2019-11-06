@@ -1,0 +1,32 @@
+{
+  "topics": [
+    "Frontend",
+    "HTML",
+    "CSS"
+  ],
+  "resources": {
+    "Видео":[
+      {
+        "creator": "Юрий Куликовский",
+        "url": "https://www.youtube.com/watch?v=_oHl7mdNRAw&feature=youtu.be",
+        "title": "Что такое HTML и CSS",
+        "isAdvised": true,
+        "section": "Отличное введение в взаимодействия различных технологий frontend"
+      },
+      {
+        "creator": "One Month",
+        "url": "https://www.youtube.com/watch?v=BANChTkxYYY&list=PLwqG3V3cExWpCgHOcLEKg6z-InpjHr7MB",
+        "title": "HTML vs. CSS: What's the Difference?",
+        "isAdvised": true,
+        "section": "Отличное введение в взаимодействия различных технологий frontend",
+        "isEnglish": true
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6YeCbrtU15s",
+        "creator": "webDev",
+        "title": "Что должен знать junior Front-end разработчик?",
+        "isAdvised": true
+      }
+    ]
+  }
+}

@@ -1,5 +1,15 @@
 {
   "name": "Введение в Frontend",
-  "type": "text",
-  "id": 28
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 28
+    },
+    {
+      "name": "Доп. материалы",
+      "type": "digest",
+      "id": 57
+    }
+  ]
 }

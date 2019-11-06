@@ -1,0 +1,77 @@
+{
+  "topics": [
+    "Frontend",
+    "HTML",
+    "CSS"
+  ],
+  "resources": {
+    "Учебники":[
+      {
+        "creator": "Webref",
+        "url": "https://webref.ru/tech/css3",
+        "title": "Русскоязычный ресурс от создателя htmlbook",
+        "isAdvised": true
+      },
+      {
+        "creator": "html5book",
+        "url": "https://html5book.ru/css-css3/",
+        "title": "Отличный и более современный аналог htmlbook",
+        "isAdvised": true
+      },
+      {
+        "url": "http://learnlayout.com/",
+        "creator": "Learn Layout",
+        "title": "Learn CSS Layout",
+        "isEnglish": true
+      },
+      {
+        "url": "https://www.w3schools.com/css/",
+        "creator": "W3",
+        "title": "Учебник по CSS",
+        "isEnglish": true,
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "CSS-Tricks",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "title": "Complete Guide to Flexbox",
+        "isAdvised": true,
+        "section": "Эта ссылка вам точно понадобятся, когда вы начнете использовать CSS",
+        "isEnglish": true
+      },
+      {
+        "creator": "CSS-Tricks",
+        "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+        "title": "Complete Guide to Grid",
+        "isAdvised": true,
+        "section": "Эта ссылка вам точно понадобятся, когда вы начнете использовать CSS",
+        "isEnglish": true
+      },
+      {
+        "creator": "CSS-Tricks",
+        "url": "https://css-tricks.com/centering-css-complete-guide/",
+        "title": "Centering in CSS: A Complete Guide",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ],
+    "Полезные ссылки": [
+      {
+        "creator": "OverAPI",
+        "url": "http://overapi.com/html",
+        "title": "Шпаргалка по HTML",
+        "isAdvised": true,
+        "isEnglish": true
+      },
+      {
+        "creator": "OverAPI",
+        "url": "http://overapi.com/css",
+        "title": "Шпаргалка по CSS",
+        "isAdvised": true,
+        "isEnglish": true
+      }
+    ]
+  }
+}
