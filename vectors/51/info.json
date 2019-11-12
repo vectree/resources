@@ -10,6 +10,7 @@
   ],
   "type": "path",
   "name": "Ruby",
+  "ignore": true,
   "icon": "fas fa-gem text-danger",
   "category": "The Odin Project",
   "salary": "до 10000 руб.",

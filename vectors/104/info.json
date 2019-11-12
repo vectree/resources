@@ -1,0 +1,18 @@
+{
+  "topics": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript",
+    "Поиск работы"
+  ],
+  "type": "path",
+  "name": "JavaScript",
+  "img": "/img/javascript.png",
+  "category": "The Odin Project",
+  "salary": "до 25000 руб.",
+  "complexity": 2,
+  "mentors": true,
+  "time": "5 месяцев",
+  "vectors": [47, 78, 68, 75]
+}

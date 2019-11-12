@@ -13,6 +13,7 @@
   "img": "/img/rails.png",
   "category": "The Odin Project",
   "salary": "до 15000 руб.",
+  "ignore": true,
   "complexity": 2,
   "mentors": true,
   "time": "1 месяц",

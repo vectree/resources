@@ -16,6 +16,7 @@
   "salary": "до 10000 руб.",
   "complexity": 1,
   "mentors": true,
+  "ignore": true,
   "time": "1 месяц",
   "vectors": [69, 70, 71, 72, 73, 74]
 }

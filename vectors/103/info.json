@@ -2,18 +2,18 @@
   "topics": [
     "JavaScript",
     "HTML",
-    "Ruby",
-    "Rails",
+    "NodeJS",
+    "Express",
     "CSS",
     "Поиск работы"
   ],
   "type": "path",
-  "name": "Ruby",
-  "icon": "fas fa-gem text-danger",
+  "img": "/img/nodejs.png",
+  "name": "NodeJS",
   "category": "The Odin Project",
   "salary": "до 30000 руб.",
   "complexity": 3,
   "mentors": true,
-  "time": "7 месяцев",
-  "vectors": [47, 51, 62, 68, 78, 75]
+  "time": "6 месяцев",
+  "vectors": [47, 78, 68, 100, 75]
 }
