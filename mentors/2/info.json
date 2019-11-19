@@ -1,7 +1,7 @@
 {
   "firstName": "Олег",
   "secondName": "Александров",
-  "vectors": [36, 39],
+  "vectors": [39, 104, 103, 47, 68, 78, 100, 75],
   "socialNetworks": [
     { "link": "https://github.com/olegthelilfix", "icon": "fa fa-github" }
   ],
