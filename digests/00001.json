@@ -99,13 +99,6 @@
         "title": "Строки, ООП",
         "url": "https://www.codingame.com/training/easy",
         "isEnglish": true
-      },
-      {
-        "creator": "Codefights",
-        "title": "Строки",
-        "url": "https://codefights.com/interview-practice/topics/strings",
-        "isEnglish": true,
-        "isAdvised": true
       }
     ],
     "Интерактивные сервисы": [

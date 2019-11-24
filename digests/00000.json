@@ -96,9 +96,10 @@
         "isEnglish": true
       },
       {
-        "creator": "Codefights",
+        "creator": "CodeSignal",
         "title": "Все необходимые темы",
-        "url": "https://codefights.com/arcade/",
+        "url": "https://codesignal.com/",
+        "sections": "секция arcade",
         "isEnglish": true
       }
     ],

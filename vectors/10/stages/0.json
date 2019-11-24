@@ -34,7 +34,8 @@
     {
       "name": "Задачи",
       "type": "external",
-      "url": "https://codefights.com/arcade/intro/"
+      "url": "https://codesignal.com/",
+      "sections": "секция arcade intro"
     },
     {
       "name": "Доп. материалы",
