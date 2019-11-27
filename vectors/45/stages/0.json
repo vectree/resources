@@ -1,15 +1,5 @@
 {
-  "name": "Введение в Frontend",
-  "steps": [
-    {
-      "name": "Конспект",
-      "type": "text",
-      "id": 28
-    },
-    {
-      "name": "Доп. материалы",
-      "type": "digest",
-      "id": 57
-    }
-  ]
+  "name": "Видео",
+  "type": "video",
+  "id": "XaB-y6Wmow8"
 }

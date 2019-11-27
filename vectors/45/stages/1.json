@@ -1,15 +1,15 @@
 {
-  "name": "Основы HTML и CSS",
+  "name": "Введение в Frontend",
   "steps": [
     {
       "name": "Конспект",
       "type": "text",
-      "id": 29
+      "id": 28
     },
     {
       "name": "Доп. материалы",
       "type": "digest",
-      "id": 58
+      "id": 57
     }
   ]
 }
