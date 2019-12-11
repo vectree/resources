@@ -1,0 +1,12 @@
+{
+  "firstName": "Илья",
+  "secondName": "Иванчиков",
+  "github": "IlyaIvanchikov",
+  "mentorId": "5dceffdd50f6019321058de6",
+  "vectors": [104, 103, 47, 68, 78, 100, 75],
+  "socialNetworks": [
+    { "link": "https://github.com/IlyaIvanchikov", "icon": "fa fa-github" }
+  ],
+  "technologies": ["JavaScript", "Node", "Mongo", "MySQL"],
+  "avatarURL": "https://user-images.githubusercontent.com/4215285/70667870-09448380-1c83-11ea-8e02-347de4a69dfe.jpg"
+}

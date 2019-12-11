@@ -1,6 +1,8 @@
 {
   "firstName": "Сергей",
   "secondName": "Лаврентьев",
+  "price": 1000,
+  "github": "lluuvr",
   "vectors": [
     38
   ],
