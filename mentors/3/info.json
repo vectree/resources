@@ -2,6 +2,7 @@
   "firstName": "Илья",
   "secondName": "Иванчиков",
   "github": "IlyaIvanchikov",
+  "price": 500,
   "mentorId": "5dceffdd50f6019321058de6",
   "vectors": [104, 103, 47, 68, 78, 100, 75],
   "socialNetworks": [
