@@ -10,13 +10,6 @@
   "resources": {
     "Видео": [
       {
-        "creator": "Тимур Батыршинов",
-        "sections": "с 1 по 21 урок",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "url": "https://www.youtube.com/watch?v=_jXDPfUKm58&index=1&list=PLwwk4BHih4fi8LTppXzTrCBgMJjC7FX7t"
-      },
-      {
         "creator": "Юрий Ткач",
         "sections": "лекции с 1 по 2",
         "title": "Все необходимые темы, JVM",

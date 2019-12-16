@@ -13,13 +13,6 @@
         "sections": "часть с 1 по 6"
       },
       {
-        "creator": "Тимур Батыршинов",
-        "title": "Ахитектура J2EE",
-        "sections": "Видео с 1 по 2",
-        "url": "https://www.youtube.com/watch?v=OQVTyjPzzeo&index=1&list=PLwwk4BHih4fjstwgKAHPAuUcjpRUiRh5k",
-        "isAdvised": true
-      },
-      {
         "creator": "Мирончик Игорь Янович",
         "title": "Разработка JEE приложений",
         "url": "https://www.youtube.com/watch?v=5AirnKXPyW0&list=PL27FCF69EBF48228B&index=4"
