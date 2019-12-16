@@ -74,13 +74,6 @@
         "url": "http://developer.alexanderklimov.ru/android/java/java.php"
       },
       {
-        "creator": "Kostin",
-        "title": "Программирование на Java",
-        "sections": "с 9 по 14 урок",
-        "url": "http://kostin.ws/java/",
-        "isAdvised": true
-      },
-      {
         "creator": "Habrahabr",
         "title": "Обработка строк в Java",
         "url": "https://habrahabr.ru/post/260767/",
