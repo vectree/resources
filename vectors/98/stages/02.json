@@ -1,14 +1,5 @@
 {
-  "name": "Первый проект",
-  "steps": [
-    {
-      "type": "task",
-      "id": 175,
-      "name": "Задание"
-    },
-    {
-      "name": "Отправить решение",
-      "type": "solutions"
-    }
-  ]
+  "name": "Поэзия Node",
+  "type": "text",
+  "id": 193
 }
