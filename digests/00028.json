@@ -4,7 +4,8 @@
     "зависимости",
     "vendoring зависимостей",
     "менеджер зависимостей",
-    "govendor"
+    "govendor",
+    "модули"
   ],
   "resources": {
     "Статьи": [
@@ -12,6 +13,12 @@
         "creator": "Александр Булимов",
         "title": "Vendoring зависимостей",
         "url": "http://bulimov.ru/it/go-vendoring/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Введение в систему модулей Go",
+        "url": "https://habr.com/ru/post/421411/",
         "isAdvised": true
       },
       {
