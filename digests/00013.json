@@ -32,9 +32,15 @@
     ],
     "Статьи": [
       {
-        "creator": "DigitalOcean",
-        "title": "Установка и использование PostgreSQL в Ubuntu",
-        "url": "https://www.digitalocean.com/community/tutorials/postgresql-ubuntu-16-04-ru",
+        "creator": "Habrahabr",
+        "title": "Основы реляционной алгебры",
+        "url": "https://habr.com/ru/post/145381/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "url": "https://habr.com/ru/post/254773/",
+        "title": "Нормализация отношений",
         "isAdvised": true
       },
       {
