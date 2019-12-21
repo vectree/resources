@@ -1,59 +1,35 @@
 {
-  "name": "Практика: Go Skimmer",
+  "name": "Advanced: Часть 2",
   "steps": [
     {
-      "name": "Подготовка",
-      "type": "task",
-      "id": 51
+      "name": "Интерфейсы",
+      "type": "text",
+      "id": 200
     },
     {
-      "name": "Описание",
-      "type": "task",
-      "id": 52
+      "name": "Пустой идентификатор",
+      "type": "text",
+      "id": 201
     },
     {
-      "name": "Martini",
-      "type": "task",
-      "id": 53
+      "name": "Вложение",
+      "type": "text",
+      "id": 202
     },
     {
-      "name": "Модель",
-      "type": "task",
-      "id": 54
+      "name": "Concurrency",
+      "type": "text",
+      "id": 203
     },
     {
-      "name": "Хранилище",
-      "type": "task",
-      "id": 55
+      "name": "Ошибки",
+      "type": "text",
+      "id": 204
     },
     {
-      "name": "Тесты",
-      "type": "task",
-      "id": 56
-    },
-    {
-      "name": "Интерфейс",
-      "type": "task",
-      "id": 57
-    },
-    {
-      "name": "Приватность",
-      "type": "task",
-      "id": 58
-    },
-    {
-      "name": "Чистка",
-      "type": "task",
-      "id": 59
-    },
-    {
-      "name": "Redis",
-      "type": "task",
-      "id": 60
-    },
-    {
-      "name": "Отправить решение",
-      "type": "solutions"
+      "name": "Веб-сервер",
+      "type": "text",
+      "id": 205
     }
   ]
 }

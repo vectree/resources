@@ -1,20 +1,40 @@
 {
-  "name": "Advanced Go",
+  "name": "Advanced: Часть 1",
   "steps": [
     {
-      "name": "Доп. материалы",
-      "type": "digest",
-      "id": 26
+      "name": "Введение",
+      "type": "text",
+      "id": 194
+    },
+    {
+      "name": "Управляющие структуры",
+      "type": "text",
+      "id": 195
+    },
+    {
+      "name": "Функции и методы",
+      "type": "text",
+      "id": 196
+    },
+    {
+      "name": "Данные",
+      "type": "text",
+      "id": 197
+    },
+    {
+      "name": "Инициализация",
+      "type": "text",
+      "id": 198
+    },
+    {
+      "name": "Методы",
+      "type": "text",
+      "id": 199
     },
     {
       "name": "Задачи: Go на CodeWars",
       "type": "external",
       "url": "https://www.codewars.com/kata/search/go?q=&beta=false"
-    },
-    {
-      "name": "Менеджер зависимостей",
-      "type": "digest",
-      "id": 28
     }
   ]
 }
