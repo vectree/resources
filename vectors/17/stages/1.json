@@ -1,39 +1,5 @@
 {
-  "name": "Практика: Кластер",
-  "steps": [
-    {
-      "name": "Кластер на AWS",
-      "id": 61,
-      "type": "task"
-    },
-    {
-      "name": "Введение",
-      "id": 62,
-      "type": "task"
-    },
-    {
-      "name": "Busybox",
-      "id": 63,
-      "type": "task"
-    },
-    {
-      "name": "Веб-приложения",
-      "id": 64,
-      "type": "task"
-    },
-    {
-      "name": "Окружения",
-      "id": 66,
-      "type": "task"
-    },
-    {
-      "name": "Заключение",
-      "id": 67,
-      "type": "task"
-    },
-    {
-      "name": "Отправить решение",
-      "type": "solutions"
-    }
-  ]
+  "name": "Кластер на AWS",
+  "id": 61,
+  "type": "task"
 }
