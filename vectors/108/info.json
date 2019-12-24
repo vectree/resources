@@ -8,5 +8,6 @@
   "complexity": 3,
   "mentors": true,
   "time": "6 месяцев",
+  "ignore": true,
   "vectors": [109, 110, 111, 112, 113, 114, 115, 116]
 }
