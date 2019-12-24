@@ -1,0 +1,7 @@
+{
+  "topics": ["Python", "Функции", "Функциональное программирование", "Анонимные функции", "Map", "Reduce", "Filter"],
+  "category": "Python",
+  "img": "/img/python.png",
+  "type": "vector",
+  "name": "Функции"
+}

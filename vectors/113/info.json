@@ -1,0 +1,7 @@
+{
+  "topics": ["Python", "Структуры данных", "Корутины", "Генераторы", "Классы"],
+  "category": "Python",
+  "img": "/img/python.png",
+  "type": "vector",
+  "name": "Структуры данных"
+}

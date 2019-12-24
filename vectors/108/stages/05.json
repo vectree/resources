@@ -1,0 +1,21 @@
+{
+  "name": "Типы данных",
+  "type": "text",
+  "steps": [
+    {
+      "name": "Collections",
+      "type": "text",
+      "id": 228
+    },
+    {
+      "name": "Изменяемость",
+      "type": "text",
+      "id": 229
+    },
+    {
+      "name": "Магия __slots__",
+      "type": "text",
+      "id": 230
+    }
+  ]
+}

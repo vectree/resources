@@ -1,0 +1,12 @@
+{
+  "topics": ["Python", "Синтаксис", "Структуры данных", "Функции", "Типы данных", "Декораторы"],
+  "type": "path",
+  "name": "Продвинутый Python",
+  "img": "/img/python.png",
+  "category": "Byte of python",
+  "salary": "до 25000 руб.",
+  "complexity": 3,
+  "mentors": true,
+  "time": "6 месяцев",
+  "vectors": [109, 110, 111, 112, 113, 114, 115, 116]
+}

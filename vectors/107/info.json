@@ -1,0 +1,18 @@
+{
+  "topics": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "Поиск работы"
+  ],
+  "type": "path",
+  "name": "Python",
+  "img": "/img/python.png",
+  "category": "Byte of python",
+  "salary": "до 25000 руб.",
+  "complexity": 2,
+  "mentors": true,
+  "time": "6 месяцев",
+  "vectors": [47, 78, 68, 108, 75]
+}
