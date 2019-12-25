@@ -12,7 +12,7 @@
   "type": "path",
   "name": "HTML и CSS",
   "icon": "fas fa-file-code text-info",
-  "category": "The Odin Project",
+  "category": "Frontend",
   "salary": "до 10000 руб.",
   "complexity": 1,
   "mentors": true,

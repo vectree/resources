@@ -18,7 +18,7 @@
   "type": "path",
   "name": "JavaScript",
   "img": "/img/javascript.png",
-  "category": "The Odin Project",
+  "category": "Frontend",
   "salary": "до 15000 руб.",
   "complexity": 2,
   "mentors": true,

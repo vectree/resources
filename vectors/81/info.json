@@ -10,7 +10,7 @@
   "type": "path",
   "name": "Ruby",
   "icon": "fas fa-gem text-danger",
-  "category": "The Odin Project",
+  "category": "Fullstack",
   "salary": "до 30000 руб.",
   "complexity": 3,
   "mentors": true,

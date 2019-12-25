@@ -10,7 +10,7 @@
   "type": "path",
   "img": "/img/nodejs.png",
   "name": "NodeJS",
-  "category": "The Odin Project",
+  "category": "Fullstack",
   "salary": "до 30000 руб.",
   "complexity": 3,
   "mentors": true,

@@ -11,7 +11,7 @@
   "type": "path",
   "name": "Ruby on Rails",
   "img": "/img/rails.png",
-  "category": "The Odin Project",
+  "category": "Backend",
   "salary": "до 15000 руб.",
   "ignore": true,
   "complexity": 2,

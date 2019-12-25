@@ -3,7 +3,7 @@
   "type": "path",
   "name": "jQuery",
   "img": "/img/jquery.png",
-  "category": "The Odin Project",
+  "category": "Frontend",
   "salary": "до 20000 руб.",
   "complexity": 2,
   "mentors": true,

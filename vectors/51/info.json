@@ -12,7 +12,7 @@
   "name": "Ruby",
   "ignore": true,
   "icon": "fas fa-gem text-danger",
-  "category": "The Odin Project",
+  "category": "Backend",
   "salary": "до 10000 руб.",
   "complexity": 2,
   "mentors": true,
