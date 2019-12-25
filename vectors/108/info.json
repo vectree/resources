@@ -3,11 +3,11 @@
   "type": "path",
   "name": "Продвинутый Python",
   "img": "/img/python.png",
-  "category": "Fullstack",
-  "salary": "до 25000 руб.",
+  "category": "Backend",
+  "salary": "до 20000 руб.",
   "complexity": 2,
   "mentors": true,
-  "time": "6 месяцев",
+  "time": "2 недели",
   "ignore": true,
   "vectors": [109, 110, 111, 112, 113, 114, 115, 116]
 }
