@@ -1,0 +1,14 @@
+{
+  "topics": [
+    "Go",
+    "Интерфейсы",
+    "Concurrency",
+    "Пустой идентификатор",
+    "Ошибки",
+    "Менеджер зависимостей"
+  ],
+  "category": "Go",
+  "img": "/img/golang.png",
+  "type": "vector",
+  "name": "Advanced: Часть 2"
+}

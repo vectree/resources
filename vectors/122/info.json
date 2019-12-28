@@ -1,0 +1,18 @@
+{
+  "topics": [
+    "Go",
+    "Основы",
+    "Продвинутый",
+    "Введение"
+  ],
+  "type": "path",
+  "name": "Go",
+  "img": "/img/golang.png",
+  "category": "Backend",
+  "salary": "до 20000 руб.",
+  "complexity": 3,
+  "ignore": true,
+  "mentors": true,
+  "time": "3 месяца",
+  "vectors": [123, 124, 125, 126]
+}

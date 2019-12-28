@@ -1,0 +1,13 @@
+{
+  "topics": [
+    "Go",
+    "Управляющие структуры",
+    "Функции",
+    "Методы",
+    "Инициализация"
+  ],
+  "category": "Go",
+  "img": "/img/golang.png",
+  "type": "vector",
+  "name": "Advanced: Часть 1"
+}

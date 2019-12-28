@@ -1,0 +1,29 @@
+{
+  "name": "Практика: Go Grabber",
+  "steps": [
+    {
+      "name": "Подготовка",
+      "type": "task",
+      "id": 42
+    },
+    {
+      "name": "Описание",
+      "type": "task",
+      "id": 43
+    },
+    {
+      "name": "Граббер",
+      "type": "task",
+      "id": 44
+    },
+    {
+      "name": "Основной цикл",
+      "type": "task",
+      "id": 45
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
+}
