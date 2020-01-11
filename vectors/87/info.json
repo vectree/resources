@@ -5,7 +5,7 @@
   "img": "/img/jquery.png",
   "category": "Frontend",
   "salary": "до 20000 руб.",
-  "complexity": 2,
+  "complexity": 1,
   "mentors": true,
   "time": "3 месяца",
   "vectors": [88, 89, 90, 91, 92, 93, 94, 95]
