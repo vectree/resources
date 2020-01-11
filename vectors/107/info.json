@@ -1,18 +1,17 @@
 {
   "topics": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Python",
-    "Поиск работы"
+    "PostgreSQL",
+    "Django",
+    "Backend",
+    "Python"
   ],
   "type": "path",
   "name": "Python",
   "img": "/img/python.png",
-  "category": "Fullstack",
+  "category": "Backend",
   "salary": "до 25000 руб.",
   "complexity": 2,
   "mentors": true,
-  "time": "8 месяцев",
-  "vectors": [47, 68, 78, 117, 108, 13, 127, 75]
+  "time": "9 месяцев",
+  "vectors": [0, 117, 108, 13, 127]
 }
