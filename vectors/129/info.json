@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "Django",
+    "Модели",
+    "Deploy",
+    "Администрирование",
+    "URL",
+    "Установка",
+    "Представления"
+  ],
+  "category": "Django",
+  "img": "/img/django.png",
+  "type": "vector",
+  "name": "Основы"
+}

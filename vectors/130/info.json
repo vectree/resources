@@ -1,0 +1,13 @@
+{
+  "topics": [
+    "Django",
+    "HTML",
+    "CSS",
+    "Шаблоны",
+    "Формы"
+  ],
+  "category": "Django",
+  "img": "/img/django.png",
+  "type": "vector",
+  "name": "Заключение"
+}

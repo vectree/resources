@@ -1,0 +1,13 @@
+{
+  "topics": [
+    "Редактор кода",
+    "Введение",
+    "Установка",
+    "Интернет",
+    "Python"
+  ],
+  "category": "Django",
+  "img": "/img/django.png",
+  "type": "vector",
+  "name": "Подготовка"
+}
