@@ -1,0 +1,18 @@
+{
+  "topics": [
+    "Advanced",
+    "Коллекции",
+    "Java",
+    "Concurrency",
+    "Collections",
+    "Мнопоточность",
+    "I/O",
+    "Ввод/Вывод",
+    "Потоки",
+    "Streams"
+  ],
+  "category": "Java",
+  "name": "Advanced",
+  "type": "vector",
+  "img": "/img/java-icon.png"
+}
