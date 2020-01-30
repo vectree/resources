@@ -8,5 +8,5 @@
   "name": "Введение в STM32",
   "type": "vector",
   "img": "/img/stm32.png",
-  "smallText": "В данном векторе вы рассмотрите STM32 и FreeRTOS."
+  "smallText": "В данном уроке вы рассмотрите STM32 и FreeRTOS."
 }

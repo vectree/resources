@@ -4,5 +4,5 @@
   "name": "PostgreSQL",
   "type": "vector",
   "img": "/img/postgresql-icon.svg",
-  "smallText": "На данном векторе вы изучите понятие базы данных и язык запросов SQL на примере Postgres."
+  "smallText": "На данном уроке вы изучите понятие базы данных и язык запросов SQL на примере Postgres."
 }
