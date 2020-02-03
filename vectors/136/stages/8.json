@@ -1,0 +1,15 @@
+{
+  "name": "Stream API",
+  "steps": [
+    {
+      "name": "Лямбда",
+      "type": "text",
+      "id": 289
+    },
+    {
+      "name": "Stream API",
+      "type": "text",
+      "id": 290
+    }
+  ]
+}

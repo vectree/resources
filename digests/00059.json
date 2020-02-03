@@ -1,0 +1,116 @@
+{
+  "topics": [
+    "многопоточность",
+    "поток",
+    "concurrency",
+    "deadlock",
+    "thread-local"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Юрий Ткач",
+        "title": "Многопоточность",
+        "url": "https://www.youtube.com/watch?v=s032s29-NUU&list=PL6jg6AGdCNaXo06LjCBmRao-qJdf38oKp",
+        "isAdvised": true
+      },
+      {
+        "creator": "Алексей Владыкин",
+        "title": "Многопоточность",
+        "url": "https://www.youtube.com/watch?v=swTh5qNFUK0",
+        "isAdvised": true
+      },
+      {
+        "creator": "Сергей Куксенко",
+        "sections": "с 9 по 12",
+        "title": "Многопоточность",
+        "url": "https://www.youtube.com/watch?v=vlUEqn_mCkc"
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "JavaRush",
+        "sections": "Раздел: Java Core и Java Multithreading",
+        "title": "Многопоточность",
+        "url": "https://javarush.ru/quests/",
+        "isNotFree": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "Habrahabr",
+        "url": "https://habr.com/ru/post/277669/",
+        "title": "Синхронизаторы",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Многопоточность",
+        "url": "https://habrahabr.ru/post/164487/",
+        "isAdvised": true
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "Обзор java.util.concurrent",
+        "url": "https://habrahabr.ru/company/luxoft/blog/157273/",
+        "isAdvanced": true,
+        "isAdvised": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Hexlet",
+        "title": "Многопоточность",
+        "url": "https://ru.hexlet.io/courses/concurrency",
+        "isNotFree": true
+      },
+      {
+        "creator": "Udemy",
+        "title": "Многопоточность",
+        "url": "https://www.udemy.com/java-multithreading/",
+        "isEnglish": true
+      },
+      {
+        "creator": "Coursera",
+        "title": "Многопоточность",
+        "url": "https://ru.coursera.org/specializations/pcdp",
+        "isEnglish": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Джошуа Блох",
+        "title": "Java. Эффективное программирование",
+        "url": "https://www.ozon.ru/context/detail/id/21724143/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Брюс Эккель",
+        "title": "Философия Java",
+        "url": "https://www.ozon.ru/context/detail/id/142431463/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Герберт Шилдт",
+        "title": "Java 8. Руководство для начинающих",
+        "url": "https://www.ozon.ru/context/detail/id/31249554/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Кей Хорстманн",
+        "title": "Java. Библиотека профессионала",
+        "url": "https://www.ozon.ru/context/detail/id/25151213/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Кэти Сиерра, Берт Бейтс",
+        "title": "Head First: Изучаем Java",
+        "url": "https://www.ozon.ru/context/detail/id/7821666/",
+        "isNotFree": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}

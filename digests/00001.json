@@ -1,7 +1,6 @@
 {
   "topics": [
     "обработка исключений",
-    "ООП",
     "Enum",
     "строки",
     "ввод-вывод"
@@ -9,30 +8,23 @@
   "resources": {
     "Видео": [
       {
-        "creator": "Сергей Немчинский",
-        "sections": "лекции с 3 по 4",
-        "title": "ООП, JVM, уровни доступа",
-        "url": "https://www.youtube.com/watch?v=9GdtWiovvIQ&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=1",
-        "isAdvised": true
-      },
-      {
         "creator": "Юрий Ткач",
-        "sections": "лекции с 3 по 9",
-        "title": "ООП, Enum, String, исключения",
+        "sections": "лекции с 6 по 9",
+        "title": "Enum, String, исключения",
         "url": "https://www.youtube.com/watch?v=lGQxeGiqmKU&list=SPB0276A0A62BDEF06&index=3"
       },
       {
         "creator": "Алексей Владыкин",
-        "title": "ООП, исключения, ввод-вывод",
-        "sections": "лекции с 4 по 6",
-        "url": "https://www.youtube.com/watch?v=3sUS02uoKkk",
+        "title": "Исключения, ввод-вывод",
+        "sections": "лекции с 5 по 6",
+        "url": "https://www.youtube.com/watch?v=4Zv3xuhbR8o",
         "isAdvanced": true
       },
       {
         "creator": "Георгий Корнеев",
-        "sections": "лекции с 2 по 6",
-        "title": "ООП, исключения, ввод-вывод",
-        "url": "https://www.youtube.com/watch?v=1XDaOCVM-Q4",
+        "sections": "лекции с 4 по 6",
+        "title": "Исключения, ввод-вывод",
+        "url": "https://www.youtube.com/watch?v=EeuMJ7zmm3A",
         "isAdvanced": true
       }
     ],
@@ -59,16 +51,6 @@
     ],
     "Статьи": [
       {
-        "creator": "SpecZone",
-        "title": "Классы и объекты",
-        "url": "http://spec-zone.ru/RU/Java/Tutorials/java/javaOO/index.html"
-      },
-      {
-        "creator": "SpecZone",
-        "title": "Интерфейсы и Наследование",
-        "url": "http://spec-zone.ru/RU/Java/Tutorials/java/IandI/index.html"
-      },
-      {
         "creator": "Александр Климов",
         "title": "Java. Экспресс-курс",
         "url": "http://developer.alexanderklimov.ru/android/java/java.php"
@@ -83,13 +65,13 @@
     "Задачники": [
       {
         "creator": "CodeWars",
-        "title": "Строки, ООП",
+        "title": "Строки",
         "url": "https://www.codewars.com/kata/search/java?q=&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&tags=Fundamentals%2CNumbers%2CArrays%2CArithmetic%2CLoops%2CIntegers%2CConditional+Statements&beta=false",
         "isEnglish": true
       },
       {
         "creator": "Codingame",
-        "title": "Строки, ООП",
+        "title": "Строки",
         "url": "https://www.codingame.com/training/easy",
         "isEnglish": true
       }
@@ -97,16 +79,15 @@
     "Интерактивные сервисы": [
       {
         "creator": "Codecademy",
-        "title": "ООП, исключения, строки",
+        "title": "Исключения, строки",
         "sections": "3 раздел",
         "url": "https://www.codecademy.com/learn/learn-java",
-        "isEnglish": true,
-        "isAdvised": true
+        "isEnglish": true
       },
       {
         "creator": "JavaRush",
         "sections": "Раздел: Java Core и Java Syntax",
-        "title": "ООП, исключения, ввод-вывод, строки",
+        "title": "Исключения, ввод-вывод, строки",
         "url": "https://javarush.ru/quests/",
         "isNotFree": true
       }
@@ -121,21 +102,9 @@
       {
         "creator": "Stepik",
         "title": "ООП, исключения, ввод-вывод",
-        "sections": "с 3 по 5 раздел",
+        "sections": "с 4 по 5 раздел",
         "url": "https://stepik.org/course/187",
         "isAdvised": true
-      },
-      {
-        "creator": "Udacity",
-        "title": "ООП",
-        "url": "https://www.udacity.com/course/object-oriented-programming-in-java--ud283",
-        "isEnglish": true
-      },
-      {
-        "creator": "edX",
-        "title": "ООП",
-        "isEnglish": true,
-        "url": "https://www.edx.org/course/object-oriented-programming-java-microsoft-dev277x-0"
       }
     ]
   }

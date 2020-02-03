@@ -1,5 +1,15 @@
 {
-  "name": "Advanced",
-  "type": "digest",
-  "id": 2
+  "name": "Введение",
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 294
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "PcwXTCWRGvY"
+    }
+  ]
 }

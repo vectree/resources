@@ -1,123 +1,23 @@
 {
   "topics": [
-    "collections",
-    "streams",
-    "generics",
     "сериализация"
   ],
   "resources": {
-    "Видео": [
-      {
-        "creator": "Сергей Немчинский",
-        "title": "Collections",
-        "url": "https://www.youtube.com/watch?v=mKR1McHiu7c&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=7"
-      },
-      {
-        "creator": "Юрий Ткач",
-        "title": "Collections",
-        "url": "https://www.youtube.com/watch?v=-S_huEuNJiU&list=PL6jg6AGdCNaWtTjsYJ9t0VaITpIZm4pMt",
-        "isAdvised": true
-      },
-      {
-        "creator": "Юрий Ткач",
-        "title": "Serialization",
-        "url": "https://www.youtube.com/watch?v=PcwXTCWRGvY&list=PL6jg6AGdCNaXYzZwvvZ-3NRTr63XeYazS",
-        "isAdvised": true
-      },
-      {
-        "creator": "Юрий Ткач",
-        "title": "Generics",
-        "url": "https://www.youtube.com/watch?v=MniNZsyjH9E&list=PL6jg6AGdCNaX1yIJpX4sgALBTmTVc_uOJ",
-        "isAdvised": true
-      },
-      {
-        "creator": "GeekBrains",
-        "title": "Streams",
-        "url": "https://youtu.be/gTdXjRif_yo"
-      },
-      {
-        "creator": "Алексей Владыкин",
-        "title": "Generics, collections",
-        "url": "https://www.youtube.com/watch?v=YPUGexs8nKk"
-      },
-      {
-        "creator": "Сергей Куксенко",
-        "title": "Streams",
-        "url": "https://www.youtube.com/watch?v=O8oN4KSZEXE"
-      }
-    ],
     "Интерактивные сервисы": [
-      {
-        "creator": "Codecademy",
-        "title": "Collections",
-        "sections": "4 раздел",
-        "url": "https://www.codecademy.com/learn/learn-java",
-        "isEnglish": true,
-        "isAdvised": true
-      },
       {
         "creator": "JavaRush",
         "sections": "Раздел: Java Core и Java Collections",
-        "title": "Collections, generics, сериализация",
+        "title": "Сериализация",
         "url": "https://javarush.ru/quests/",
         "isNotFree": true
       }
     ],
     "Статьи": [
       {
-        "creator": "SpecZone",
-        "title": "Generics",
-        "url": "http://spec-zone.ru/RU/Java/Tutorials/java/generics/index.html"
-      },
-      {
-        "creator": "Александр Климов",
-        "title": "Java. Экспресс-курс",
-        "url": "http://developer.alexanderklimov.ru/android/java/java.php"
-      },
-      {
         "creator": "Habrahabr",
         "title": "Сериализация",
         "url": "https://habrahabr.ru/post/60317/",
         "isAdvised": true
-      },
-      {
-        "creator": "Habrahabr",
-        "title": "Streams",
-        "url": "https://habrahabr.ru/company/luxoft/blog/270383/",
-        "isAdvised": true
-      },
-      {
-        "creator": "Habrahabr",
-        "title": "Collections",
-        "url": "https://habrahabr.ru/post/237043/",
-        "isAdvised": true
-      }
-    ],
-    "Онлайн-курсы": [
-      {
-        "creator": "Hexlet",
-        "title": "Generics",
-        "url": "https://ru.hexlet.io/courses/java_generics",
-        "isNotFree": true
-      },
-      {
-        "creator": "Hexlet",
-        "title": "Collections",
-        "url": "https://ru.hexlet.io/courses/collections",
-        "isNotFree": true
-      },
-      {
-        "creator": "Stepik",
-        "title": "Collections, generics, streams",
-        "sections": "6 раздел",
-        "url": "https://stepik.org/course/187",
-        "isAdvised": true
-      },
-      {
-        "creator": "Udacity",
-        "title": "Collections",
-        "url": "https://www.udacity.com/course/Object-Oriented-Programming-in-Java",
-        "isEnglish": true
       }
     ],
     "Книги": [

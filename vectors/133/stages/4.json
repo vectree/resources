@@ -1,5 +1,15 @@
 {
-  "name": "Тестирование",
-  "id": 1,
-  "type": "quiz"
+  "name": "JSON",
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 298
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "z2o5Wi355Cc"
+    }
+  ]
 }

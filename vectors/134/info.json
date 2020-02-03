@@ -1,0 +1,14 @@
+{
+  "topics": [
+    "Advanced",
+    "Java",
+    "Collections",
+    "Мнопоточность",
+    "Поток",
+    "Thread"
+  ],
+  "category": "Java",
+  "name": "Concurrency",
+  "type": "vector",
+  "img": "/img/java-icon.png"
+}

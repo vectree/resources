@@ -1,0 +1,134 @@
+{
+  "topics": [
+    "ООП",
+    "Класс",
+    "Объекты",
+    "Интерфейс"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Сергей Немчинский",
+        "sections": "лекция с 3 по 4",
+        "title": "ООП, JVM, уровни доступа",
+        "url": "https://www.youtube.com/watch?v=9GdtWiovvIQ&list=PLmqFxxywkatR3qNmxqcFIHF9MN2-_eteU&index=1",
+        "isAdvised": true
+      },
+      {
+        "creator": "Юрий Ткач",
+        "sections": "лекция 3 по 6",
+        "title": "ООП",
+        "url": "https://www.youtube.com/watch?v=lGQxeGiqmKU&list=SPB0276A0A62BDEF06&index=3"
+      },
+      {
+        "creator": "Алексей Владыкин",
+        "title": "ООП",
+        "sections": "лекция 4",
+        "url": "https://www.youtube.com/watch?v=3sUS02uoKkk",
+        "isAdvanced": true
+      },
+      {
+        "creator": "Георгий Корнеев",
+        "sections": "лекции с 2 по 3",
+        "title": "ООП",
+        "url": "https://www.youtube.com/watch?v=1XDaOCVM-Q4",
+        "isAdvanced": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Герберт Шилдт",
+        "title": "Java 8. Руководство для начинающих",
+        "url": "https://www.ozon.ru/context/detail/id/31249554/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Кей Хорстманн",
+        "title": "Java. Библиотека профессионала",
+        "url": "https://www.ozon.ru/context/detail/id/25151213/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Кэти Сиерра, Берт Бейтс",
+        "title": "Head First: Изучаем Java",
+        "url": "https://www.ozon.ru/context/detail/id/7821666/",
+        "isAdvised": true,
+        "isNotFree": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "SpecZone",
+        "title": "Классы и объекты",
+        "url": "http://spec-zone.ru/RU/Java/Tutorials/java/javaOO/index.html"
+      },
+      {
+        "creator": "SpecZone",
+        "title": "Интерфейсы и Наследование",
+        "url": "http://spec-zone.ru/RU/Java/Tutorials/java/IandI/index.html"
+      },
+      {
+        "creator": "Александр Климов",
+        "title": "Java. Экспресс-курс",
+        "url": "http://developer.alexanderklimov.ru/android/java/java.php"
+      }
+    ],
+    "Задачники": [
+      {
+        "creator": "CodeWars",
+        "title": "ООП",
+        "url": "https://www.codewars.com/kata/search/java?q=&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&tags=Fundamentals%2CNumbers%2CArrays%2CArithmetic%2CLoops%2CIntegers%2CConditional+Statements&beta=false",
+        "isEnglish": true
+      },
+      {
+        "creator": "Codingame",
+        "title": "ООП",
+        "url": "https://www.codingame.com/training/easy",
+        "isEnglish": true
+      }
+    ],
+    "Интерактивные сервисы": [
+      {
+        "creator": "Codecademy",
+        "title": "ООП",
+        "sections": "3 раздел",
+        "url": "https://www.codecademy.com/learn/learn-java",
+        "isEnglish": true
+      },
+      {
+        "creator": "JavaRush",
+        "sections": "Раздел: Java Core и Java Syntax",
+        "title": "ООП",
+        "url": "https://javarush.ru/quests/",
+        "isNotFree": true,
+        "isAdvised": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Hexlet",
+        "title": "ООП",
+        "url": "http://java.hexlet.io/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Stepik",
+        "title": "ООП",
+        "sections": "3 раздел",
+        "url": "https://stepik.org/course/187"
+      },
+      {
+        "creator": "Udacity",
+        "title": "ООП",
+        "url": "https://www.udacity.com/course/object-oriented-programming-in-java--ud283",
+        "isEnglish": true
+      },
+      {
+        "creator": "edX",
+        "title": "ООП",
+        "isEnglish": true,
+        "url": "https://www.edx.org/course/object-oriented-programming-java-microsoft-dev277x-0"
+      }
+    ]
+  }
+}

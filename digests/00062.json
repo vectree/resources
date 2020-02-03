@@ -1,0 +1,101 @@
+{
+  "topics": [
+    "аннотации",
+    "reflection",
+    "byte-code",
+    "регулярные выражения",
+    "сеть"
+  ],
+  "resources": {
+    "Видео": [
+      {
+        "creator": "Алексей Владыкин",
+        "sections": "с 8 по 10",
+        "title": "Аннотации, reflection",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=7G9HVi27h6E"
+      },
+      {
+        "creator": "Уроки Java",
+        "title": "Сеть",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=JBXblIkWuJo"
+      },
+      {
+        "creator": "Уроки Java",
+        "title": "Сервлеты",
+        "isAdvised": true,
+        "url": "https://www.youtube.com/watch?v=FE7ygm8CTaY&list=PL786bPIlqEjRVDNpxzgLv9iMmB4y5kMfT"
+      },
+      {
+        "creator": "Образование онлайн",
+        "title": "Регулярные выражения",
+        "url": "https://www.youtube.com/watch?v=OBkDT25X_S8",
+        "isAdvised": true
+      }
+    ],
+    "Статьи": [
+      {
+        "creator": "James D Bloom",
+        "title": "Byte-code",
+        "url": "http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html#local_variables",
+        "isEnglish": true
+      },
+      {
+        "creator": "Javenue",
+        "title": "Reflection",
+        "url": "http://www.javenue.info/post/84"
+      },
+      {
+        "creator": "Habrahabr",
+        "title": "byte-code",
+        "url": "https://habrahabr.ru/post/111456/",
+        "isAdvanced": true,
+        "isAdvised": true
+      }
+    ],
+    "Онлайн-курсы": [
+      {
+        "creator": "Hexlet",
+        "title": "Byte-code",
+        "url": "https://ru.hexlet.io/courses/bytecode",
+        "isNotFree": true
+      }
+    ],
+    "Книги": [
+      {
+        "creator": "Джошуа Блох",
+        "title": "Java. Эффективное программирование",
+        "url": "https://www.ozon.ru/context/detail/id/21724143/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Брюс Эккель",
+        "title": "Философия Java",
+        "url": "https://www.ozon.ru/context/detail/id/142431463/",
+        "isNotFree": true,
+        "isAdvanced": true
+      },
+      {
+        "creator": "Герберт Шилдт",
+        "title": "Java 8. Руководство для начинающих",
+        "url": "https://www.ozon.ru/context/detail/id/31249554/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Кей Хорстманн",
+        "title": "Java. Библиотека профессионала",
+        "url": "https://www.ozon.ru/context/detail/id/25151213/",
+        "isNotFree": true
+      },
+      {
+        "creator": "Кэти Сиерра, Берт Бейтс",
+        "title": "Head First: Изучаем Java",
+        "url": "https://www.ozon.ru/context/detail/id/7821666/",
+        "isNotFree": true,
+        "isAdvised": true
+      }
+    ]
+  }
+}

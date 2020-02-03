@@ -1,0 +1,25 @@
+{
+  "name": "Generics",
+  "steps": [
+    {
+      "name": "Введение",
+      "type": "text",
+      "id": 292
+    },
+    {
+      "name": "Сырые типы",
+      "type": "video",
+      "id": "MniNZsyjH9E"
+    },
+    {
+      "name": "Наследование, wildcard",
+      "type": "video",
+      "id": "pezRhckJbFE"
+    },
+    {
+      "name": "Расширение",
+      "type": "video",
+      "id": "ns8T7-nI_Ec"
+    }
+  ]
+}

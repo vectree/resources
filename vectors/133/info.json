@@ -1,18 +1,14 @@
 {
   "topics": [
-    "Advanced",
-    "Коллекции",
+    "Сериализация",
+    "JSON",
     "Java",
-    "Concurrency",
-    "Collections",
-    "Мнопоточность",
-    "I/O",
-    "Ввод/Вывод",
-    "Потоки",
-    "Streams"
+    "Xml",
+    "CSV",
+    "Binary"
   ],
   "category": "Java",
-  "name": "Advanced",
+  "name": "Сериализация",
   "type": "vector",
   "img": "/img/java-icon.png"
 }

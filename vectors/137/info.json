@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "Аннотации",
+    "Reflection",
+    "Сеть",
+    "Сервлеты",
+    "Регулярные выражения",
+    "Java",
+    "Память"
+  ],
+  "category": "Java",
+  "name": "Заключение",
+  "type": "vector",
+  "img": "/img/java-icon.png"
+}
