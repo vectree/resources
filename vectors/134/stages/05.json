@@ -1,0 +1,15 @@
+{
+  "name": "Сервисы",
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 305
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "jFKrnW5ElMg"
+    }
+  ]
+}

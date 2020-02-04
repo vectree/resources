@@ -1,0 +1,15 @@
+{
+  "name": "Синхронизаторы",
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 306
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "XkAjmCIY2WI"
+    }
+  ]
+}
