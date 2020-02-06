@@ -1,20 +1,5 @@
 {
   "name": "Сеть",
-  "steps": [
-    {
-      "name": "Как работает сеть",
-      "type": "video",
-      "id": "JBXblIkWuJo"
-    },
-    {
-      "name": "Sockets client side",
-      "type": "video",
-      "id": "Jji5NPVmbAE"
-    },
-    {
-      "name": "Sockets server side",
-      "type": "video",
-      "id": "lKUb2IAdq3E"
-    }
-  ]
+  "type": "text",
+  "id": 293
 }
