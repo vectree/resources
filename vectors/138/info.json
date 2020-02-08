@@ -2,8 +2,13 @@
   "topics": [
     "PHP",
     "Yii 2.0",
+    "Laravel",
     "Composer",
-    "MySQL"
+    "SQL",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Веб-разработка"
   ],
   "type": "path",
   "name": "PHP",
@@ -12,6 +17,6 @@
   "salary": "до 30000 руб.",
   "complexity": 1,
   "mentors": true,
-  "time": "340 часов",
+  "time": "400 часов",
   "vectors": [47, 78, 68, 23, 75]
 }
