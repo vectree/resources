@@ -3,7 +3,7 @@
   "name": "Go",
   "img": "/img/golang.png",
   "salary": "до 35000 руб.",
-  "complexity": 2,
+  "complexity": 3,
   "time": "340 часов",
   "category": "Backend",
   "mentors": true,

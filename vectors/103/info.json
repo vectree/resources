@@ -12,7 +12,7 @@
   "name": "NodeJS",
   "category": "Fullstack",
   "salary": "до 30000 руб.",
-  "complexity": 3,
+  "complexity": 2,
   "mentors": true,
   "time": "400 часов",
   "vectors": [47, 78, 68, 100, 75]
