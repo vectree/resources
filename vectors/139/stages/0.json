@@ -1,15 +1,30 @@
 {
-  "name": "Аннотации",
+  "name": "Структура",
   "steps": [
     {
-      "name": "Создание",
-      "type": "video",
-      "id": "9BbxPd3GPeU"
+      "name": "Компоненты",
+      "type": "text",
+      "id": 327
     },
     {
-      "name": "Reflection API",
-      "type": "video",
-      "id": "y8gkmqFvybs"
+      "name": "Отдельный слой",
+      "type": "text",
+      "id": 328
+    },
+    {
+      "name": "Пакеты npm",
+      "type": "text",
+      "id": 329
+    },
+    {
+      "name": "Разделяйте",
+      "type": "text",
+      "id": 330
+    },
+    {
+      "name": "Конфигурация",
+      "type": "text",
+      "id": 331
     }
   ]
 }
