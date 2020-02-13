@@ -1,0 +1,10 @@
+{
+  "topics": [
+    "Структура проекта",
+    "NodeJS"
+  ],
+  "category": "NodeJS",
+  "name": "Лучшие практики",
+  "type": "vector",
+  "img": "/img/nodejs.png"
+}

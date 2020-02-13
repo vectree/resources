@@ -9,5 +9,6 @@
   "complexity": 2,
   "time": "400 часов",
   "mentors": true,
+  "ignore": true,
   "vectors": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 }
