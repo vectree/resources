@@ -1,0 +1,19 @@
+{
+  "topics": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Верстка",
+    "Дизайн",
+    "UX"
+  ],
+  "type": "path",
+  "name": "HTML / CSS",
+  "img": "/img/html.png",
+  "category": "Frontend",
+  "salary": "до 15000 руб.",
+  "complexity": 1,
+  "mentors": true,
+  "time": "200 часов",
+  "vectors": [47, 68, 75]
+}
