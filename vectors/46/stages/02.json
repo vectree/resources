@@ -1,5 +1,15 @@
 {
   "name": "Консоль разработчика",
-  "type": "text",
-  "id": 33
+  "steps": [
+    {
+      "type": "text",
+      "id": 33,
+      "name": "Конспект"
+    },
+    {
+      "id": "zaNtb4AqZDY",
+      "name": "Видео",
+      "type": "video"
+    }
+  ]
 }

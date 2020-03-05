@@ -1,5 +1,15 @@
 {
   "name": "Функции",
-  "type": "text",
-  "id": 34
+  "steps": [
+    {
+      "type": "text",
+      "id": 34,
+      "name": "Конспект"
+    },
+    {
+      "id": "aAQ3FnZIaoY",
+      "name": "Видео",
+      "type": "video"
+    }
+  ]
 }
