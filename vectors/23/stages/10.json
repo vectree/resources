@@ -1,5 +1,45 @@
 {
-  "name": "Ресурсы",
-  "type": "text",
-  "id": 325
+  "name": "Чистый код",
+  "steps": [
+    {
+      "name": "Введение",
+      "type": "text",
+      "id": 336
+    },
+    {
+      "name": "Переменные",
+      "type": "text",
+      "id": 337
+    },
+    {
+      "name": "Сравнение",
+      "type": "text",
+      "id": 338
+    },
+    {
+      "name": "Функции",
+      "type": "text",
+      "id": 339
+    },
+    {
+      "name": "Объекты",
+      "type": "text",
+      "id": 340
+    },
+    {
+      "name": "Классы",
+      "type": "text",
+      "id": 341
+    },
+    {
+      "name": "SOLID",
+      "type": "text",
+      "id": 342
+    },
+    {
+      "name": "DRY",
+      "type": "text",
+      "id": 343
+    }
+  ]
 }
