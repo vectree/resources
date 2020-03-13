@@ -1,0 +1,13 @@
+{
+  "topics": [
+    "Паттерны",
+    "JavaScript",
+    "Фасад",
+    "Модуль",
+    "Медиатор"
+  ],
+  "category": "JavaScript",
+  "name": "Паттерны",
+  "type": "vector",
+  "img": "/img/nodejs.png"
+}
