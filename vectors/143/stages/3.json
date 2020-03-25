@@ -1,0 +1,20 @@
+{
+  "name": "Терминал",
+  "steps": [
+    {
+      "name": "Конспект",
+      "type": "text",
+      "id": 17
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "cS8Omz1TIU0"
+    },
+    {
+      "name": "Доп. материалы",
+      "type": "digest",
+      "id": 19
+    }
+  ]
+}
