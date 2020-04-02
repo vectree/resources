@@ -1,5 +1,15 @@
 {
   "name": "Манипуляции с DOM",
-  "type": "text",
-  "id": 37
+  "steps": [
+    {
+      "type": "text",
+      "id": 37,
+      "name": "Конспект"
+    },
+    {
+      "type": "video",
+      "id": "K652dc38AOg",
+      "name": "Видео"
+    }
+  ]
 }

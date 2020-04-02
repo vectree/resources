@@ -1,5 +1,20 @@
 {
   "name": "Массивы",
-  "type": "text",
-  "id": 36
+  "steps": [
+    {
+      "type": "text",
+      "id": 36,
+      "name": "Конспект"
+    },
+    {
+      "type": "video",
+      "id": "bD7mXC03Yog",
+      "name": "Массивы"
+    },
+    {
+      "type": "video",
+      "id": "HVevuMugsJU",
+      "name": "Циклы"
+    }
+  ]
 }

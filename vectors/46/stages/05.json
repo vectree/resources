@@ -1,5 +1,15 @@
 {
   "name": "Чистый код",
-  "type": "text",
-  "id": 35
+  "steps": [
+    {
+      "type": "text",
+      "id": 35,
+      "name": "Конспект"
+    },
+    {
+      "type": "video",
+      "id": "FaUF-rOSTIE",
+      "name": "Видео"
+    }
+  ]
 }
