@@ -1,0 +1,7 @@
+{
+  "topics": ["Фреймворки", "Frameworks", "React", "Rails", "Express"],
+  "category": "Веб-разработка",
+  "type": "vector",
+  "icon": "fas fa-cog text-success",
+  "name": "Фреймворки"
+}
