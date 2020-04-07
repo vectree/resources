@@ -9,7 +9,12 @@
     {
       "type": "video",
       "id": "K652dc38AOg",
-      "name": "Видео"
+      "name": "DOM"
+    },
+    {
+      "type": "video",
+      "id": "t_gNoYGq5mk",
+      "name": "События"
     }
   ]
 }
