@@ -1,118 +1,30 @@
 {
   "topics": [
-    "html",
-    "html 5",
-    "верстка",
-    "web-разработка"
+    "Frontend",
+    "HTML"
   ],
   "resources": {
-    "Видео": [
+    "Учебники":[
       {
-        "creator": "Loftblog",
-        "title": "HTML",
-        "url": "https://www.youtube.com/watch?v=8mK5aY5YOCc&list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc"
-      },
-      {
-        "creator": "Magisters",
-        "title": "HTML",
-        "isAdvised": true,
-        "url": "https://www.youtube.com/watch?v=gGYV7Gb7LTo&list=PLypd1VrGv7FN_QkwB5UIcVcP61yaj1HKc"
-      }
-    ],
-    "Книги": [
-      {
-        "creator": "Элизабет Фримен, Эрик Фримен",
-        "title": "Изучаем HTML, XHTML и CSS",
-        "isAdvised": true,
-        "url": "https://www.ozon.ru/context/detail/id/22205119/"
-      }
-    ],
-    "Статьи": [
-      {
-        "creator": "Habrahabr",
-        "title": "Web-разработка",
-        "isAdvised": true,
-        "url": "https://habrahabr.ru/post/273795/"
-      },
-      {
-        "creator": "w3schools",
-        "title": "Все необходимые темы",
-        "url": "https://www.w3schools.com/html/default.asp",
-        "isAdvised": true,
-        "isEnglish": true
-      },
-      {
-        "creator": "MDN",
-        "title": "Все необходимые темы",
-        "url": "https://developer.mozilla.org/ru/docs/Learn/HTML",
+        "creator": "Webref",
+        "url": "https://webref.ru/tech/css3",
+        "title": "Русскоязычный ресурс от создателя htmlbook",
         "isAdvised": true
       },
       {
-        "creator": "Html5Book",
-        "title": "Все необходимые темы",
-        "url": "https://html5book.ru/",
+        "creator": "html5book",
+        "url": "https://html5book.ru/css-css3/",
+        "title": "Отличный и более современный аналог htmlbook",
         "isAdvised": true
-      },
-      {
-        "creator": "HtmlBook",
-        "title": "Справочник HTML",
-        "url": "http://htmlbook.ru/"
       }
     ],
-    "Онлайн курсы": [
+    "Полезные ссылки": [
       {
-        "creator": "Netology",
-        "title": "Все необходимые темы",
-        "url": "https://netology.ru/programs/html-css-base#/presentation"
-      },
-      {
-        "creator": "Stepik",
-        "title": "Все необходимые темы",
-        "url": "https://stepik.org/course/154/",
-        "sections": "Раздел 1.4"
-      },
-      {
-        "creator": "Hexlet",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "url": "https://ru.hexlet.io/courses/html",
-        "sections": "с 1 по 4 урок"
-      }
-    ],
-    "Интерактивные сервисы": [
-      {
-        "creator": "FreeCodeCamp",
-        "url": "https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works",
-        "title": "Все необходимые темы",
+        "creator": "OverAPI",
+        "url": "http://overapi.com/html",
+        "title": "Шпаргалка по HTML",
         "isAdvised": true,
         "isEnglish": true
-      },
-      {
-        "creator": "Html Academy",
-        "title": "Все необходимые темы",
-        "isNotFree": true,
-        "url": "https://htmlacademy.ru/"
-      },
-      {
-        "creator": "CodeSchool",
-        "title": "Все необходимые темы",
-        "sections": "Все HTML-секции",
-        "url": "https://www.codeschool.com/learn/html-css",
-        "isNotFree": true,
-        "isEnglish": true
-      },
-      {
-        "creator": "Codecademy",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "isEnglish": true,
-        "url": "https://www.codecademy.com/learn/learn-html"
-      },
-      {
-        "creator": "WebReference",
-        "title": "Все необходимые темы",
-        "isAdvised": true,
-        "url": "https://webref.ru/course"
       }
     ]
   }

@@ -1,15 +1,5 @@
 {
   "name": "Основы HTML и CSS",
-  "steps": [
-    {
-      "name": "Конспект",
-      "type": "text",
-      "id": 29
-    },
-    {
-      "name": "Доп. материалы",
-      "type": "digest",
-      "id": 58
-    }
-  ]
+  "type": "text",
+  "id": 29
 }

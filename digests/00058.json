@@ -1,23 +1,10 @@
 {
   "topics": [
     "Frontend",
-    "HTML",
     "CSS"
   ],
   "resources": {
     "Учебники":[
-      {
-        "creator": "Webref",
-        "url": "https://webref.ru/tech/css3",
-        "title": "Русскоязычный ресурс от создателя htmlbook",
-        "isAdvised": true
-      },
-      {
-        "creator": "html5book",
-        "url": "https://html5book.ru/css-css3/",
-        "title": "Отличный и более современный аналог htmlbook",
-        "isAdvised": true
-      },
       {
         "url": "http://learnlayout.com/",
         "creator": "Learn Layout",
@@ -58,13 +45,6 @@
       }
     ],
     "Полезные ссылки": [
-      {
-        "creator": "OverAPI",
-        "url": "http://overapi.com/html",
-        "title": "Шпаргалка по HTML",
-        "isAdvised": true,
-        "isEnglish": true
-      },
       {
         "creator": "OverAPI",
         "url": "http://overapi.com/css",
