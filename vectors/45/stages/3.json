@@ -1,5 +1,30 @@
 {
-  "name": "Консоль разработчика",
-  "type": "text",
-  "id": 30
+  "name": "Основы HTML",
+  "steps": [
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "PTbD-zRhEJg"
+    },
+    {
+        "name": "Структура",
+        "type": "code-task",
+        "id": 1
+    },
+    {
+        "name": "Теги",
+        "type": "code-task",
+        "id": 2
+    },
+    {
+        "name": "Блоки",
+        "type": "code-task",
+        "id": 3
+    },
+    {
+        "name": "Доп. материалы",
+        "type": "digest",
+        "id": 42
+    }
+  ]
 }
