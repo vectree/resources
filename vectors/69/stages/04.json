@@ -1,5 +1,14 @@
 {
-  "name": "Медиа",
-  "type": "text",
-  "id": 82
+  "name": "Проект: Youtube",
+  "steps": [
+    {
+      "type": "task",
+      "id": 144,
+      "name": "Задание"
+    },
+    {
+      "name": "Отправить решение",
+      "type": "solutions"
+    }
+  ]
 }

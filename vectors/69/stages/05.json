@@ -1,14 +1,25 @@
 {
-  "name": "Проект: Youtube",
+  "name": "Что нового в HTML5",
   "steps": [
-    {
-      "type": "task",
-      "id": 144,
-      "name": "Задание"
-    },
-    {
-      "name": "Отправить решение",
-      "type": "solutions"
-    }
+      {
+        "name": "Вводная",
+        "type": "text",
+        "id": 83
+      },
+      {
+          "name": "Видео",
+          "type": "video",
+          "id": "1YictPT3kuc"
+      },
+      {
+          "name": "Конспект урока",
+          "type": "text",
+          "id": 6
+      },
+      {
+        "name": "Практика: Структура",
+        "type": "code-task",
+        "id": 14
+      }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Доп. материалы",
-  "type": "digest",
-  "id": 43
+  "name": "Как работают браузеры?",
+  "type": "external",
+  "url": "https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/"
 }
