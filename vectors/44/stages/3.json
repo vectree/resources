@@ -1,0 +1,25 @@
+{
+  "name": "Ветвление в Git",
+  "steps": [
+      {
+          "name": "Видео",
+          "type": "video",
+          "id": "AgArpIbOHCQ"
+      },
+      {
+          "name": "Конспект",
+          "type": "text",
+          "id": 4
+      },
+      {
+          "name": "Доп. материалы",
+          "type": "digest",
+          "id": 17
+      },
+      {
+          "name": "Задание",
+          "type": "text",
+          "id": 5
+      }
+  ]
+}

@@ -1,5 +1,35 @@
 {
   "name": "Основы",
-  "type": "text",
-  "id": 80
+  "steps": [
+    {
+      "type": "text",
+      "id": 80,
+      "name": "Вводная"
+    },
+    {
+      "name": "Видео",
+      "type": "video",
+      "id": "PTbD-zRhEJg"
+    },
+    {
+        "name": "Структура",
+        "type": "code-task",
+        "id": 1
+    },
+    {
+        "name": "Теги",
+        "type": "code-task",
+        "id": 2
+    },
+    {
+        "name": "Блоки",
+        "type": "code-task",
+        "id": 3
+    },
+    {
+        "name": "Доп. материалы",
+        "type": "digest",
+        "id": 42
+    }
+  ]
 }

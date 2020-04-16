@@ -1,5 +1,34 @@
 {
   "name": "Таблицы",
-  "type": "text",
-  "id": 84
+  "steps": [
+    {
+      "name": "Вводная",
+      "type": "text",
+      "id": 84
+    },
+    {
+        "name": "Видео",
+        "type": "video",
+        "id": "k-Y14PP59hI"
+    },
+    {
+        "name": "Таблицы",
+        "type": "code-task",
+        "id": 11
+    },
+    {
+        "name": "Объединяем ячейки",
+        "type": "code-task",
+        "id": 12
+    },        {
+        "name": "Группировка",
+        "type": "code-task",
+        "id": 13
+    },
+    {
+        "name": "Доп. материалы",
+        "type": "digest",
+        "id": 52
+    }
+  ]
 }

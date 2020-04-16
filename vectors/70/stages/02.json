@@ -1,5 +1,45 @@
 {
   "name": "Формы",
-  "type": "text",
-  "id": 86
+  "steps": [
+    {
+      "name": "Вводная",
+      "type": "text",
+      "id": 86
+    },
+    {
+        "name": "Видео",
+        "type": "video",
+        "id": "kkZycSrR9nQ"
+    },
+    {
+        "name": "Форма",
+        "type": "code-task",
+        "id": 5
+    },
+    {
+        "name": "Поле ввода",
+        "type": "code-task",
+        "id": 6
+    },
+    {
+        "name": "Лейбл",
+        "type": "code-task",
+        "id": 7
+    },
+    {
+        "name": "Выпадающий список",
+        "type": "code-task",
+        "id": 8
+    },
+    {
+        "name": "Кнопка",
+        "type": "code-task",
+        "id": 9
+    },
+    {
+        "name": "Доп. материалы",
+        "type": "digest",
+        "id": 51
+    }
+  ]
 }

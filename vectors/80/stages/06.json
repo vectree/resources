@@ -1,5 +1,20 @@
 {
   "name": "Модули в ES6",
-  "type": "text",
-  "id": 132
+  "steps": [
+    {
+      "name": "Основы",
+      "type": "text",
+      "id": 132
+    },
+    {
+      "name": "NPM",
+      "type": "digest",
+      "id": 49
+    },
+    {
+      "name": "Тестирование",
+      "type": "quiz",
+      "id": 18
+    }
+  ]
 }
