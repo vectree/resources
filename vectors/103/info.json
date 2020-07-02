@@ -1,12 +1,5 @@
 {
-  "topics": [
-    "JavaScript",
-    "HTML",
-    "NodeJS",
-    "Express",
-    "CSS",
-    "Поиск работы"
-  ],
+  "topics": ["JavaScript", "HTML", "NodeJS", "Express", "CSS", "Поиск работы"],
   "type": "path",
   "img": "/img/nodejs.png",
   "name": "NodeJS",
@@ -15,5 +8,6 @@
   "complexity": 2,
   "mentors": true,
   "time": "600 часов",
-  "vectors": [144, 78, 68, 100, 140, 75]
+  "vectors": [144, 78, 68, 100, 140, 75],
+  "chatUrl": "/chat/5dacdf8b50f6019321f84565"
 }

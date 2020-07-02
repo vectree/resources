@@ -1,10 +1,5 @@
 {
-  "topics": [
-    "Go",
-    "Основы",
-    "Продвинутый",
-    "Введение"
-  ],
+  "topics": ["Go", "Основы", "Продвинутый", "Введение"],
   "type": "path",
   "name": "Go",
   "img": "/img/golang.png",
@@ -14,5 +9,6 @@
   "ignore": true,
   "mentors": true,
   "time": "200 часов",
-  "vectors": [123, 124, 125, 126]
+  "vectors": [123, 124, 125, 126],
+  "chatUrl": "/chat/5da8aa3050f6019321f66a93"
 }

@@ -1,12 +1,5 @@
 {
-  "topics": [
-    "HTML",
-    "CSS",
-    "Bootstrap",
-    "Верстка",
-    "Дизайн",
-    "UX"
-  ],
+  "topics": ["HTML", "CSS", "Bootstrap", "Верстка", "Дизайн", "UX"],
   "type": "path",
   "name": "HTML / CSS",
   "img": "/img/html.png",
@@ -15,5 +8,6 @@
   "complexity": 1,
   "mentors": true,
   "time": "200 часов",
-  "vectors": [144, 68, 75]
+  "vectors": [144, 68, 75],
+  "chatUrl": "/chat/5da8aa1d50f6019321f66a7d"
 }

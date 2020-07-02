@@ -1,11 +1,5 @@
 {
-  "topics": [
-    "HTML",
-    "CSS",
-    "Bootstrap",
-    "JavaScript",
-    "Поиск работы"
-  ],
+  "topics": ["HTML", "CSS", "Bootstrap", "JavaScript", "Поиск работы"],
   "type": "path",
   "name": "JavaScript",
   "img": "/img/javascript.png",
@@ -14,5 +8,6 @@
   "complexity": 1,
   "mentors": true,
   "time": "540 часов",
-  "vectors": [144, 78, 68, 140, 75]
+  "vectors": [144, 78, 68, 140, 75],
+  "chatUrl": "/chat/5da8aa2650f6019321f66a8c"
 }

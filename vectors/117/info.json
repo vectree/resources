@@ -21,5 +21,6 @@
   "mentors": true,
   "time": "140 часов",
   "ignore": true,
-  "vectors": [118, 119, 120, 121]
+  "vectors": [118, 119, 120, 121],
+  "chatUrl": "/chat/5e0298e850f601932114a51a"
 }

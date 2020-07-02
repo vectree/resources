@@ -24,5 +24,6 @@
   "mentors": true,
   "ignore": true,
   "time": "140 часов",
-  "vectors": [79, 80, 83, 84, 85, 86, 96, 97, 142]
+  "vectors": [79, 80, 83, 84, 85, 86, 96, 97, 142],
+  "chatUrl": "/chat/5da8aa2650f6019321f66a8c"
 }

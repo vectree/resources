@@ -17,5 +17,6 @@
   "complexity": 2,
   "mentors": true,
   "time": "70 часов",
-  "vectors": [60, 61, 63, 57, 64, 65, 66, 67]
+  "vectors": [60, 61, 63, 57, 64, 65, 66, 67],
+  "chatUrl": "/chat/5da8aa4250f6019321f66a9c"
 }

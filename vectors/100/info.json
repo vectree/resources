@@ -1,5 +1,13 @@
 {
-  "topics": ["Authentication", "Express", "NodeJS", "API", "Testing", "Тесты", "Аутентификация"],
+  "topics": [
+    "Authentication",
+    "Express",
+    "NodeJS",
+    "API",
+    "Testing",
+    "Тесты",
+    "Аутентификация"
+  ],
   "type": "path",
   "name": "NodeJS",
   "img": "/img/nodejs.png",
@@ -9,5 +17,6 @@
   "mentors": true,
   "ignore": true,
   "time": "70 часов",
-  "vectors": [98, 99, 101, 102, 105, 106, 139]
+  "vectors": [98, 99, 101, 102, 105, 106, 139],
+  "chatUrl": "/chat/5dacdf8b50f6019321f84565"
 }

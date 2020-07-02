@@ -1,12 +1,5 @@
 {
-  "topics": [
-    "JavaScript",
-    "HTML",
-    "Ruby",
-    "Rails",
-    "CSS",
-    "Поиск работы"
-  ],
+  "topics": ["JavaScript", "HTML", "Ruby", "Rails", "CSS", "Поиск работы"],
   "type": "path",
   "name": "Ruby",
   "icon": "fas fa-gem text-danger",
@@ -15,5 +8,6 @@
   "complexity": 3,
   "mentors": true,
   "time": "670 часов",
-  "vectors": [47, 51, 62, 68, 78, 140, 75]
+  "vectors": [47, 51, 62, 68, 78, 140, 75],
+  "chatUrl": "/chat/5da8aa4250f6019321f66a9c"
 }
