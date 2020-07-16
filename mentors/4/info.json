@@ -1,0 +1,17 @@
+{
+  "firstName": "Константин",
+  "secondName": "Брюханов",
+  "github": "d3pre5s",
+  "price": 1500,
+  "socialNetworks": [
+    {
+      "link": "https://github.com/d3pre5s", "icon": "fa fa-github"
+    },
+    {
+      "link": "https://linkedin.com/in/d3pre5s",
+      "icon": "fa fa-linkedin"
+    }
+  ],
+  "technologies": ["DevOps", "Docker", "CI/CD", "Gitlab CI", "Terraform", "Kubernetes", "Ansible"],
+  "avatarURL": "https://user-images.githubusercontent.com/4215285/87481882-f17a1700-c638-11ea-835f-33e114162542.jpeg"
+}
