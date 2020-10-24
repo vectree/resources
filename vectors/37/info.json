@@ -1,7 +1,7 @@
 {
   "topics": ["React", "Redux", "NodeJS", "GraphQL", "Тестирование", "TypeScript", "React Native", "Router"],
   "name": "React",
-  "category": "Frontend",
+  "category": "Fullstack",
   "img": "/img/react.png",
   "text": "Изучите React, Redux, Node.js, MongoDB, GraphQL и TypeScript за раз! Этот курс познакомит вас с современной веб-разработкой на основе JavaScript. Основное внимание уделяется созданию одностраничных приложений с помощью ReactJS, который общается посредством REST API с бэкендом, написанном на Node.js.",
   "salary": "до 25000 руб.",
