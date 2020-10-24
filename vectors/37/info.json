@@ -1,14 +1,13 @@
 {
-  "topics": ["React", "UI", "Frontend"],
+  "topics": ["React", "Redux", "NodeJS", "GraphQL", "Тестирование", "TypeScript", "React Native", "Router"],
   "name": "React",
   "category": "Frontend",
   "img": "/img/react.png",
-  "text": "React - бибилотека для разработки пользовательских интерфейсов, созданная при поддержке Facebook, Instagram. Является одной из самых популярных библиотек в мире фронтенда. В данной специализации будет рассмотрен также Redux, Router и другие библиотеки.",
+  "text": "React - бибилотека для разработки пользовательских интерфейсов, созданная при поддержке Facebook, Instagram. Является одной из самых популярных библиотек в мире фронтенда. В данном курсе будут рассмотрены GraphQL, Redux, NodeJS, Router и другие технологии.",
   "salary": "до 25000 руб.",
   "type": "path",
-  "complexity": 2,
+  "complexity": 4,
   "time": "400 часов",
   "mentors": true,
-  "ignore": true,
-  "vectors": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+  "vectors": [147]
 }

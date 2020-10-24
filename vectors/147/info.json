@@ -1,0 +1,7 @@
+{
+  "topics": ["JavaScript", "React", "HTML", "CSS"],
+  "category": "React",
+  "type": "vector",
+  "icon": "fas fa-flag text-success",
+  "name": "Основы веб-разработки"
+}
