@@ -2,7 +2,7 @@
   "firstName": "Илья",
   "secondName": "Иванчиков",
   "github": "IlyaIvanchikov",
-  "price": 500,
+  "price": 1000,
   "mentorId": "5dceffdd50f6019321058de6",
   "socialNetworks": [
     { "link": "https://github.com/IlyaIvanchikov", "icon": "fa fa-github" }
